@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Alliance News Dashboard — Oncology Consortium</title>
+  <meta name="description" content="Daily news roundup and stock ticker for the oncology consortium partner companies." />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Newsreader:opsz,wght@6..72,500;6..72,600&family=Inter:wght@400;500;600;700&family=IBM+Plex+Mono:wght@500;600&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header class="site-header">
+    <div class="wrap header-inner">
+      <div class="brand">
+        <div class="brand-mark" aria-hidden="true">●</div>
+        <div>
+          <h1>Alliance News Dashboard</h1>
+          <p class="tagline">Oncology consortium · 22 partner companies</p>
+        </div>
+      </div>
+      <div class="header-meta">
+        <div class="updated">Updated <span id="updated-time">—</span></div>
+        <div class="badges">
+          <span id="engine-badge" class="badge badge-engine" title="How news was prioritized">—</span>
+          <label class="date-picker-label" for="date-picker">View</label>
+          <select id="date-picker" class="date-picker" aria-label="Choose a day to view"></select>
+        </div>
+      </div>
+    </div>
+  </header>
+
+  <main class="wrap">
+    <div id="status" class="status" role="status">Loading the latest roundup…</div>
+
+    <!-- ===================== STOCK TICKER ===================== -->
+    <section id="stocks-section" class="panel hidden" aria-labelledby="stocks-heading">
+      <div class="section-head">
+        <h2 id="stocks-heading">Stock ticker</h2>
+        <p class="section-sub">Previous close &amp; daily change · <span id="stocks-asof">prior trading day</span></p>
+      </div>
+      <div id="stocks-grid" class="stocks-grid"></div>
+      <p class="fineprint">Prices are the last completed trading day's close. Tap any company for full details on Yahoo Finance. Not investment advice.</p>
+    </section>
+
+    <!-- ===================== NEWS ROUNDUP ===================== -->
+    <section id="news-section" class="panel hidden" aria-labelledby="news-heading">
+      <div class="section-head">
+        <h2 id="news-heading">News roundup</h2>
+        <p class="section-sub">Press releases, oncology &amp; industry news for the partner companies</p>
+      </div>
+
+      <div class="controls">
+        <div class="search-wrap">
+          <input id="search" type="search" class="search" placeholder="Filter by keyword (drug, trial, topic…)" aria-label="Filter news by keyword" />
+        </div>
+        <div id="company-filter" class="company-filter" aria-label="Filter by company"></div>
+      </div>
+
+      <div id="news-groups"></div>
+      <p id="no-results" class="status hidden">No items match your filters.</p>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="wrap">
+      <p>
+        Sources: company press releases (via the major PR wires), industry trades
+        (STAT News, Endpoints, Fierce, BioPharma Dive) and general business press,
+        aggregated through Google News. Priority is assigned
+        <span id="footer-engine">automatically</span>.
+      </p>
+      <p class="fineprint">
+        For internal use by the consortium alliance-management team. Headlines link to
+        their original publishers. Stock data is informational only and not investment advice.
+        Rebuilt automatically each morning.
+      </p>
+    </div>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>

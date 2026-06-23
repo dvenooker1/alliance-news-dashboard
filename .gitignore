@@ -1,0 +1,9 @@
+# Local tooling / environments — not part of the published site.
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+.claude/
+
+# Note: docs/ IS committed (it is the published website, including the daily
+# data.json and the dated archive files the GitHub Action regenerates).

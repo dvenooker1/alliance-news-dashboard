@@ -1,0 +1,59 @@
+name: Daily roundup
+
+# Rebuilds the dashboard data once a day and commits it to docs/ (which GitHub
+# Pages serves). You can also trigger it by hand from the Actions tab.
+on:
+  schedule:
+    # 09:00 UTC = 5:00 AM US Eastern in summer (EDT) / 4:00 AM in winter (EST),
+    # so the roundup is ready by 5 AM ET year-round. GitHub may start scheduled
+    # runs a few minutes late. To shift the time, change the line below
+    # (it is in UTC): e.g. "0 8 * * *" runs an hour earlier.
+    - cron: "0 9 * * *"
+  workflow_dispatch: {}   # manual "Run workflow" button
+
+# Don't let two runs overlap (e.g. a manual run during the scheduled one).
+concurrency:
+  group: daily-roundup
+  cancel-in-progress: false
+
+permissions:
+  contents: write          # needed to commit the regenerated data back to the repo
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - name: Check out the repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Build the roundup
+        env:
+          # Optional: set this repository secret to enable AI prioritization.
+          # Without it, the build automatically falls back to keyword rules.
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          # Optional: set this repository variable to choose the model
+          # (e.g. claude-haiku-4-5 to lower cost). Defaults to claude-opus-4-8.
+          CLASSIFIER_MODEL: ${{ vars.CLASSIFIER_MODEL }}
+        run: python scripts/build.py
+
+      - name: Commit the updated data
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add docs/data.json docs/archive
+          if git diff --staged --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "data: daily roundup $(date -u +%Y-%m-%d)"
+            git push
+          fi
