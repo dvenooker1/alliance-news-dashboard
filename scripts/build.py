@@ -30,6 +30,12 @@ ARCHIVE = os.path.join(DOCS, "archive")
 
 PRIORITY_ORDER = ["high", "medium", "low"]
 
+# Keep only the most important items in the top two buckets; everything past these
+# caps cascades down (high -> medium -> low), so the roundup opens with just the
+# stories that matter most to an alliance manager. Overridable via env vars.
+MAX_HIGH = int(os.environ.get("MAX_HIGH", "10"))
+MAX_MEDIUM = int(os.environ.get("MAX_MEDIUM", "15"))
+
 
 def _news_item_json(item):
     pub = item.get("published")
@@ -45,17 +51,33 @@ def _news_item_json(item):
     }
 
 
-def _sort_within_priority(items):
-    """High: oncology then press releases then recent. Others: most recent first."""
-    def ts(it):
-        p = it.get("published")
-        return p.timestamp() if p else 0
-    items.sort(key=lambda it: (
+def _rank_key(it):
+    """Descending sort key: importance, then oncology, press release, recency."""
+    p = it.get("published")
+    return (
+        it.get("importance") or 0,
         it.get("is_oncology", False),
         it.get("is_press_release", False),
-        ts(it),
-    ), reverse=True)
-    return items
+        p.timestamp() if p else 0,
+    )
+
+
+def _apply_caps(news):
+    """Bucket by assigned priority, then keep only the most important MAX_HIGH /
+    MAX_MEDIUM items in the top buckets, cascading the overflow downward so nothing
+    is lost — it just moves into a lower (collapsible) bucket."""
+    high = sorted((it for it in news if it.get("priority") == "high"),
+                  key=_rank_key, reverse=True)
+    medium = [it for it in news if it.get("priority") == "medium"]
+    low = [it for it in news if it.get("priority") == "low"]
+
+    keep_high, overflow_high = high[:MAX_HIGH], high[MAX_HIGH:]
+
+    medium = sorted(overflow_high + medium, key=_rank_key, reverse=True)
+    keep_medium, overflow_medium = medium[:MAX_MEDIUM], medium[MAX_MEDIUM:]
+
+    keep_low = sorted(overflow_medium + low, key=_rank_key, reverse=True)
+    return {"high": keep_high, "medium": keep_medium, "low": keep_low}
 
 
 def build():
@@ -69,12 +91,7 @@ def build():
     news = classify.classify(news)
     engine = "claude" if any(it.get("engine") == "claude" for it in news) else "keyword"
 
-    buckets = {p: [] for p in PRIORITY_ORDER}
-    for it in news:
-        buckets.get(it.get("priority", "low"), buckets["low"]).append(it)
-    for p in PRIORITY_ORDER:
-        _sort_within_priority(buckets[p])
-
+    buckets = _apply_caps(news)
     news_json = {p: [_news_item_json(it) for it in buckets[p]] for p in PRIORITY_ORDER}
     counts = {p: len(news_json[p]) for p in PRIORITY_ORDER}
     counts["total"] = sum(counts[p] for p in PRIORITY_ORDER)

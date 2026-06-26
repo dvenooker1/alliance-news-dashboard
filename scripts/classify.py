@@ -70,6 +70,19 @@ BUSINESS_TERMS = [
     "billion", "million deal",
 ]
 
+# Pivotal clinical / regulatory events — the highest-value news for an alliance
+# manager (trial readouts, approvals, failures). Used to rank importance.
+PIVOTAL_TERMS = [
+    "fda approv", "fda accept", "approval", "approved", "phase 3", "phase iii",
+    "phase ii/iii", "phase 2/3", "overall survival", "topline", "top-line",
+    "readout", "primary endpoint", "breakthrough therapy", "priority review",
+    "accelerated approval", "chmp", "complete response letter",
+    "meets primary", "met primary", "fails", "failed", "missed",
+]
+
+# High-value corporate events (large M&A) — important even when not oncology.
+DEAL_TERMS = ["acqui", "merger", "takeover", "buyout", "to buy", "billion"]
+
 
 def _matches(text, terms):
     return [t for t in terms if t in text]
@@ -102,11 +115,38 @@ def keyword_classify(item):
     return LOW, False
 
 
+def keyword_importance(item, priority, is_oncology):
+    """A 0-100 importance estimate for ranking (keyword fallback for Claude's score).
+
+    Tuned so an oncology alliance manager's top stories — pivotal cancer trial
+    results, FDA actions, big deals — float to the top, and corporate-fluff press
+    releases stay low even though every PR is nominally 'high' priority.
+    """
+    text = " {} {} ".format(item.get("title", ""), item.get("summary", "")).lower()
+    score = 5
+    if is_oncology:
+        score += 35
+        if _matches(text, PIVOTAL_TERMS):
+            score += 30          # pivotal oncology event — the most consequential news
+        elif _matches(text, CLINICAL_TERMS):
+            score += 15
+    elif _matches(text, PIVOTAL_TERMS):
+        score += 12              # non-oncology regulatory/clinical event
+    if item.get("is_press_release"):
+        score += 10
+    if _matches(text, DEAL_TERMS):
+        score += 18              # major M&A
+    elif priority == MEDIUM:
+        score += 8
+    return max(0, min(100, score))
+
+
 def classify_keyword(items):
     for item in items:
         priority, is_oncology = keyword_classify(item)
         item["priority"] = priority
         item["is_oncology"] = is_oncology
+        item["importance"] = keyword_importance(item, priority, is_oncology)
         item.setdefault("summary_ai", None)
         item["engine"] = "keyword"
     return items
@@ -138,7 +178,19 @@ _SYSTEM = (
     "items, generic market commentary, stock-movement-only stories).\n"
     "Also return is_oncology (is the item about cancer / oncology?), "
     "is_press_release (does it read as an official company announcement?), and a "
-    "single factual summary sentence of at most 24 words with no hype."
+    "single factual summary sentence of at most 24 words with no hype.\n"
+    "Finally, return an `importance` score from 0-100 for how much this matters to "
+    "an alliance manager who can only follow a handful of stories a day:\n"
+    "  90-100 = pivotal oncology trial results/readouts, FDA or regulatory "
+    "decisions on cancer drugs, or major deals (M&A) involving these companies.\n"
+    "  60-89  = other genuine oncology news, or significant business news.\n"
+    "  30-59  = routine corporate/business items (minor appointments, ordinary "
+    "earnings, sponsorships).\n"
+    "  0-29   = minor, off-topic, or stock-movement-only stories.\n"
+    "Reserve the top range for the genuinely most consequential stories — most "
+    "items should score below 60, and a corporate-communications press release "
+    "with no oncology/clinical/regulatory/deal substance should score low even "
+    "though it is a press release."
 )
 
 _SCHEMA = {
@@ -156,8 +208,9 @@ _SCHEMA = {
                     "is_oncology": {"type": "boolean"},
                     "is_press_release": {"type": "boolean"},
                     "summary": {"type": "string"},
+                    "importance": {"type": "integer", "minimum": 0, "maximum": 100},
                 },
-                "required": ["index", "priority", "is_oncology", "is_press_release", "summary"],
+                "required": ["index", "priority", "is_oncology", "is_press_release", "summary", "importance"],
             },
         }
     },
@@ -219,12 +272,14 @@ def classify_claude(items):
                 # Trust the model's PR judgment, but keep an upstream True (domain-based).
                 item["is_press_release"] = item.get("is_press_release") or bool(r["is_press_release"])
                 item["summary_ai"] = (r.get("summary") or "").strip() or None
+                item["importance"] = max(0, min(100, int(r.get("importance") or 0)))
                 item["engine"] = "claude"
             else:
                 priority, is_oncology = keyword_classify(item)
                 item["priority"] = priority
                 item["is_oncology"] = is_oncology
                 item["summary_ai"] = None
+                item["importance"] = keyword_importance(item, priority, is_oncology)
                 item["engine"] = "keyword"
     return items
 

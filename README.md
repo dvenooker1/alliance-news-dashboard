@@ -5,11 +5,16 @@ morning it rebuilds two things:
 
 1. **News roundup** — press releases, oncology news, and industry/business coverage
    for all 22 partner companies, sorted into **High / Medium / Low** priority.
-   - **High** — company press releases and anything directly oncology-related
-     (new trials, trial results/readouts, FDA actions on cancer drugs, oncology deals).
-   - **Medium** — major business news (mergers, acquisitions, earnings, executive changes).
-   - **Low** — everything else about these companies that isn't relevant to an
-     oncology alliance manager.
+   - **High** — the **10 most important** stories of the day for an alliance manager:
+     pivotal oncology news (trial results/readouts, FDA actions on cancer drugs,
+     oncology deals) and the biggest business news.
+   - **Medium** — the **next 15** most relevant items (other oncology news, mergers,
+     acquisitions, earnings, executive changes).
+   - **Low** — everything else about these companies (collapsed by default).
+
+   Every item is scored for importance, so High keeps only the top 10 and Medium the
+   next 15; anything past those caps falls into Low rather than being dropped. (The
+   caps are adjustable — see *Customizing* below.)
 2. **Stock ticker** — previous-day closing price and daily % change for every
    publicly-traded partner, each linking to its Yahoo Finance page.
 
@@ -104,8 +109,10 @@ aliases used to match it in the news). Both the news roundup and the stock ticke
 the change on the next build. The file has comments explaining each field.
 
 Other knobs (all optional, set as repository **Variables** or env vars):
+- `MAX_HIGH` — how many items to keep in **High** (default `10`).
+- `MAX_MEDIUM` — how many items to keep in **Medium** (default `15`).
 - `HOURS_LOOKBACK` — how far back to include news (default `30` hours).
-- `MAX_ITEMS` — cap on items per day (default `240`).
+- `MAX_ITEMS` — cap on total items per day (default `240`; the rest land in Low).
 - News sources (industry RSS feeds) are listed near the top of
   [`scripts/fetch_news.py`](scripts/fetch_news.py).
 

@@ -14,6 +14,7 @@ the recent window, and flagged as a press release when it comes from a PR wire o
 the company itself. Priority (high/medium/low) is assigned later by classify.py.
 """
 
+import html
 import re
 import time
 from datetime import datetime, timezone
@@ -80,10 +81,178 @@ def companies_in(text):
     return found
 
 
+def _clean_text(raw):
+    """Strip HTML tags, unescape entities, and collapse whitespace.
+
+    Some feeds (notably FierceBiotech / FiercePharma) wrap the headline in an
+    <a href="...">...</a> tag inside <title>, so the raw value is markup, not
+    text. Cleaning it also lets these items de-duplicate against the plain-text
+    copies the same stories arrive as via Google News.
+    """
+    if not raw:
+        return ""
+    text = re.sub(r"<[^>]+>", "", raw)
+    text = html.unescape(text)
+    return re.sub(r"\s+", " ", text).strip()
+
+
 def _norm_title(title):
     """Normalized key for de-duplication (lowercased alphanumerics, first words)."""
     words = re.findall(r"[a-z0-9]+", (title or "").lower())
     return " ".join(words[:12])
+
+
+# Common words that carry no signal when comparing two headlines.
+_STOP = {
+    "the", "and", "for", "with", "its", "from", "that", "this", "into", "amid",
+    "over", "after", "new", "says", "has", "will", "but", "are", "was", "were",
+    "first", "more", "than", "out", "off", "set", "get", "gets", "via",
+}
+
+
+def _sig_words(title):
+    """Significant words in a title (lowercased, >=4 chars, minus stopwords)."""
+    return {w for w in re.findall(r"[a-z0-9]+", (title or "").lower())
+            if len(w) >= 4 and w not in _STOP}
+
+
+# Cancer types and event types, used to recognize when two differently-worded
+# headlines are about the same oncology event. Keyed by a canonical label so that,
+# e.g., "NSCLC" and "lung cancer" count as the same indication. Tokens are matched
+# on word boundaries (so "miss" doesn't match "Commission", "colon" not "colonial").
+_INDICATIONS = {
+    "lung": ("lung", "nsclc", "sclc"),
+    "breast": ("breast",),
+    "prostate": ("prostate",),
+    "colorectal": ("colorectal", "colon", "rectal", "crc", "mcrc"),
+    "pancreatic": ("pancreatic", "pancreas"),
+    "ovarian": ("ovarian",),
+    "bladder": ("bladder", "urothelial"),
+    "gastric": ("gastric", "stomach"),
+    "melanoma": ("melanoma",),
+    "lymphoma": ("lymphoma",),
+    "leukemia": ("leukemia", "leukaemia"),
+    "myeloma": ("myeloma",),
+    "liver": ("hepatocellular",),
+    "kidney": ("renal",),
+    "cervical": ("cervical",),
+    "brain": ("glioma", "glioblastoma"),
+}
+_EVENTS = {
+    "approval": ("approv", "approves", "authoris", "authoriz", "clearance"),
+    "fail": ("fail", "fails", "failed", "miss", "misses", "missed", "falls short",
+             "setback", "sours", "falters"),
+    "start": ("initiat", "begins", "begin", "starts", "first patient", "doses first"),
+    "positive": ("meets primary", "met primary", "succeeds", "survival benefit",
+                 "hits primary", "positive results", "positive data"),
+    "submission": ("filing", "submits", "submission", "priority review"),
+}
+
+
+def _compile_terms(groups):
+    """Compile each label's tokens into one word-boundary regex (multiword tokens
+    keep internal spaces; \\b avoids matching inside longer words)."""
+    out = {}
+    for label, toks in groups.items():
+        out[label] = re.compile(r"\b(?:%s)" % "|".join(re.escape(t) for t in toks), re.I)
+    return out
+
+
+_IND_PATTERNS = _compile_terms(_INDICATIONS)
+_EVENT_PATTERNS = _compile_terms(_EVENTS)
+
+# Generic pharma/news words that are not distinctive enough to identify a story.
+# What remains after removing these (and company names) is mostly drug / product /
+# program names — a strong same-story signal when shared.
+_GENERIC = {
+    "approval", "approved", "approves", "european", "commission", "marketing",
+    "authorisation", "authorization", "regulatory", "tracker", "expands", "label",
+    "receives", "gains", "wins", "reports", "results", "result", "phase", "trial",
+    "trials", "study", "data", "cancer", "tumor", "tumour", "drug", "drugs",
+    "therapy", "therapies", "treatment", "agency", "late", "stage", "primary",
+    "endpoint", "survival", "disease", "oncology", "pharma", "pharmaceutical",
+    "pharmaceuticals", "company", "deal", "regimen", "mutant", "metastatic",
+    "metast", "version", "first", "line", "patients", "patient", "adult",
+    "combination", "laboratoires", "experimental", "global", "advanced", "press",
+}
+_COMPANY_WORDS = {
+    w for c in COMPANIES for a in c["aliases"]
+    for w in re.findall(r"[a-z0-9]+", a.lower()) if len(w) >= 4
+}
+
+
+def _onc_signature(title):
+    """(cancer-type set, event-type set) recognized in a headline."""
+    t = " {} ".format(title or "")
+    inds = {k for k, pat in _IND_PATTERNS.items() if pat.search(t)}
+    evs = {k for k, pat in _EVENT_PATTERNS.items() if pat.search(t)}
+    return inds, evs
+
+
+def _content_tokens(words):
+    """Distinctive tokens (drug/product/program names) — significant words minus
+    generic pharma terms and company names."""
+    return {w for w in words if w not in _GENERIC and w not in _COMPANY_WORDS}
+
+
+def _dedupe_near(items, threshold=0.6):
+    """Merge near-duplicate stories that the exact-title key misses — e.g. one wire
+    story reworded by several aggregators. Two items merge only if they share a
+    company, do NOT conflict on cancer type or event type, AND match on one of:
+      * heavy word overlap (Jaccard >= threshold);
+      * same cancer type + same event (catches "NSCLC trial fails" vs "lung cancer
+        drug misses goal");
+      * a shared distinctive token (drug/product name) together with a shared event
+        or cancer type (catches "EC approval for Braftovi" vs "EU approval for
+        Braftovi regimen").
+    The conflict guards keep genuinely different stories apart: a lung approval won't
+    merge with a bladder approval, nor an approval with a trial failure. Items are
+    assumed sorted best-first, so each cluster keeps its best-ranked copy."""
+    kept = []
+    sigs = []  # parallel to `kept`: dict(words, toks, comps, inds, evs)
+    for it in items:
+        words = _sig_words(it["title"])
+        toks = _content_tokens(words)
+        comps = set(it.get("companies", []))
+        inds, evs = _onc_signature(it["title"])
+        dup_of = None
+        for i, s in enumerate(sigs):
+            if not (comps & s["comps"]):
+                continue
+            # Hard blocks: named-but-different cancer type, or opposite event type.
+            if inds and s["inds"] and not (inds & s["inds"]):
+                continue
+            if evs and s["evs"] and not (evs & s["evs"]):
+                continue
+            union = words | s["words"]
+            jaccard = len(words & s["words"]) / len(union) if union else 0
+            inds_shared = bool(inds & s["inds"])
+            evs_shared = bool(evs & s["evs"])
+            toks_shared = bool(toks & s["toks"])
+            if (jaccard >= threshold
+                    or (inds_shared and evs_shared)
+                    or (toks_shared and (evs_shared or inds_shared))):
+                dup_of = i
+                break
+        if dup_of is None:
+            kept.append(it)
+            sigs.append({"words": words, "toks": toks, "comps": comps,
+                         "inds": inds, "evs": evs})
+            continue
+        keep = kept[dup_of]
+        for name in it["companies"]:
+            if name not in keep["companies"]:
+                keep["companies"].append(name)
+        keep["is_press_release"] = keep["is_press_release"] or it["is_press_release"]
+        if not keep["summary"] and it["summary"]:
+            keep["summary"] = it["summary"]
+        s = sigs[dup_of]
+        s["words"] |= words
+        s["toks"] |= toks
+        s["comps"] |= comps
+        s["inds"] |= inds
+        s["evs"] |= evs
+    return kept
 
 
 def _to_utc(entry):
@@ -146,7 +315,7 @@ def google_news_for(company):
         source = ""
         if entry.get("source") and entry.source.get("title"):
             source = entry.source.title
-        title = _strip_source_suffix(entry.get("title", ""), source)
+        title = _strip_source_suffix(_clean_text(entry.get("title", "")), source)
         link = entry.get("link", "")
         if not title or not link:
             continue
@@ -176,11 +345,11 @@ def industry_feed(name, url):
         return []
     items = []
     for entry in feed.entries:
-        title = (entry.get("title") or "").strip()
+        title = _clean_text(entry.get("title"))
         link = entry.get("link", "")
         if not title or not link:
             continue
-        summary = re.sub(r"<[^>]+>", "", entry.get("summary", "") or "")[:400]
+        summary = _clean_text(entry.get("summary", ""))[:400]
         tagged = companies_in("{} {}".format(title, summary))
         if not tagged:
             continue  # only keep trade items that actually mention our companies
@@ -256,6 +425,15 @@ def fetch_news():
         return (it["is_press_release"], it["origin"] == "industry", ts)
 
     items.sort(key=sort_key, reverse=True)
+
+    # Collapse near-duplicate stories (same event, reworded by different outlets)
+    # that slipped past the exact-title key. Done after the sort so each cluster
+    # keeps its best-ranked copy.
+    before = len(items)
+    items = _dedupe_near(items)
+    if len(items) < before:
+        print("Merged {} near-duplicate items.".format(before - len(items)))
+
     if len(items) > MAX_ITEMS:
         print("Capping {} items down to {}.".format(len(items), MAX_ITEMS))
         items = items[:MAX_ITEMS]
