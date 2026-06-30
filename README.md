@@ -144,7 +144,7 @@ GitHub Action (daily, 5 AM ET)
         │
         ├─ scripts/fetch_news.py    Google News (per company) + industry RSS feeds
         ├─ scripts/classify.py      sort into High / Medium / Low (keyword or Claude)
-        ├─ scripts/fetch_stocks.py  closing price + % change (Yahoo Finance, Stooq fallback)
+        ├─ scripts/fetch_stocks.py  closing price + % change (CNBC, then Nasdaq/Yahoo/Stooq)
         └─ scripts/build.py         writes docs/data.json + docs/archive/<date>.json
         │
         └─ commits docs/  ──►  GitHub Pages serves the static site
