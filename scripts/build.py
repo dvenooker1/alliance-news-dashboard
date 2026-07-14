@@ -22,7 +22,7 @@ except Exception:  # pragma: no cover - fallback if tz database is unavailable
 
 import classify
 from fetch_news import fetch_news
-from fetch_stocks import fetch_stocks
+from fetch_stocks import fetch_stocks, fetch_benchmarks
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 DOCS = os.path.join(ROOT, "docs")
@@ -96,8 +96,9 @@ def build():
     counts = {p: len(news_json[p]) for p in PRIORITY_ORDER}
     counts["total"] = sum(counts[p] for p in PRIORITY_ORDER)
 
-    # 2. Stocks
+    # 2. Stocks + market benchmarks
     stocks = fetch_stocks()
+    benchmarks = fetch_benchmarks()
 
     data = {
         "generated_at_utc": now_utc.strftime("%Y-%m-%dT%H:%M:%SZ"),
@@ -108,6 +109,7 @@ def build():
         "counts": counts,
         "news": news_json,
         "stocks": stocks,
+        "benchmarks": benchmarks,
     }
 
     # 3. Write outputs

@@ -207,9 +207,41 @@ COMPANIES = [
 ]
 
 
+# Market benchmarks shown alongside the company tickers for context (broad market
+# + biotech sector). These are NOT consortium members, so they live outside
+# COMPANIES and never touch news matching.
+#   ticker : CNBC symbol used to fetch the quote
+#   yahoo  : symbol used for the "more info" link
+#   kind   : "index" (shown as a level, no $) or "etf" (shown as a $ price)
+BENCHMARKS = [
+    {
+        "key": "sp500",
+        "name": "S&P 500",
+        "ticker": ".SPX",
+        "yahoo": "^GSPC",
+        "kind": "index",
+        "note": "Broad U.S. market",
+    },
+    {
+        "key": "xbi",
+        "name": "XBI",
+        "ticker": "XBI",
+        "yahoo": "XBI",
+        "kind": "etf",
+        "note": "SPDR S&P Biotech ETF",
+    },
+]
+
+
 def yahoo_url(ticker):
     """Yahoo Finance quote page for a ticker."""
     return "https://finance.yahoo.com/quote/{}".format(ticker)
+
+
+def benchmark_link(b):
+    """Yahoo Finance quote page for a benchmark (its ^-prefixed symbol url-encoded)."""
+    from urllib.parse import quote
+    return "https://finance.yahoo.com/quote/{}".format(quote(b["yahoo"], safe=""))
 
 
 def google_news_url(query):

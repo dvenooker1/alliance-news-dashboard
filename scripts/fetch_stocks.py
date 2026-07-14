@@ -20,7 +20,7 @@ import time
 
 import requests
 
-from companies import COMPANIES, link_for
+from companies import COMPANIES, BENCHMARKS, link_for, benchmark_link
 
 USER_AGENT = (
     "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 "
@@ -246,6 +246,31 @@ def fetch_stocks():
 
     priced = sum(1 for r in rows if r["price"] is not None)
     print("Priced {}/{} tickers.".format(priced, sum(1 for r in rows if r["ticker"])))
+    return rows
+
+
+def fetch_benchmarks():
+    """Quotes for the market benchmarks (S&P 500, XBI) shown above the company grid."""
+    rows = []
+    print("Fetching benchmarks...")
+    cnbc = get_via_cnbc([b["ticker"] for b in BENCHMARKS])
+    for b in BENCHMARKS:
+        row = {
+            "key": b["key"],
+            "name": b["name"],
+            "kind": b.get("kind"),
+            "note": b.get("note"),
+            "link": benchmark_link(b),
+        }
+        data = cnbc.get(b["ticker"].upper())
+        if not data:
+            data = get_via_yahoo(b["yahoo"]) or get_via_stooq(b["yahoo"])
+            time.sleep(0.3)
+        row.update(_quote_row(*data) if data else _empty_quote())
+        shown = "n/a" if row["price"] is None else "{} ({}%)".format(
+            row["price"], row["change_pct"])
+        print("  {:<12} {}".format(b["name"], shown))
+        rows.append(row)
     return rows
 
 

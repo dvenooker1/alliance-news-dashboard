@@ -22,6 +22,7 @@
     status: document.getElementById("status"),
     stocksSection: document.getElementById("stocks-section"),
     stocksGrid: document.getElementById("stocks-grid"),
+    benchmarks: document.getElementById("benchmarks"),
     newsSection: document.getElementById("news-section"),
     newsGroups: document.getElementById("news-groups"),
     noResults: document.getElementById("no-results"),
@@ -96,6 +97,35 @@
           '<div class="stock-change ' + ch.cls + '">' + ch.text + "</div>";
       }
       el.stocksGrid.appendChild(a);
+    });
+  }
+
+  function renderBenchmarks(list) {
+    el.benchmarks.innerHTML = "";
+    (list || []).forEach(function (b) {
+      var a = document.createElement("a");
+      a.href = b.link;
+      a.target = "_blank";
+      a.rel = "noopener";
+      a.className = "benchmark-card";
+
+      var priceText;
+      if (b.price == null) priceText = '<span class="stock-na">n/a</span>';
+      else if (b.kind === "index")
+        priceText = b.price.toLocaleString(undefined, { minimumFractionDigits: 2, maximumFractionDigits: 2 });
+      else priceText = "$" + b.price.toFixed(2);
+
+      var ch = fmtChange(b.change_pct);
+      a.innerHTML =
+        '<div class="benchmark-head">' +
+          '<span class="benchmark-name">' + esc(b.name) + "</span>" +
+          '<span class="benchmark-note">' + esc(b.note || "") + "</span>" +
+        "</div>" +
+        '<div class="benchmark-figs">' +
+          '<span class="benchmark-price">' + priceText + "</span>" +
+          '<span class="stock-change ' + ch.cls + '">' + ch.text + "</span>" +
+        "</div>";
+      el.benchmarks.appendChild(a);
     });
   }
 
@@ -274,6 +304,7 @@
     state.data = data;
     state.userExpanded.clear();
     renderMeta(data);
+    renderBenchmarks(data.benchmarks || []);
     renderStocks(data.stocks || []);
     buildChips(data);
     syncChips();

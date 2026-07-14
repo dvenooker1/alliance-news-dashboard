@@ -194,6 +194,37 @@ main { padding: 28px 0 10px; }
 .stock-change.neg { color: var(--neg); }
 .stock-change.flat { color: var(--ink-faint); }
 
+/* Market benchmarks — a distinct accented strip above the company grid. */
+.benchmarks-row {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+  gap: 10px;
+  margin-bottom: 14px;
+}
+.benchmark-card {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+  border: 1px solid var(--line);
+  border-left: 3px solid var(--accent);
+  border-radius: 10px;
+  padding: 11px 14px;
+  background: var(--accent-soft);
+  color: inherit;
+  transition: border-color .15s, transform .15s, box-shadow .15s;
+}
+.benchmark-card:hover {
+  text-decoration: none;
+  transform: translateY(-1px);
+  box-shadow: var(--shadow);
+}
+.benchmark-head { display: flex; flex-direction: column; gap: 2px; min-width: 0; }
+.benchmark-name { font-size: 14px; font-weight: 700; color: var(--ink); }
+.benchmark-note { font-size: 11px; color: var(--ink-soft); }
+.benchmark-figs { display: flex; flex-direction: column; align-items: flex-end; gap: 2px; }
+.benchmark-price { font-family: var(--font-mono); font-size: 19px; font-weight: 600; color: var(--ink); }
+
 .stock-card.untraded { background: #fbfcfd; }
 .stock-card.untraded .stock-price { font-size: 13px; font-family: var(--font-sans); color: var(--ink-soft); font-weight: 500; min-height: 2.4em; display: flex; align-items: center; }
 .stock-status-tag {
