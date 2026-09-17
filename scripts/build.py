@@ -23,6 +23,7 @@ except Exception:  # pragma: no cover - fallback if tz database is unavailable
 import classify
 from fetch_news import fetch_news
 from fetch_stocks import fetch_stocks, fetch_benchmarks
+from fetch_depmap import fetch_depmap
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 DOCS = os.path.join(ROOT, "docs")
@@ -100,6 +101,9 @@ def build():
     stocks = fetch_stocks()
     benchmarks = fetch_benchmarks()
 
+    # 3. DepMap literature watch
+    depmap = fetch_depmap()
+
     data = {
         "generated_at_utc": now_utc.strftime("%Y-%m-%dT%H:%M:%SZ"),
         "generated_at_et": now_et.strftime("%Y-%m-%d %I:%M %p %Z"),
@@ -110,9 +114,10 @@ def build():
         "news": news_json,
         "stocks": stocks,
         "benchmarks": benchmarks,
+        "depmap": depmap,
     }
 
-    # 3. Write outputs
+    # 4. Write outputs
     os.makedirs(ARCHIVE, exist_ok=True)
     _write(os.path.join(DOCS, "data.json"), data)
     _write(os.path.join(ARCHIVE, "{}.json".format(date_str)), data)

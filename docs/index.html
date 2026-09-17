@@ -52,6 +52,17 @@
       <p id="no-results" class="status hidden">No items match your filters.</p>
     </section>
 
+    <!-- ===================== DEPMAP RESEARCH ===================== -->
+    <section id="depmap-section" class="panel hidden" aria-labelledby="depmap-heading">
+      <div class="section-head">
+        <h2 id="depmap-heading">DepMap research</h2>
+        <p class="section-sub">Recent papers &amp; preprints referencing the Cancer Dependency Map</p>
+      </div>
+      <ul id="depmap-list" class="depmap-list"></ul>
+      <p id="depmap-empty" class="status hidden">No recent DepMap papers found.</p>
+      <p class="fineprint">Academic articles from Europe PMC (PubMed &amp; preprint servers) that cite or are built on DepMap. Newest first; not exhaustive.</p>
+    </section>
+
     <!-- ===================== STOCK TICKER ===================== -->
     <section id="stocks-section" class="panel hidden" aria-labelledby="stocks-heading">
       <div class="section-head">
@@ -69,13 +80,13 @@
       <p>
         Sources: company press releases (via the major PR wires), industry trades
         (STAT News, Endpoints, Fierce, BioPharma Dive) and general business press,
-        aggregated through Google News. Priority is assigned
-        <span id="footer-engine">automatically</span>.
+        aggregated through Google News; DepMap literature via Europe PMC. Priority is
+        assigned <span id="footer-engine">automatically</span>.
       </p>
       <p class="fineprint">
         For internal use by the consortium alliance-management team. Headlines link to
         their original publishers. Stock data is informational only and not investment advice.
-        Rebuilt automatically each morning.
+        Rebuilt automatically every Monday and Thursday morning.
       </p>
     </div>
   </footer>

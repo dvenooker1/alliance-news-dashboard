@@ -25,6 +25,9 @@
     benchmarks: document.getElementById("benchmarks"),
     newsSection: document.getElementById("news-section"),
     newsGroups: document.getElementById("news-groups"),
+    depmapSection: document.getElementById("depmap-section"),
+    depmapList: document.getElementById("depmap-list"),
+    depmapEmpty: document.getElementById("depmap-empty"),
     noResults: document.getElementById("no-results"),
     search: document.getElementById("search"),
     companyFilter: document.getElementById("company-filter"),
@@ -131,6 +134,34 @@
 
   function statusLabel(status) {
     return { private: "Private", subsidiary: "Subsidiary", acquired: "Acquired" }[status] || "—";
+  }
+
+  // ---------- DepMap research ----------
+  function fmtDate(d) {
+    if (!d) return "";
+    var dt = new Date(d + "T12:00:00");
+    if (isNaN(dt.getTime())) return d;
+    return dt.toLocaleDateString(undefined, { year: "numeric", month: "short", day: "numeric" });
+  }
+
+  function renderDepMap(depmap) {
+    var papers = (depmap && depmap.papers) || [];
+    el.depmapList.innerHTML = "";
+    el.depmapEmpty.classList.toggle("hidden", papers.length > 0);
+    papers.forEach(function (p) {
+      var li = document.createElement("li");
+      li.className = "depmap-item";
+      var badge = p.is_preprint ? '<span class="tag preprint">Preprint</span>' : "";
+      var meta = [];
+      if (p.journal) meta.push(esc(p.journal));
+      if (p.date) meta.push(esc(fmtDate(p.date)));
+      li.innerHTML =
+        '<div class="depmap-title"><a href="' + esc(p.link) + '" target="_blank" rel="noopener">' +
+        esc(p.title) + "</a></div>" +
+        (p.authors ? '<div class="depmap-authors">' + esc(p.authors) + "</div>" : "") +
+        '<div class="depmap-meta">' + badge + "<span>" + meta.join(" · ") + "</span></div>";
+      el.depmapList.appendChild(li);
+    });
   }
   function shortNote(note) {
     if (!note) return "Not publicly traded";
@@ -306,12 +337,14 @@
     renderMeta(data);
     renderBenchmarks(data.benchmarks || []);
     renderStocks(data.stocks || []);
+    renderDepMap(data.depmap);
     buildChips(data);
     syncChips();
     renderNews();
     el.status.classList.add("hidden");
     el.stocksSection.classList.remove("hidden");
     el.newsSection.classList.remove("hidden");
+    el.depmapSection.classList.remove("hidden");
   }
 
   function loadData(url) {
@@ -319,6 +352,7 @@
     el.status.textContent = "Loading…";
     el.stocksSection.classList.add("hidden");
     el.newsSection.classList.add("hidden");
+    el.depmapSection.classList.add("hidden");
     return fetch(url, { cache: "no-cache" })
       .then(function (r) { if (!r.ok) throw new Error(r.status); return r.json(); })
       .then(show)

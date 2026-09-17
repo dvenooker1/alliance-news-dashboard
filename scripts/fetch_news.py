@@ -30,13 +30,15 @@ USER_AGENT = (
     "(KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
 )
 
-# How far back to keep items (hours). The job runs ~once a day; 30h gives a little
-# slack so nothing is missed around the run time without pulling in stale news.
+# How far back to keep items (hours). The job runs Monday & Thursday, so the gap
+# between runs is up to ~4 days (Thu -> Mon); 100h covers that with a little slack
+# so nothing published between runs is missed.
 import os
-HOURS_LOOKBACK = int(os.environ.get("HOURS_LOOKBACK", "30"))
+HOURS_LOOKBACK = int(os.environ.get("HOURS_LOOKBACK", "100"))
 # Cap items sent downstream, to bound classification cost/time. Press releases and
 # industry-trade items are kept preferentially; the cap mostly trims general items.
-MAX_ITEMS = int(os.environ.get("MAX_ITEMS", "240"))
+# A little higher than for a daily run since the window is wider.
+MAX_ITEMS = int(os.environ.get("MAX_ITEMS", "300"))
 GOOGLE_PER_COMPANY = int(os.environ.get("GOOGLE_PER_COMPANY", "18"))
 
 # Publishers that indicate an official press release.
@@ -304,7 +306,7 @@ def _fetch(url):
 
 def google_news_for(company):
     """Recent Google News items for one company."""
-    query = '"{}" when:2d'.format(primary_query(company))
+    query = '"{}" when:5d'.format(primary_query(company))
     url = "https://news.google.com/rss/search?q={}&hl=en-US&gl=US&ceid=US:en".format(quote(query))
     feed = _fetch(url)
     if not feed:

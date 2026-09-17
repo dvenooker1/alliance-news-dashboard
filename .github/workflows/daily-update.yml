@@ -1,19 +1,21 @@
-name: Daily roundup
+name: Twice-weekly roundup
 
-# Rebuilds the dashboard data once a day and commits it to docs/ (which GitHub
-# Pages serves). You can also trigger it by hand from the Actions tab.
+# Rebuilds the dashboard data on Monday and Thursday mornings and commits it to
+# docs/ (which GitHub Pages serves). You can also trigger it by hand any time from
+# the Actions tab.
 on:
   schedule:
-    # 09:00 UTC = 5:00 AM US Eastern in summer (EDT) / 4:00 AM in winter (EST),
-    # so the roundup is ready by 5 AM ET year-round. GitHub may start scheduled
-    # runs a few minutes late. To shift the time, change the line below
-    # (it is in UTC): e.g. "0 8 * * *" runs an hour earlier.
-    - cron: "0 9 * * *"
+    # "0 9 * * 1,4" = 09:00 UTC on Monday (1) and Thursday (4). 09:00 UTC is
+    # 5:00 AM US Eastern in summer (EDT) / 4:00 AM in winter (EST), so the roundup
+    # is ready by 5 AM ET on those mornings. GitHub may start scheduled runs a few
+    # minutes late. To change the days, edit the day-of-week field (0=Sun..6=Sat);
+    # to change the time, edit the hour field (it is in UTC).
+    - cron: "0 9 * * 1,4"
   workflow_dispatch: {}   # manual "Run workflow" button
 
 # Don't let two runs overlap (e.g. a manual run during the scheduled one).
 concurrency:
-  group: daily-roundup
+  group: roundup
   cancel-in-progress: false
 
 permissions:
@@ -54,6 +56,6 @@ jobs:
           if git diff --staged --quiet; then
             echo "No changes to commit."
           else
-            git commit -m "data: daily roundup $(date -u +%Y-%m-%d)"
+            git commit -m "data: roundup $(date -u +%Y-%m-%d)"
             git push
           fi
