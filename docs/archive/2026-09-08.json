@@ -1,0 +1,650 @@
+{
+  "generated_at_utc": "2026-09-08T13:22:55Z",
+  "generated_at_et": "2026-09-08 09:22 AM EDT",
+  "date": "2026-09-08",
+  "classifier": "keyword",
+  "model": null,
+  "counts": {
+    "high": 3,
+    "medium": 12,
+    "low": 9,
+    "total": 24
+  },
+  "news": {
+    "high": [
+      {
+        "title": "AbbVie’s bispecific T-cell engager shows promise in ph. 3 multiple myeloma trial",
+        "link": "https://www.fiercebiotech.com/biotech/abbvies-bispecific-t-cell-engager-shows-promise-ph-3-multiple-myeloma-trial",
+        "source": "FierceBiotech",
+        "published": null,
+        "companies": [
+          "AbbVie"
+        ],
+        "is_oncology": true,
+        "is_press_release": false,
+        "summary": null
+      },
+      {
+        "title": "Pfizer offloads scrapped Seagen ADC to Medicus Pharma in up to $1B+ deal",
+        "link": "https://www.fiercebiotech.com/biotech/pfizer-offloads-scrapped-seagen-adc-medicus-pharma-1b-deal",
+        "source": "FierceBiotech",
+        "published": null,
+        "companies": [
+          "Pfizer"
+        ],
+        "is_oncology": true,
+        "is_press_release": false,
+        "summary": null
+      },
+      {
+        "title": "GSK pens $1.3B Hutchmed deal for early-stage KRAS-EGFR cancer asset",
+        "link": "https://www.fiercebiotech.com/biotech/gsk-pens-13b-hutchmed-deal-early-stage-kras-egfr-cancer-asset",
+        "source": "FierceBiotech",
+        "published": null,
+        "companies": [
+          "GSK"
+        ],
+        "is_oncology": true,
+        "is_press_release": false,
+        "summary": null
+      }
+    ],
+    "medium": [
+      {
+        "title": "Novartis stock slides as centerpiece of $12B Avidity buyout flunks ‘crucial’ phase 3 test",
+        "link": "https://www.fiercebiotech.com/biotech/novartis-centerpiece-12b-avidity-buyout-flunks-crucial-phase-3-test",
+        "source": "FierceBiotech",
+        "published": null,
+        "companies": [
+          "Novartis"
+        ],
+        "is_oncology": false,
+        "is_press_release": false,
+        "summary": null
+      },
+      {
+        "title": "Fierce Pharma Asia—Roche, GSK, Novartis billion-dollar deals; More MFN sign-ups; Akeso’s OS win",
+        "link": "https://www.fiercepharma.com/pharma/roche-gsk-novartis-billion-dollar-deals-more-mfn-sign-ups-akeso-os-win",
+        "source": "FiercePharma",
+        "published": null,
+        "companies": [
+          "GSK",
+          "Novartis",
+          "Roche"
+        ],
+        "is_oncology": false,
+        "is_press_release": false,
+        "summary": null
+      },
+      {
+        "title": "#ERS26: Roivant reports Phase 2 win for lung disease drug that it got from Bayer",
+        "link": "https://endpoints.news/ers26-roivant-reports-phase-2-win-for-lung-disease-drug-that-it-got-from-bayer/",
+        "source": "Endpoints News",
+        "published": "2026-09-08T10:00:00+00:00",
+        "companies": [
+          "Bayer"
+        ],
+        "is_oncology": false,
+        "is_press_release": false,
+        "summary": null
+      },
+      {
+        "title": "Novartis' Phase 3 pelacarsen study miss raises the stakes for Amgen, Lilly",
+        "link": "https://endpoints.news/novartis-phase-3-pelacarsen-study-miss-raises-the-stakes-for-amgen-lilly/",
+        "source": "Endpoints News",
+        "published": "2026-09-07T14:48:28+00:00",
+        "companies": [
+          "Amgen",
+          "Eli Lilly",
+          "Novartis"
+        ],
+        "is_oncology": false,
+        "is_press_release": false,
+        "summary": null
+      },
+      {
+        "title": "Updated: Novartis sinks after second disastrous trial failure, this time of Avidity-acquired drug",
+        "link": "https://endpoints.news/novartis-sinks-after-second-disastrous-trial-failure-this-time-of-avidity-acquired-drug/",
+        "source": "Endpoints News",
+        "published": "2026-09-08T08:24:44+00:00",
+        "companies": [
+          "Novartis"
+        ],
+        "is_oncology": false,
+        "is_press_release": false,
+        "summary": null
+      },
+      {
+        "title": "Novartis inks $3.2B subcutaneous drug delivery deal with Alteogen",
+        "link": "https://www.fiercebiotech.com/biotech/novartis-inks-32b-subcutaneous-drug-delivery-deal-alteogen",
+        "source": "FierceBiotech",
+        "published": null,
+        "companies": [
+          "GSK",
+          "Novartis"
+        ],
+        "is_oncology": false,
+        "is_press_release": false,
+        "summary": null
+      },
+      {
+        "title": "Roivant’s $14M bet on Bayer’s inhaled hypertension med pays off with phase 2 win",
+        "link": "https://www.fiercebiotech.com/biotech/roivants-14m-bet-bayers-inhaled-hypertension-med-pays-phase-2-win",
+        "source": "FierceBiotech",
+        "published": null,
+        "companies": [
+          "Bayer"
+        ],
+        "is_oncology": false,
+        "is_press_release": false,
+        "summary": null
+      },
+      {
+        "title": "AbbVie-backed ADARx plans IPO to bankroll array of clinical-stage siRNA therapies",
+        "link": "https://www.fiercebiotech.com/biotech/abbvie-backed-adarx-plans-ipo-fund-array-clinical-stage-sirna-therapies",
+        "source": "FierceBiotech",
+        "published": null,
+        "companies": [
+          "AbbVie"
+        ],
+        "is_oncology": false,
+        "is_press_release": false,
+        "summary": null
+      },
+      {
+        "title": "Fierce Biotech Layoff Tracker 2026: Novartis nixes Swiss site; TScan telegraphs 75% headcount drop",
+        "link": "https://www.fiercebiotech.com/biotech/fierce-biotech-layoff-tracker-2026",
+        "source": "FierceBiotech",
+        "published": null,
+        "companies": [
+          "Novartis"
+        ],
+        "is_oncology": false,
+        "is_press_release": false,
+        "summary": null
+      },
+      {
+        "title": "Novartis telegraphs 130 job cuts amid biologics rethink in Switzerland",
+        "link": "https://www.fiercebiotech.com/pharma/novartis-telegraphs-130-job-cuts-amid-biologics-rethink-switzerland",
+        "source": "FierceBiotech",
+        "published": null,
+        "companies": [
+          "Novartis"
+        ],
+        "is_oncology": false,
+        "is_press_release": false,
+        "summary": null
+      },
+      {
+        "title": "Novartis puts MS advocacy on the podium through social media partnership with British Olympian",
+        "link": "https://www.fiercepharma.com/marketing/novartis-puts-ms-advocacy-podium-through-social-media-partnership-british-olympian",
+        "source": "FiercePharma",
+        "published": null,
+        "companies": [
+          "Novartis"
+        ],
+        "is_oncology": false,
+        "is_press_release": false,
+        "summary": null
+      },
+      {
+        "title": "Cellares downsizes New Jersey operations after losing BMS cell therapy contract",
+        "link": "https://www.fiercepharma.com/pharma/cellares-restructuring-rolls-new-jersey-amid-cell-therapy-client-loss",
+        "source": "FiercePharma",
+        "published": null,
+        "companies": [
+          "Bristol Myers Squibb"
+        ],
+        "is_oncology": false,
+        "is_press_release": false,
+        "summary": null
+      }
+    ],
+    "low": [
+      {
+        "title": "STAT+: Neuromuscular drug from Novartis fails in key study, adding to pressure on company",
+        "link": "https://www.statnews.com/2026/09/08/novartis-del-desiran-myotonic-dystrophy-harbor-trial-failure-neuromuscular/?utm_campaign=rss",
+        "source": "STAT News",
+        "published": "2026-09-08T07:28:55+00:00",
+        "companies": [
+          "Novartis"
+        ],
+        "is_oncology": false,
+        "is_press_release": false,
+        "summary": null
+      },
+      {
+        "title": "Why Roche is 'really excited' about a UCN2 analog for obesity after seeing preclinical data",
+        "link": "https://www.fiercebiotech.com/biotech/why-roche-was-really-excited-using-ucn2-analog-treat-obesity-after-viewing-preclinical-data",
+        "source": "FierceBiotech",
+        "published": null,
+        "companies": [
+          "Roche"
+        ],
+        "is_oncology": false,
+        "is_press_release": false,
+        "summary": null
+      },
+      {
+        "title": "Roche sweeps neurology corporate reputation rankings once again",
+        "link": "https://www.fiercepharma.com/marketing/roche-sweeps-neurology-corporate-reputation-rankings-once-again",
+        "source": "FiercePharma",
+        "published": null,
+        "companies": [
+          "Roche"
+        ],
+        "is_oncology": false,
+        "is_press_release": false,
+        "summary": null
+      },
+      {
+        "title": "The Oral GLP-1 Tracker: Novo's Wegovy pill, Lilly's Foundayo grow scripts",
+        "link": "https://www.fiercepharma.com/pharma/oral-glp-1-tracker-launch-trajectories-lilly-foundayo-novo-wegovy-pill",
+        "source": "FiercePharma",
+        "published": null,
+        "companies": [
+          "Eli Lilly"
+        ],
+        "is_oncology": false,
+        "is_press_release": false,
+        "summary": null
+      },
+      {
+        "title": "UCB’s Bimzelx comes from out of the blue to claim August’s top pharma ad spending spot",
+        "link": "https://www.fiercepharma.com/marketing/ucbs-bimzelx-comes-out-blue-claim-augusts-top-pharma-ad-spending-spot",
+        "source": "FiercePharma",
+        "published": null,
+        "companies": [
+          "AbbVie"
+        ],
+        "is_oncology": false,
+        "is_press_release": false,
+        "summary": null
+      },
+      {
+        "title": "ESC: Amgen CMO flags Repatha 'inflection' amid new data on mortality benefit",
+        "link": "https://www.fiercepharma.com/pharma/esc-amgen-cmo-flags-repatha-inflection-mortality-data-headline-cardiology-conference-outing",
+        "source": "FiercePharma",
+        "published": null,
+        "companies": [
+          "Amgen"
+        ],
+        "is_oncology": false,
+        "is_press_release": false,
+        "summary": null
+      },
+      {
+        "title": "Trump GLP-1 update teases blockbuster annual sales for Lilly from Medicare program: analyst",
+        "link": "https://www.fiercepharma.com/pharma/trump-glp-1-update-suggests-blockbuster-annual-sales-lilly-medicare-program-analyst",
+        "source": "FiercePharma",
+        "published": null,
+        "companies": [
+          "Eli Lilly"
+        ],
+        "is_oncology": false,
+        "is_press_release": false,
+        "summary": null
+      },
+      {
+        "title": "Galderma, Novartis dominated ad space last NFL season with most effective ads: report",
+        "link": "https://www.fiercepharma.com/marketing/galderma-novartis-dominated-ad-space-during-last-nfl-season-most-effective-ads-report",
+        "source": "FiercePharma",
+        "published": null,
+        "companies": [
+          "Novartis"
+        ],
+        "is_oncology": false,
+        "is_press_release": false,
+        "summary": null
+      },
+      {
+        "title": "Rising Stars: Genentech’s Tiffany William brings a 'fail fast, learn fast' marketing mentality",
+        "link": "https://www.fiercepharma.com/marketing/rising-stars-gaming-pharma-genentechs-tiffany-william-brings-fail-fast-learn-fast",
+        "source": "FiercePharma",
+        "published": null,
+        "companies": [
+          "Genentech"
+        ],
+        "is_oncology": false,
+        "is_press_release": false,
+        "summary": null
+      }
+    ]
+  },
+  "stocks": [
+    {
+      "key": "abbvie",
+      "name": "AbbVie",
+      "ticker": "ABBV",
+      "ticker_note": null,
+      "status": "public",
+      "note": null,
+      "link": "https://finance.yahoo.com/quote/ABBV",
+      "price": 256.46,
+      "change_pct": 0.0,
+      "prev_close": 256.46,
+      "currency": "USD",
+      "source": "CNBC"
+    },
+    {
+      "key": "amgen",
+      "name": "Amgen",
+      "ticker": "AMGN",
+      "ticker_note": null,
+      "status": "public",
+      "note": null,
+      "link": "https://finance.yahoo.com/quote/AMGN",
+      "price": 437.23,
+      "change_pct": 0.0,
+      "prev_close": 437.23,
+      "currency": "USD",
+      "source": "CNBC"
+    },
+    {
+      "key": "bayer",
+      "name": "Bayer",
+      "ticker": "BAYRY",
+      "ticker_note": "ADR",
+      "status": "public",
+      "note": null,
+      "link": "https://finance.yahoo.com/quote/BAYRY",
+      "price": 14.19,
+      "change_pct": 0.0,
+      "prev_close": 14.19,
+      "currency": "USD",
+      "source": "CNBC"
+    },
+    {
+      "key": "bms",
+      "name": "Bristol Myers Squibb",
+      "ticker": "BMY",
+      "ticker_note": null,
+      "status": "public",
+      "note": null,
+      "link": "https://finance.yahoo.com/quote/BMY",
+      "price": 66.82,
+      "change_pct": 0.0,
+      "prev_close": 66.82,
+      "currency": "USD",
+      "source": "CNBC"
+    },
+    {
+      "key": "boehringer",
+      "name": "Boehringer Ingelheim",
+      "ticker": null,
+      "ticker_note": null,
+      "status": "private",
+      "note": "Privately held — not publicly traded",
+      "link": "https://news.google.com/search?q=Boehringer+Ingelheim&hl=en-US&gl=US&ceid=US:en",
+      "price": null,
+      "change_pct": null,
+      "prev_close": null,
+      "currency": "USD",
+      "source": null
+    },
+    {
+      "key": "deciphera",
+      "name": "Deciphera",
+      "ticker": null,
+      "ticker_note": null,
+      "status": "acquired",
+      "note": "Acquired by Ono Pharmaceutical (2024) — no longer publicly traded",
+      "link": "https://news.google.com/search?q=Deciphera&hl=en-US&gl=US&ceid=US:en",
+      "price": null,
+      "change_pct": null,
+      "prev_close": null,
+      "currency": "USD",
+      "source": null
+    },
+    {
+      "key": "exelixis",
+      "name": "Exelixis",
+      "ticker": "EXEL",
+      "ticker_note": null,
+      "status": "public",
+      "note": null,
+      "link": "https://finance.yahoo.com/quote/EXEL",
+      "price": 59.01,
+      "change_pct": 0.0,
+      "prev_close": 59.01,
+      "currency": "USD",
+      "source": "CNBC"
+    },
+    {
+      "key": "genentech",
+      "name": "Genentech",
+      "ticker": "RHHBY",
+      "ticker_note": "via Roche",
+      "status": "subsidiary",
+      "note": "Member of the Roche Group — shows Roche (RHHBY)",
+      "link": "https://finance.yahoo.com/quote/RHHBY",
+      "price": 54.97,
+      "change_pct": 0.0,
+      "prev_close": 54.97,
+      "currency": "USD",
+      "source": "CNBC"
+    },
+    {
+      "key": "gilead",
+      "name": "Gilead Sciences",
+      "ticker": "GILD",
+      "ticker_note": null,
+      "status": "public",
+      "note": null,
+      "link": "https://finance.yahoo.com/quote/GILD",
+      "price": 151.0,
+      "change_pct": 0.0,
+      "prev_close": 151.0,
+      "currency": "USD",
+      "source": "CNBC"
+    },
+    {
+      "key": "gsk",
+      "name": "GSK",
+      "ticker": "GSK",
+      "ticker_note": null,
+      "status": "public",
+      "note": null,
+      "link": "https://finance.yahoo.com/quote/GSK",
+      "price": 49.89,
+      "change_pct": 0.0,
+      "prev_close": 49.89,
+      "currency": "USD",
+      "source": "CNBC"
+    },
+    {
+      "key": "ideaya",
+      "name": "IDEAYA Biosciences",
+      "ticker": "IDYA",
+      "ticker_note": null,
+      "status": "public",
+      "note": null,
+      "link": "https://finance.yahoo.com/quote/IDYA",
+      "price": 39.86,
+      "change_pct": 0.0,
+      "prev_close": 39.86,
+      "currency": "USD",
+      "source": "CNBC"
+    },
+    {
+      "key": "incyte",
+      "name": "Incyte",
+      "ticker": "INCY",
+      "ticker_note": null,
+      "status": "public",
+      "note": null,
+      "link": "https://finance.yahoo.com/quote/INCY",
+      "price": 126.75,
+      "change_pct": 0.0,
+      "prev_close": 126.75,
+      "currency": "USD",
+      "source": "CNBC"
+    },
+    {
+      "key": "janssen",
+      "name": "Janssen",
+      "ticker": "JNJ",
+      "ticker_note": "via J&J",
+      "status": "subsidiary",
+      "note": "J&J's pharmaceutical unit — shows Johnson & Johnson (JNJ)",
+      "link": "https://finance.yahoo.com/quote/JNJ",
+      "price": 275.23,
+      "change_pct": 0.0,
+      "prev_close": 275.23,
+      "currency": "USD",
+      "source": "CNBC"
+    },
+    {
+      "key": "lilly",
+      "name": "Eli Lilly",
+      "ticker": "LLY",
+      "ticker_note": null,
+      "status": "public",
+      "note": null,
+      "link": "https://finance.yahoo.com/quote/LLY",
+      "price": 1149.36,
+      "change_pct": 0.0,
+      "prev_close": 1149.36,
+      "currency": "USD",
+      "source": "CNBC"
+    },
+    {
+      "key": "merck",
+      "name": "Merck & Co.",
+      "ticker": "MRK",
+      "ticker_note": null,
+      "status": "public",
+      "note": "Merck & Co. (US) — maker of Keytruda",
+      "link": "https://finance.yahoo.com/quote/MRK",
+      "price": 150.33,
+      "change_pct": 0.0,
+      "prev_close": 150.33,
+      "currency": "USD",
+      "source": "CNBC"
+    },
+    {
+      "key": "novartis",
+      "name": "Novartis",
+      "ticker": "NVS",
+      "ticker_note": "ADR",
+      "status": "public",
+      "note": null,
+      "link": "https://finance.yahoo.com/quote/NVS",
+      "price": 159.99,
+      "change_pct": 0.0,
+      "prev_close": 159.99,
+      "currency": "USD",
+      "source": "CNBC"
+    },
+    {
+      "key": "pfizer",
+      "name": "Pfizer",
+      "ticker": "PFE",
+      "ticker_note": null,
+      "status": "public",
+      "note": null,
+      "link": "https://finance.yahoo.com/quote/PFE",
+      "price": 28.45,
+      "change_pct": 0.0,
+      "prev_close": 28.45,
+      "currency": "USD",
+      "source": "CNBC"
+    },
+    {
+      "key": "pierre_fabre",
+      "name": "Pierre Fabre",
+      "ticker": null,
+      "ticker_note": null,
+      "status": "private",
+      "note": "Foundation-owned — not publicly traded",
+      "link": "https://news.google.com/search?q=Pierre+Fabre&hl=en-US&gl=US&ceid=US:en",
+      "price": null,
+      "change_pct": null,
+      "prev_close": null,
+      "currency": "USD",
+      "source": null
+    },
+    {
+      "key": "revmed",
+      "name": "Revolution Medicines",
+      "ticker": "RVMD",
+      "ticker_note": null,
+      "status": "public",
+      "note": null,
+      "link": "https://finance.yahoo.com/quote/RVMD",
+      "price": 210.02,
+      "change_pct": 0.0,
+      "prev_close": 210.02,
+      "currency": "USD",
+      "source": "CNBC"
+    },
+    {
+      "key": "roche",
+      "name": "Roche",
+      "ticker": "RHHBY",
+      "ticker_note": "ADR",
+      "status": "public",
+      "note": null,
+      "link": "https://finance.yahoo.com/quote/RHHBY",
+      "price": 54.97,
+      "change_pct": 0.0,
+      "prev_close": 54.97,
+      "currency": "USD",
+      "source": "CNBC"
+    },
+    {
+      "key": "servier",
+      "name": "Servier",
+      "ticker": null,
+      "ticker_note": null,
+      "status": "private",
+      "note": "Foundation-owned — not publicly traded",
+      "link": "https://news.google.com/search?q=Servier&hl=en-US&gl=US&ceid=US:en",
+      "price": null,
+      "change_pct": null,
+      "prev_close": null,
+      "currency": "USD",
+      "source": null
+    },
+    {
+      "key": "takeda",
+      "name": "Takeda",
+      "ticker": "TAK",
+      "ticker_note": "ADR",
+      "status": "public",
+      "note": null,
+      "link": "https://finance.yahoo.com/quote/TAK",
+      "price": 18.45,
+      "change_pct": 0.0,
+      "prev_close": 18.45,
+      "currency": "USD",
+      "source": "CNBC"
+    }
+  ],
+  "benchmarks": [
+    {
+      "key": "sp500",
+      "name": "S&P 500",
+      "kind": "index",
+      "note": "Broad U.S. market",
+      "link": "https://finance.yahoo.com/quote/%5EGSPC",
+      "price": 7718.6,
+      "change_pct": 0.0,
+      "prev_close": 7718.6,
+      "currency": "USD",
+      "source": "CNBC"
+    },
+    {
+      "key": "xbi",
+      "name": "XBI",
+      "kind": "etf",
+      "note": "SPDR S&P Biotech ETF",
+      "link": "https://finance.yahoo.com/quote/XBI",
+      "price": 163.81,
+      "change_pct": 0.0,
+      "prev_close": 163.81,
+      "currency": "USD",
+      "source": "CNBC"
+    }
+  ]
+}

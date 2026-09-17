@@ -1,0 +1,2995 @@
+{
+  "generated_at_utc": "2026-09-15T14:12:55Z",
+  "generated_at_et": "2026-09-15 10:12 AM EDT",
+  "date": "2026-09-15",
+  "classifier": "keyword",
+  "model": null,
+  "counts": {
+    "high": 10,
+    "medium": 15,
+    "low": 194,
+    "total": 219
+  },
+  "news": {
+    "high": [
+      {
+        "title": "GSK to acquire potential best-in-class T cell-engager (TCE) for multiple myeloma from Chimagen Biosciences",
+        "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQSEFmRVdSR1FKSGw2TzN3R2RnU1o4cjdkckpXSDJMMkVmQzdZVEg4NGFmakJ6R3ZXczhlaG9uS3NoTVUxSlFpZklXMjNSR0t6TmlKS3BvdkFmSU05eFY4TFNFdFlGV052LUpuUlVYam9nNmRNZW1NUVplWFNLbUZFNkpuNVgtT1otc0EwcmhuTUZpbUw0b1UtQTRFcFhwOTd5ZkRhRDlBNDgxRXhkT0FHd3YyaWJ4dmVqZGY2TnQzN0dmMUh2VlJVNHVaemp4UjNGcExVVHdQcnd2X1BPcGx2dTdQNkU1R00?oc=5",
+        "source": "GSK",
+        "published": "2026-09-15T07:03:05+00:00",
+        "companies": [
+          "GSK"
+        ],
+        "is_oncology": true,
+        "is_press_release": true,
+        "summary": null
+      },
+      {
+        "title": "GSK heads to FDA with recently acquired drug from Nuvalent",
+        "link": "https://endpoints.news/gsk-heads-to-fda-with-recently-acquired-drug-from-nuvalent/",
+        "source": "Endpoints News",
+        "published": "2026-09-14T15:21:55+00:00",
+        "companies": [
+          "GSK"
+        ],
+        "is_oncology": true,
+        "is_press_release": false,
+        "summary": null
+      },
+      {
+        "title": "Curium wins FDA nod for radioligand equivalent to Novartis' Lutathera",
+        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9xc0ZSWmpFUXIwcG9VX29XQ0ZacFNnbDFUNk1OVzYyMUNfdXM3anFvMXhBb3JsYmxFYWotZk5kVW5CNnBBUWRtR21BU3BWd2daSmRZ?oc=5",
+        "source": "FirstWord Pharma",
+        "published": "2026-09-15T13:26:37+00:00",
+        "companies": [
+          "Novartis"
+        ],
+        "is_oncology": true,
+        "is_press_release": false,
+        "summary": null
+      },
+      {
+        "title": "Novartis receives Egyptian Drug Authority approval for new indication for Kisqali for early breast cancer treatment",
+        "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOTkhFWHI2cHNyVUlNcDNCZ3M4VEpJbWFvTmI1YmJpVF9ScmxIM3QwUzVCbnNVTjdoMkxiYWo1TE4xU1B1YnRPNlVudTNUcl9EdFRWSDcyMFhEVFc2S3JGcHFLUjdfRTdsUWZaMktCOXNWWEtzQWZkWUxYdHM5YlFsQlZDTWZGWHEzX2JBejBOdHRGX0RGS3hiQlBZek9hT1BQQXRhRnFNaTJ0eC1DODliY0t6Y3RWME9PdVlGanZfUG8yTmdpX0dnb2hoZUdQdzM0UFNES21oU1BzcG1BdXk0UkxfdUEzMlY5U3ZzNkdvWDFvd24xcGRtT3FlcUJoZ1lIeXR5Mmluaw?oc=5",
+        "source": "Zawya",
+        "published": "2026-09-15T09:01:00+00:00",
+        "companies": [
+          "Novartis"
+        ],
+        "is_oncology": true,
+        "is_press_release": false,
+        "summary": null
+      },
+      {
+        "title": "Revolution Medicines Announces U.S. FDA Breakthrough Therapy Designation for RASONQUE™ (daraxonrasib) in Combination with Chemotherapy for First Line Metastatic Pancreatic Cancer",
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPcVhTUlRPMmZ0U3h6TmlacXF0cmwyY2s3ZVA4VUM3alh3ZDdhSjJjbFczby1yUzducTBBMWh3MzhkbFZrR3JncDJhOTYwc3dTWGFrTDZ1QTI0d1lhdXo5TkF4blVyWno1b3BCZnd6Vi1mY0pSYzlmRV8xdktHUzRqQlBjQktBemdnMnhfMU9R?oc=5",
+        "source": "Yahoo Finance UK",
+        "published": "2026-09-14T20:05:00+00:00",
+        "companies": [
+          "Revolution Medicines"
+        ],
+        "is_oncology": true,
+        "is_press_release": false,
+        "summary": null
+      },
+      {
+        "title": "AstraZeneca’s newly approved pill fails frontline breast cancer study",
+        "link": "https://www.biopharmadive.com/news/astrazeneca-etcamah-first-line-breast-cancer-study-results/830266/",
+        "source": "BioPharma Dive",
+        "published": "2026-09-14T16:30:00+00:00",
+        "companies": [
+          "Roche"
+        ],
+        "is_oncology": true,
+        "is_press_release": false,
+        "summary": null
+      },
+      {
+        "title": "Electra aims for nearly $300M IPO; Enhertu's Phase 3 lung cancer success",
+        "link": "https://endpoints.news/electra-aims-for-nearly-300m-ipo-enhertus-phase-3-lung-cancer-success/",
+        "source": "Endpoints News",
+        "published": "2026-09-14T14:51:11+00:00",
+        "companies": [
+          "Eli Lilly"
+        ],
+        "is_oncology": true,
+        "is_press_release": false,
+        "summary": null
+      },
+      {
+        "title": "STAT+: GSK touts lung cancer data from two drugs",
+        "link": "https://www.statnews.com/2026/09/14/biotech-news-gsk-touts-lung-cancer-data-from-two-drugs/?utm_campaign=rss",
+        "source": "STAT News",
+        "published": "2026-09-14T13:34:37+00:00",
+        "companies": [
+          "GSK",
+          "Roche",
+          "Amgen",
+          "Merck & Co.",
+          "Gilead Sciences",
+          "Takeda"
+        ],
+        "is_oncology": true,
+        "is_press_release": false,
+        "summary": null
+      },
+      {
+        "title": "Weekly Recap: Dividend hike to $1.73 and Phase III oncology progress",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNVmtTRGRHTm93SHV5ankyLTFFZjZiczd2TlpGOUpGZ3lHOFMyN2JBQXNTVWk5WlBzZWVlck1mbHI4MmJkT19ITFktd2lUYXp0aGNUZ3JMMWNKTFRXeVo1QUNicDhueS10YW1SUFNZcGpnYjB2bWVQVXgwc1dxdlJjZEkxLTVCeXBFWVlMbzltYnl0TTRTZ0djaWdzRlNqUExHWEZoZ241dTVzUjdWTFZ5TmVVMFZHSEh5ODhFWnFKVEpfWkFvT1Mw?oc=5",
+        "source": "TradingView",
+        "published": "2026-09-14T11:22:11+00:00",
+        "companies": [
+          "AbbVie"
+        ],
+        "is_oncology": true,
+        "is_press_release": false,
+        "summary": null
+      },
+      {
+        "title": "GSK to acquire cancer treatment from Chimagen Biosciences for up to $750 million",
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNOXNjekN6MU9OVmM3V3hNNk1mRUtVQVpqdXNmdElZd1p0bllqYnRQNnJxbkN0bmg1emV2RlFxemE2Z051TnVQMTdVd0ZmWDdQSVl3NnZwcFpKZHNlVzJjQ3NTdHZTWnF4dDNvTmo3U2FlenB0U0NzUjZiUUFHVHpKcmZGbnBUbmxwVzJycTRFVGg?oc=5",
+        "source": "Axios",
+        "published": "2026-09-15T13:34:08+00:00",
+        "companies": [
+          "GSK"
+        ],
+        "is_oncology": true,
+        "is_press_release": false,
+        "summary": null
+      }
+    ],
+    "medium": [
+      {
+        "title": "GSK to Acquire Experimental Blood Cancer Therapy From Chimagen in $750 Million Deal",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQcTZyRDlVay05UnY4enZ3VG1iY3RmbG14bmtjMFF4LVpZWUYtRk1idTVPbWpjUVotSjlpcG1KTHRtcTVmNWlRZk1YUWlyaExVWkpxMUx0ejE1anM0bS1yRTRRdGlMZWhIN0M4Y0VPbzFPOUc0OXZJU2wycXBnai1rVjZ2RVBFd3I0eTFPeDBSS25XUjlYMXk0Nk44OTJSZlU?oc=5",
+        "source": "Yahoo Finance",
+        "published": "2026-09-15T10:55:48+00:00",
+        "companies": [
+          "GSK"
+        ],
+        "is_oncology": true,
+        "is_press_release": false,
+        "summary": null
+      },
+      {
+        "title": "Judge weighs \"fairness\" of $7.25 billion Roundup settlement for cancer victims",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxORDBob3NSb2FUdGRYeU5TVEZrUzdKSWJsRklBSUQ4Y2RtMTh4WWgwaEw5RTlpTW5aWEptUFNZRUs0Ykl0WDZGVU1yZEhia1dDU0h6ZG9vUzZ4WnlDVTYyMl9TZlZsTi1Fb0t3dDRkZjAwMms2WWltR0otTnVqTS1TVEcwNEZUN2hfYzZpUHZZQmJrTGktUDlWWGk4ZGYtajd0dlZYc1RUelZyT0xwMXB0Rg?oc=5",
+        "source": "The New Lede",
+        "published": "2026-09-14T21:45:57+00:00",
+        "companies": [
+          "Bayer"
+        ],
+        "is_oncology": true,
+        "is_press_release": false,
+        "summary": null
+      },
+      {
+        "title": "The Bull Case For Bristol Myers Squibb (BMY) Could Change Following Arlo-cel’s Positive Phase 2 Myeloma Data",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOM2Q5NXJKZkhqQTFLaHJPX3owaTZhWU9FcGs0VnJqUHJxUGRIWHExeV9zR1hMM2lhQ2lVbTd4SjRtS1JCTzBUeXpIQTV5Ym16b2hPWWM2dmxUb2V5ckZpdFlrX3owMm5ZMjRyWVRRM0hfM0FJMW5tV25XMUM0VDdQdXF0cjFPSURzblR0cklCY25GZzNDbEE?oc=5",
+        "source": "Yahoo Finance",
+        "published": "2026-09-15T11:15:49+00:00",
+        "companies": [
+          "Bristol Myers Squibb"
+        ],
+        "is_oncology": true,
+        "is_press_release": false,
+        "summary": null
+      },
+      {
+        "title": "New Phase 1/2 Data for Advanced RAS-Driven Non-Small Cell Lung Cancer - Revolution Medicines",
+        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBJVlBDZkpOSFQ1NUk2WHB2MDk0YVM3ZTdOb3MyVTdpYno2ZkItSkc0SGtOUUNkVnFmU0cwZ1pZSVRVZ3QydUpJR2dOQXFDQVV5VDNFTkZzbFdDLV9HRFJlZWYxQW5WLW11?oc=5",
+        "source": "Oncodaily",
+        "published": "2026-09-14T23:06:22+00:00",
+        "companies": [
+          "Revolution Medicines"
+        ],
+        "is_oncology": true,
+        "is_press_release": false,
+        "summary": null
+      },
+      {
+        "title": "STAT+: Pharmalittle: We’re reading about a GSK deal for a drug from China, job losses in the U.S., and more",
+        "link": "https://www.statnews.com/pharmalot/2026/09/15/gsk-china-drug-licensing-deal-job-losses/?utm_campaign=rss",
+        "source": "STAT News",
+        "published": "2026-09-15T13:29:47+00:00",
+        "companies": [
+          "GSK"
+        ],
+        "is_oncology": true,
+        "is_press_release": false,
+        "summary": null
+      },
+      {
+        "title": "3 KRAS drugs to watch as the field expands",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQcWlmTTF3bjZhODd1cmN5ZUpMaW9SbnZGU1ROTHdham01OEt4NTBvTEc2SlhXcU9JQk1Od3NVekhlaXJEZGx2QmpUZjRPNW95bFY2VzJwM1k5LU12bkJRTld5VUt0cnN6d3FwX0lKNkVPX241SXoxZ2IwVnFPWFVxVHVqdGpRRW9VamlDUS03YktRWFhuc0g3cnBkUQ?oc=5",
+        "source": "Pharma Voice",
+        "published": "2026-09-15T12:59:43+00:00",
+        "companies": [
+          "Genentech"
+        ],
+        "is_oncology": true,
+        "is_press_release": false,
+        "summary": null
+      },
+      {
+        "title": "GSK bolsters oncology pipeline with $750m Chimagen TCE deal",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbUxjcVdISUIwV3pIazRZMGxBMlFjZGNEYmdCa3NNYnVQX2lBUG84Yk5KVmFScGstREtaS0daR3NtUGhzWmU2UU1JNWtQQ0dJNFBCOG90OUhaNGtocGtDQS1oRnFfSWN5YWRjRTFidTJaNnJUQldyLVVJbHlQblNnN2NGbVg5OGl4VUxhLS0yeDVTLUViYldGUzBQVUk?oc=5",
+        "source": "Pharmaceutical Technology",
+        "published": "2026-09-15T11:21:34+00:00",
+        "companies": [
+          "GSK"
+        ],
+        "is_oncology": true,
+        "is_press_release": false,
+        "summary": null
+      },
+      {
+        "title": "GSK strikes deal for Chimagen’s T cell engager for blood cancer",
+        "link": "https://endpoints.news/gsk-strikes-deal-for-chimagens-t-cell-engager-for-blood-cancer/",
+        "source": "Endpoints News",
+        "published": "2026-09-15T11:03:57+00:00",
+        "companies": [
+          "GSK"
+        ],
+        "is_oncology": true,
+        "is_press_release": false,
+        "summary": null
+      },
+      {
+        "title": "GSK to pay up to $750m for T-Cell cancer drug from Chinese biotech Chimagen Biosciences",
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNbTROYWM4cG1pelNXdmUyWklOUVB4M0JqUllYVXlrVzFwSE1qU3NFZGxzQzNpUU5DTWVFX2ZtM2NYYUVSWDd4RHRibEplTlRQVkM0aVJVUTJ3eUhjX0VrV29KeDZsTGxvOVZLaUtzWWR2Qk52RUpKMEx0eFotaVVfX3FQcnJXeEU?oc=5",
+        "source": "Manufacturing Chemist",
+        "published": "2026-09-15T10:31:06+00:00",
+        "companies": [
+          "GSK"
+        ],
+        "is_oncology": true,
+        "is_press_release": false,
+        "summary": null
+      },
+      {
+        "title": "Genexine’s GX-BP1 (SOX2 bioPROTAC) Suppresses Tumor Regrowth despite Osimertinib and Dato-DXd Combination and Achieves 6/6 Complete Responses in Triple Combination",
+        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPNlYwTTE2YVdtaU1oZEsydXZ3MHlzc3d4R1JoSVRzVlJzSzVmVGk4dW5FNjNVTVJOOGFaR0V2Mjg5UEhyWG5CNktZR1BzM0Jma0FoMGwwU3hjTEFmVm9md2NLYWQ4U0RvN1dIZ0NzZlFseUZWclhRek5mSGh1Qi1UTFk1eGV0Zw?oc=5",
+        "source": "Yahoo Finance UK",
+        "published": "2026-09-15T09:16:00+00:00",
+        "companies": [
+          "Boehringer Ingelheim"
+        ],
+        "is_oncology": true,
+        "is_press_release": false,
+        "summary": null
+      },
+      {
+        "title": "GSK strikes up to $750 million deal for cancer-targeting drug",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQcjJidHNYWUF0VXZIQ203SXAtTHBFNVE4dk1EVkJCWTRMcHZRMktYTmZ4SU5lemhGWUpabi1yMFhkQ1pIYjdMZWFWLTJkVnNkRXZIa2FnZW1rQjZCQVVsLVVEOHdTRlFyYzVfSTNCMzFERGk4RWVLR01va3FNdUxHRzNCcktKWk5jaUtLMnRzVTgwR3ByamFPOGJmVmxvQWd6QVkzMFRpRWZlSlQxM2c?oc=5",
+        "source": "Reuters",
+        "published": "2026-09-15T06:50:00+00:00",
+        "companies": [
+          "GSK"
+        ],
+        "is_oncology": true,
+        "is_press_release": false,
+        "summary": null
+      },
+      {
+        "title": "NRIX Stock Surges Nearly 70% Premarket Today – Roche And Nurix’s Blood Cancer Drug Collaboration Can Tap A $41B Market",
+        "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQUHVqSF9TMndkbWxqSXBSSEZHVmlkMFdFb01NLW5McGd2NlJKNEZaSTNERjZNWmlVLUxRVWQ0STJCTG9OLWZObmtUN1ZlOXJ1TEhEbi1ZTUJzV2Mwc2dEaTU5OVgwZEVodkZGZDBIckwyWU1kZlZ3dlY4VlhuMGMzSllpd0pXMk0yUHR3cjFHdFhMaTVMTkFGc1FReEZweVhjMTFsZTEwWlJ4NERCRm1VNGg5c0cyX2JIQ0RyYWtoRV9hSFFCZndSc2hTVmV3cjFTVHh2TWpTLUlXZXllV2Rlbm56N0NjbEJPZ2R5azRVQ25EMTdJbUxwWHFMZTB4YXBMOEE4Uk9sWEl4cVk?oc=5",
+        "source": "Stocktwits",
+        "published": "2026-09-15T00:29:44+00:00",
+        "companies": [
+          "Roche"
+        ],
+        "is_oncology": true,
+        "is_press_release": false,
+        "summary": null
+      },
+      {
+        "title": "Revolution Medicines Gets FDA Breakthrough Designation for Cancer Treatment",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPTVIzaDFoWmFhZkY1clhKYUgzeGhjX3g1OGZXNkdIdnhnT2tJcGdDSWdGeVFhQlJjcUdkdElKNDhMTGV5STFaY2E1N3FLV1ZCczMxZGxnVHJremRGUFlVdHMyai1OYXdfZmZGS1hYeEh1NW91LTJKVjBxa19OcGhUeUtGVE9GLUFDTGZPS0NuYkthcG1sdXU2QXhJZmFLRmtGWmFOUG12dVJQMF9seFh1aTdQeEUyd2hFemRoejBrVFNRRmZSR1c4?oc=5",
+        "source": "marketscreener.com",
+        "published": "2026-09-14T21:02:14+00:00",
+        "companies": [
+          "Revolution Medicines"
+        ],
+        "is_oncology": true,
+        "is_press_release": false,
+        "summary": null
+      },
+      {
+        "title": "Immune Checkpoint Inhibitors Market Poised for Steady Growth Through 2034 Amid Subcutaneous Shift – DelveInsight | Merck, Bristol Myers Squibb, AstraZeneca",
+        "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxPdk1MSHNmMEdxVkd6T0RXLTFnMmtRYXA4QWFXbU9vbUU5b2pUbFdNVzdJV0JOcHY2NjJEbW1WUktoMHhnU3F2NEFlQzJZX19xUGZPeVV6MlpnZkZGVU1QaTMwVnZDOC1iSVdUZjlLYjBZTy1nVzNBYTJtSGlkZ2RsbndNdGJta2ZnRUd3X3g3VUJKalJRUmlZNnlEZkhOVU5aSUtsMGx1Qm0zaWE3aTFxeWZzQkNObWdJVFlFU1FEUmNZdHlSZDZIZEdpaWhvMnVueWc4NVFkb2ZNVUNYNDB2REpSUk5TN1dlQ1ZTeV9PUVBUVEFOczNQcGNmeXBMSXRFRTVGT1FaOWdEckc4VHU3a2tNbVJLdzVMZl9RQ3FSYU9uX1E?oc=5",
+        "source": "barchart.com",
+        "published": "2026-09-14T20:50:12+00:00",
+        "companies": [
+          "Bristol Myers Squibb",
+          "Merck & Co."
+        ],
+        "is_oncology": true,
+        "is_press_release": false,
+        "summary": null
+      },
+      {
+        "title": "Summit, Akeso look to shed PD-1/VEGF drug doubts with latest study results",
+        "link": "https://www.biopharmadive.com/news/summit-akeso-wclc-2026-ivonescimab-lung-cancer-survival/830318/",
+        "source": "BioPharma Dive",
+        "published": "2026-09-14T20:41:00+00:00",
+        "companies": [
+          "Merck & Co."
+        ],
+        "is_oncology": true,
+        "is_press_release": false,
+        "summary": null
+      }
+    ],
+    "low": [
+      {
+        "title": "ERAS Stock Slumps Nearly 40% After-Hours: Fine Print In 'Positive' Cancer Trial Reveals Treatment-Related Death",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQRDdRZktna0ZienNMdzI4ZkFpaFpCZ05HM2NSakZkQWhSWjJDOTFyMmNrUndQRXRjbWV0MnRINEV3NHI5cHlDSmdhd2hOcUVjWlNGcUdYT2Y4cWlUQ0lRcTdnckNrbENKSkhsd2ZIdjVJMDJtT2EtYndyN3lSS3pYMGNzX1RaRnJYMmdOQWxMLTIxYzhSODNzMi00NEZQVlZKTDB4ZHg3cmZrQ1Z2eS1FNzhsSGJsM3JKYTRTYy1MejVJQQ?oc=5",
+        "source": "Stocktwits",
+        "published": "2026-09-14T16:52:20+00:00",
+        "companies": [
+          "Revolution Medicines"
+        ],
+        "is_oncology": true,
+        "is_press_release": false,
+        "summary": null
+      },
+      {
+        "title": "Servier and Cure51 partner to identify new glioblastoma drug targets",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPcVlYUDlUcVkzV2djUnlDamEwSmIxaHpCTXhPRU1XUEFjei1lWHFsNl9EUHdfRld4OFllVHFhS0dydzVnQi0xQ3ZCVVFWaGdSbWl5eFFFYlZtRUVqOHYwNmhSM1dJZkp5dG8wODFUNmFQSWl1VnBPWTNRYWY1NGVyRHdFOUN4YjFESjJKb3pEcm12TWd0YUFpeXp3?oc=5",
+        "source": "Manufacturing Chemist",
+        "published": "2026-09-14T13:39:28+00:00",
+        "companies": [
+          "Servier",
+          "IDEAYA Biosciences"
+        ],
+        "is_oncology": true,
+        "is_press_release": false,
+        "summary": null
+      },
+      {
+        "title": "IDYA: Darovasertib nears NDA, while DLL3 ADC and MTAP/KRAS programs drive pipeline innovation",
+        "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQeGlteklVbnNpX29QbHRzOXl1T2JDMjJ4UFVHYXhCTkhxbXZqQVUybm9aZEtzQTE3akRqRENhMktvMnB6bm9ZQ0NKZW8zRVB6djNvR3AyQ3lUSWpiZDFCRzZQbmpNSU1pTU1Oa1d0LUE2R0x4X0hMZDQ4ekQ3X2J4R0RKVTNwTUlaV0xWbWFwOXJOdnJhMlE5cnI3UEJjX0FZWVFEYVZmaEgwamxHa0xIbE1lSUFFNFQ2eXUtZkRMRDdXenk3UWFrYV9pOVIwalZ0NWpyNUhkdmY5bDdTeXUycVM1Z1g1REJCa1c4di1LOHpveEdQcnJVQmNKaFZmMFRrdFlHMjhWMnNCUQ?oc=5",
+        "source": "TradingView",
+        "published": "2026-09-14T12:18:51+00:00",
+        "companies": [
+          "IDEAYA Biosciences"
+        ],
+        "is_oncology": true,
+        "is_press_release": false,
+        "summary": null
+      },
+      {
+        "title": "Owkin licenses AI scientist, patient data to Servier for oncology research",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPbXJjUW9VdzZBa2dwSlJrdGRibEZqNzMza0NQOGRYYWljUFVqaXQ1ZE01YlJKVzZ4aWI1U3gtZnR4WEtkRTRFenRKcFByaWlvanBaVkRNQ3owSnpPck1fM0NJR3Y0WG8yNk5xX0pyZU1ZYXRRbEV5NkZ4THktaTIyczlxQks4dV9lSVh6c1lsQjRMclNUVVZnVjNJZUg3NDVORG5vQw?oc=5",
+        "source": "MobiHealthNews",
+        "published": "2026-09-14T12:00:00+00:00",
+        "companies": [
+          "Servier"
+        ],
+        "is_oncology": true,
+        "is_press_release": false,
+        "summary": null
+      },
+      {
+        "title": "IDYA: Precision oncology pipeline advances with darovasertib, DLL3 ADC, and MTAP/KRAS programs",
+        "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNY2xyajQ1dUlRdE55ZFY1bERvam1uUGEtNjR3Nzh3alU5NDZkV2NOelVpUDJiN05RZHFvbjd5LUF5Z3pWVmE4cUtnSkNFNzRYbHpVNURQd2F3T2dDenJDQTdWUU5WN1VQUXRxY3hDdVMxYVlGSzd0SmtkSXFvLU5ldnVDNmt6Q0VFRW11RF9MZVk5QldCaXd2QXRlUWU4ei1QUHFkSGVyN1Z4d09sZTBiSWZZZ0JMZ0NCMERhSlZ2emMxVmVVQUJIVDV5a1J3SGxqeE5SZWo3M1B6eFhvaUlLOW53aXBBVXRKT3dPbGV0Q0U5ODRpWjR4aXZYOHRVeVpEMHhlaWgxR3B4dw?oc=5",
+        "source": "TradingView",
+        "published": "2026-09-14T11:48:20+00:00",
+        "companies": [
+          "IDEAYA Biosciences"
+        ],
+        "is_oncology": true,
+        "is_press_release": false,
+        "summary": null
+      },
+      {
+        "title": "Owkin, Servier ink oncology R&D deal to guide discovery and trial design",
+        "link": "https://www.fiercebiotech.com/cro/owkin-servier-ink-oncology-rd-deal-guide-trial-design-and-discovery",
+        "source": "FierceBiotech",
+        "published": null,
+        "companies": [
+          "Servier"
+        ],
+        "is_oncology": true,
+        "is_press_release": false,
+        "summary": null
+      },
+      {
+        "title": "Bayer subsidiary Monsanto seeks approval of 'Roundup' settlement",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNekttZ25yMjB0V0RpTXVLZmZjZjBhcGlJNjdNY1lzdWoyd2FSd1RHSGdBYlNvcnRxQnotNW9nMzAtdWtBTDVheThscWhfZ0tFU2Zpa3hlNUZKaWNmcDdENFZnNFVlcnJjVGZHeXh6SzRoRDZFU3lpWGZ4bnM4UFEwYWJSSGwzMjVfdHo5dmR5MUx4S05qeDl5RTc4SnR5azdSTEppUVE5M09BVjdhaXpyVlZzREFSZw?oc=5",
+        "source": "marketscreener.com",
+        "published": "2026-09-15T05:15:10+00:00",
+        "companies": [
+          "Bayer"
+        ],
+        "is_oncology": false,
+        "is_press_release": false,
+        "summary": null
+      },
+      {
+        "title": "Revolution Medicines granted Breakthrough Therapy Designation to Rasonque by FDA",
+        "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQcXM1LS1UajhvdFV5Y0F3Y3Y2c01aWVJpaVVXRVJGRldMOHF5YS1DNUlTYzJmTDVpRHdoOGNOdm9nVUlab2trNjdTQWVCN1hVMnpxd3V0aTlMd29SVGx1YzdLbS1tWmoxYTRtRFd6LTU0aGF3d3BJRnBGeTZZcU1Ya00tRERXVDZGYTlxR0pIUmhKM2hmZ29FV19fLUdON0ItOWk2Nms3YmdvclBjYmR3cHd1ZUVIMWU0a2R2TTQ3MGM2TFZTa3pyYUxrQms5RDdBalZQcnpXT1ZmbXdiSXNBN0N3?oc=5",
+        "source": "TipRanks",
+        "published": "2026-09-15T04:27:36+00:00",
+        "companies": [
+          "Revolution Medicines"
+        ],
+        "is_oncology": false,
+        "is_press_release": false,
+        "summary": null
+      },
+      {
+        "title": "Wall Street Weighs Impact On DYN Stock Post Novartis’ Phase 3 Failure — RBC Says These Key Differences Could Lead To Better Outcomes",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOMHppZFdkUGE4bU5rZUNEUzM0ampickd1YkYwUHJ1ZTdDM2FGQVpfb3ZJck9HZm92R09weHktd3Z3X2JoTWJvZW01ZFRXbDdMaDlHdUNLQ0NfcFZXT1RuQ2xhNXkzTXM0ZU12VDVLRlp3c2xXSnlzOVJLYmdTNVB6cjB3YWJzdzhlSUtJbGxVaks4WlVnZElaRlVJcllFbGlCNUpXMHlFM1N6bWtyQjJ1MlgxNzRGdnc?oc=5",
+        "source": "Stocktwits",
+        "published": "2026-09-15T02:53:11+00:00",
+        "companies": [
+          "Novartis"
+        ],
+        "is_oncology": false,
+        "is_press_release": false,
+        "summary": null
+      },
+      {
+        "title": "RVMD Stock Rises on FDA Breakthrough Therapy Designation Amid Hi",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQdTlRS05xdkZEdzRVRE5aMVFqRDZhRHpLaE1EWEFReXVlbnQ4WmRKUzFZQ1lDM0JsQ0JQb0FZdjFSUEx5NUlKX3JJV1VnUFRlZlhqZUs3emdwVGgtVDBuUlk2VkFmRDB2R1Vnd3NtT2JmaEpDREo1SkFvcThQOVNPdXBneGhjS2ZzeFBEVnd0Y0l3Nkdiek12bkJCSlBwLW1tMGNWUHpQTG81aDFFdjNmWVJnaE1mOGtXajItZGpDZ0FNNlpGN3Fn?oc=5",
+        "source": "GuruFocus",
+        "published": "2026-09-14T20:42:52+00:00",
+        "companies": [
+          "Revolution Medicines"
+        ],
+        "is_oncology": false,
+        "is_press_release": false,
+        "summary": null
+      },
+      {
+        "title": "Takeda fails to get class decertified in US Amitiza antitrust case",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPWjBFQXltaWdBZjBUcWNYak1pajQxcjRjZ2JOQlJYRzRacV9xTDlkaHFCY1dnM2tNVmlHMUk3ZHFUU05uLWd2V3k0cjVudThFMFFzdW50TmZxbXFDTlBEMnhFNjZCVDdxMS1PWVFEdUxLQU10OFlUM0dPYVJ0Z2JFUGkzOEhNY0ZvQUtraHlIMUdzR1VyU19tT213LWlPcU96MzJDbE1LUdIBWkFVX3lxTE5ZeTR4aklOSmp3bXVaa202amZLTG0zQmllRHRadHRKYkJNa0xxZkplM3hoNDFfUkRuVllmNUM5WVBFNGVsZ3BTa09JYmZPNnFLWmxjdFJxN0VZdw?oc=5",
+        "source": "MLex",
+        "published": "2026-09-14T20:31:00+00:00",
+        "companies": [
+          "Takeda"
+        ],
+        "is_oncology": false,
+        "is_press_release": false,
+        "summary": null
+      },
+      {
+        "title": "Takeda Pharmaceutical Company: Upcoming launches and data readouts signal a major inflection point for growth and innovation",
+        "link": "https://news.google.com/rss/articles/CBMitAJBVV95cUxPYUh5ZTlEeWVSdFZic2pxTXIwXzY1Tmo3eVNNNS1NVk5BOXE3SVVtaGRYODcwLXg3djk5ZnhKaXRwN0ZsQjFMVHhVSmtBYjFBVi1PQlA4ZmZzZ2I2SmJYYnBwYUdNQkdqdVRTUDBPdkhSVGc3QWJOSUxIcUUzRFFpeFBfYTNSWUxadTlqZTRXSUxzOEI2Y0FjMm14UXdBM2RRYUU5ajRaengyMVNlSDA4VUhncllLMm44emU5VlV6a3dLSXFVR2xnR20tcUtTeFVuYWozY0FwR2c1SEFzZk5rRWZ0Mko3TFMydk5Sdm1SemtiMkRCems4MFBqNURNY1pwYjZjWHg4WEVURnBfbG1NdFQzRTI1QUFTVVkyV21OM21tOHRXZGIyR0VUUWIwTnJjeWFLQw?oc=5",
+        "source": "TradingView",
+        "published": "2026-09-14T20:07:11+00:00",
+        "companies": [
+          "Takeda"
+        ],
+        "is_oncology": false,
+        "is_press_release": false,
+        "summary": null
+      },
+      {
+        "title": "FDA accepts NDA under Priority review for Takeda’s zasocitinib",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZDU1QVRVVEV5alZCVnlYelVZRER5d1RlR3NTdk1md2h0b1dIUlVzLU96X1lubjdiWWdYMWtmSEpJOFlVVlFQUTFBY0I1RW9LVG1NLW9mQzBtT0VxeWpHY0ZXVjdYOE45S3JGTXVQLXRFUDFCcW1vWmVjVUM1NFhuRUh3LXc3aExKYlQ0VzloZHh6b0ZzSy1JTV9Vb2VJbVZPUHNwdXFPWm53UQ?oc=5",
+        "source": "The Pharma Letter",
+        "published": "2026-09-14T19:42:38+00:00",
+        "companies": [
+          "Takeda"
+        ],
+        "is_oncology": false,
+        "is_press_release": false,
+        "summary": null
+      },
+      {
+        "title": "Takeda Pharmaceutical Company: Major launches and data readouts drive a pivotal strategic shift, with new leadership at the helm",
+        "link": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxQWktJZXhDSmwtVUhjSzZDa2JXcVJGS1pYYU5YMlRMTmR5X1JpeFVYMEFpWlotamFIZ2hybVh6WG5kWXFoa0ZjLS1Td2FPR0NMWE13Z0daalh2RTdIY1RibzUzM2pBTGhpengzVjZqUnRNX3JHTTZaTUt3SnJROXpzWDhqc1pNZjhud2d5WnFOS19OdDF1Z1N6S0hsWnFEUWNQZXRWRXA4Mm4wSHpoZW9mUHJJd0loNFItWVhwVy0xeEF0SzNSN0c3NU5iWVpBZ3UxZWJGTG1QX3V2T21LN3Z5eHBjN3RXdUlFUUJuOWRtSk0zWF9wZ1hsNUR6eUVPZnNhQkZHMWI4RVljU0x1eVBUd1FjVV9oR1BNUnVhdzEyOFZsY1RZMFZnRWRGYkZlMko2bmRFS1hhWmc?oc=5",
+        "source": "TradingView",
+        "published": "2026-09-14T19:38:26+00:00",
+        "companies": [
+          "Takeda"
+        ],
+        "is_oncology": false,
+        "is_press_release": false,
+        "summary": null
+      },
+      {
+        "title": "Roundup: GSK Acquires Trispecific T Cell-Engager from Chimagen, Sanofi & Cheplapharm Form Strategic Partnership",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxORC1GLXJLc3phaFhqNzVtdnJZNDJzUk5DQmJuTk1ld3FaSkx5SHM5UVhhYXd0SWxyN0Zvb1dDajI3cXdjRGI2QkRBR1JMZ3U0NlludWdkVEl3Z05DeF9GbW95SF9PeHlMR1BOSm9vb3ByZHJaV3VseXNhMlVFY3Q5anl6TkFYMElJUy01MmhKQVJDMnNOUEs3TDVUdDFXYlpyaTE0b244MjJDZGhDbnhZ?oc=5",
+        "source": "Pharmaceutical Executive",
+        "published": "2026-09-15T14:04:36+00:00",
+        "companies": [
+          "GSK"
+        ],
+        "is_oncology": false,
+        "is_press_release": false,
+        "summary": null
+      },
+      {
+        "title": "Eli Lilly boosted to Buy at Berenberg as upside to 2026 guidance seen",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPeUQxcng3SElLRG8zY19pRTQ1OGp4em56OWlGMS1oYTdWVW1PLTZ5ZExEOWhUN0puV191azBIOGNoam9GZWh1TUtfSVZ1emN5bzBVbXB5MzZvSVNaWk9EUjY5UHhTdGdGWWc0dkpndnBuVjcyUnRGaXBVb2tVWHlGNmNTUktCX25SUnFjazFJWU1TOVlkRUZzcEwtRQ?oc=5",
+        "source": "Seeking Alpha",
+        "published": "2026-09-15T13:34:16+00:00",
+        "companies": [
+          "Eli Lilly"
+        ],
+        "is_oncology": false,
+        "is_press_release": false,
+        "summary": null
+      },
+      {
+        "title": "GSK to Acquire Chimagen Biosciences' T-Cell Engager Program for Up to $750 Million",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPT2hPYTNBZk5iZUQ0LXQtdWtOUnp2YmFHVFVLWlN4ekxkbmxFN2l3TG96TnhuT2R5VDVsbXA0Mmtsem1fSGFDZ3E3MFNOYVlOVW9jb3VuN05Zb082c3lHQ3FnMk0zMjB2SFVZOFBSYzlYMXZ0QmZfVndOSHBnUTRkY2V4UnRPdVNvNENpaHg3RTlKMU02elRGakJ3LW5Od2tua1JZdFluOA?oc=5",
+        "source": "Moomoo",
+        "published": "2026-09-15T10:38:28+00:00",
+        "companies": [
+          "GSK"
+        ],
+        "is_oncology": false,
+        "is_press_release": false,
+        "summary": null
+      },
+      {
+        "title": "GSK shares rise as Berenberg upgrades to Buy on stronger drug pipeline",
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQaElIS1NCb3A3S0hIMGxQbFdRSlFlWnZha3JDQWZVZ2lDeDVPUzBZSHNEZWVldm1ma0hQN3RRUTlIWWNaM1QtRzdFbjRxMGdXNlJIbzdrWFFhczQxQWxFOVl0YlV3eWItbmlGbEVBOEJDWnIwcEh1T2pyYUNYT2xJNzRwbnZuS2lpV3ZveHJ6c2pXVFl1cDExS1QteWdzUTZMMm52eE5SVmltYW5NZGtnY1NNb1NwZW1kaWNrRldhTld0Y2RGLVE?oc=5",
+        "source": "Investing.com",
+        "published": "2026-09-15T08:12:28+00:00",
+        "companies": [
+          "GSK"
+        ],
+        "is_oncology": false,
+        "is_press_release": false,
+        "summary": null
+      },
+      {
+        "title": "Bank of America Corp DE Invests $1.83 Billion in Amgen Inc. $AMGN",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNbGIyT0JGeDU5SFVKZ0dZaXFrNHpBcXhNRFh5UlFpdTB0RWhxcTV4ODctenRlYTAwMXJyVGV6SDNCUzRWbnk2TU9TWXZTYjYzenRZc0llR0JmOWRBSTAwYmxPd0w4ZC1ZcDFzOFNYT3NVSVVpaXdrbWdDRVh2QWl4MWNTRUdoMWdmNkJ6VGpHbUtEcEhVZEtYNHVJY2hkbDZUaHF4OWdWUWIxZlRiWkNBa1ZDZ3hpelNCMzY3OW5Fcw?oc=5",
+        "source": "MarketBeat",
+        "published": "2026-09-15T07:42:30+00:00",
+        "companies": [
+          "Amgen"
+        ],
+        "is_oncology": false,
+        "is_press_release": false,
+        "summary": null
+      },
+      {
+        "title": "Billionaire Ken Griffin Just Loaded Up on This Dividend King, and Wall Street Still Sees Upside",
+        "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPc2JRRF9GeFJWdk5Yb1lQeEtpU1BENUtXcmtxNEZ6dVhnNzZaNzVELU9iQXZvd1NsZ2J3M1p2SnVIZ2lYTDM0aVBmcGVoZHZNR3dQQU9OOUt0OHVWSE5udnFqWVA4cE1xSXk1YlR3SUt2OEs0eEhtOFAta0VlYWVmM0NfUHBIemhveDhtbXRvUTlCQU1kcUw5MXZJRkRQTHk3ZFJpZWxMdEtCRmJrb2Z5ZmZzRmtpMW5nS2xBLWdWb2lEOEdhZDhQNVBGNDRSZ3J5NjBnTDlvczB4SC1oYzNjeFExNDBfTFQtU091RXBvcnRjSHdoaGlzZEplWjZDQnE5QUVJ?oc=5",
+        "source": "The Globe and Mail",
+        "published": "2026-09-15T03:48:10+00:00",
+        "companies": [
+          "AbbVie"
+        ],
+        "is_oncology": false,
+        "is_press_release": false,
+        "summary": null
+      },
+      {
+        "title": "Janssen Auto Group acquires Chevrolet store in Nebraska",
+        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPNmkxY1dFd1oyN2ZGalhTcXRCelBwemMzR3Nocll2dXl2b19DQTVVSlp4aGpYemkzTl9lTkFxTXg5QU9idVo3cjJIbE1iUnV2TjBBN1NuQ3hKcGlKUThGUXhxNUx3bnJWNlUyR01oN0NEWnp5RHVibHhWZmFnODR3SnJObGhwQTg1Z1QwU3lIX1FZUQ?oc=5",
+        "source": "Car Dealership Guy News",
+        "published": "2026-09-14T21:58:53+00:00",
+        "companies": [
+          "Janssen"
+        ],
+        "is_oncology": false,
+        "is_press_release": false,
+        "summary": null
+      },
+      {
+        "title": "NRIX: Major Roche deal accelerates BTK degrader's global development and multi-billion dollar potential",
+        "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxOd05LM0xGdmRSVEphaUtQRWtHeTkwLUxJbVJ2ZVJSUlNhMGhlRTJQemc2d2t2YlRYR3dFdzBEUG4yRVVpSlE3azZyVHdqQVlxMVc2T2ZKMXQwUDU1SzB2a1Zrc2VkUGJXZVp0MjFjTm5DMk5TemduZnRJWUk1b3ZLVzFZcmhrYmdyZ2x0bXJmZnVfcmRKbDdSdXpQa1EwY2p3cFFuNGxTTDBpTFZLMEFUaXlkaUFRbFNwUHdMWkhlclZrNFVoTGFqaUZIWDVlRXZTZnlLV3hVeWVtXzZMMHlsMlp2VnlBNVJiLTdkZFZxRE1KZ0p6MHUtTG5qUmMwVGhhZ3lWbkpHSWkxZUdCQm9YSS1LZjQ5Y0Ey?oc=5",
+        "source": "TradingView",
+        "published": "2026-09-14T18:49:33+00:00",
+        "companies": [
+          "Roche"
+        ],
+        "is_oncology": false,
+        "is_press_release": false,
+        "summary": null
+      },
+      {
+        "title": "Bayer's $7.25 billion Roundup moment, Quinn Emanuel wins fight over role in data center case, and more ➡️",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPUDlCeUlrcTRRZGpJQWFZTDlDalAzeFlBSENkUENRLUhacFZOWDljQm9KMS1oNWhDOHRCYkpMTV8zOU9qcjJxM2g0MUNIS04tLTZPOFFoV09aMDZ4YXVfd2dIUDBWVkFDcnVzQjEzM2lNXzFTRmlhcUZJQzlGUTdvMFVzcjFkYWhvRTRPR2Zhc3U4d1kzTkwtaGxjbw?oc=5",
+        "source": "LinkedIn",
+        "published": "2026-09-14T15:16:23+00:00",
+        "companies": [
+          "Bayer"
+        ],
+        "is_oncology": false,
+        "is_press_release": false,
+        "summary": null
+      },
+      {
+        "title": "Best Income Stocks to Buy for September 14th",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNTDhOenczc2dQS1diNEl0MHFrTVZMTzV3THg1eG9sRVBFTWZ5aGc5ODItMXR1RkVnQU9JbUhHVXJWbFlzcW1wZjdhZGNHREtVdmRadkJMLURxMzBSUWludk1ObldrLUVZdkJLdDhQMEppNnVaUjRWb3JqcmRyQ25ZQUl2OThtQmMtSlNBTzhMTE9nU0t5Njh6aXhRejdUQ0ZyQ1pGOWdsNzY4MS1lcHg1N0hwaGROQThOY2VJVFo0b1B3QTh6RTdJ?oc=5",
+        "source": "The Globe and Mail",
+        "published": "2026-09-14T10:44:43+00:00",
+        "companies": [
+          "Takeda"
+        ],
+        "is_oncology": false,
+        "is_press_release": false,
+        "summary": null
+      },
+      {
+        "title": "Novartis Just Shook Up a Multibillion-Dollar Drug Race. What It Means for Eli Lilly Stock.",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOSjI3QjhiWUE3S0VOX1JGcFEtN2pPNFA3UzdwVzZKRm9iRXlONVFGUFdxVUc4LWFKa0RZSUd1LWt0eEhaM1VRbFZjdExQWGkxczdpbmljbWZoU0RKQXoxSW9TUkxEcWVkNjJTVU94aGgzZW1kN2NwZUxka1BtMjMzNXQ3TjVRU1NRVjlWSWkwMUpacmJFRFVTTzMyVXFEdVBqNHc?oc=5",
+        "source": "Yahoo Finance",
+        "published": "2026-09-14T09:04:00+00:00",
+        "companies": [
+          "Eli Lilly",
+          "Novartis"
+        ],
+        "is_oncology": false,
+        "is_press_release": false,
+        "summary": null
+      },
+      {
+        "title": "Fierce Pharma Asia—Takeda’s R&D leadership change; Daiichi’s $1.3B court win; New Samsung Bio contract",
+        "link": "https://www.fiercepharma.com/pharma/takeda-rd-leadership-change-daiichi-13b-court-win-new-samsung-bio-contract",
+        "source": "FiercePharma",
+        "published": null,
+        "companies": [
+          "Takeda"
+        ],
+        "is_oncology": false,
+        "is_press_release": false,
+        "summary": null
+      },
+      {
+        "title": "Pfizer Invites Public to Listen to Webcast of Pfizer Discussion at Healthcare Conference",
+        "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQa3F6SUJVZFFmanZRZGpXY2VaVUNTeGFQWl84NUpxbEN5UXJORDJ0aWVBNE9xNDdQb3FkX3J2akdrRUlPUm8wekpvX3BFQkloak82VWUzTVNiLUY1Z0FUY3NOenA4WXN4VHVwQXJWY0JhM3RIZEFSZThJNXNYVFc5ZUxOT29Oc0JRYUl4MHJoZnJnNzFsWEtFYWNWeUkyZ1RJLVMtWnlPMHpLVnN5blRGY2RtT0FHZVRocVpSY1R5bGdIMHZ6X3JjMFVyRVVxR29MSk1oeHpyY0ZEWEhZRFE?oc=5",
+        "source": "Business Wire",
+        "published": "2026-09-15T14:00:00+00:00",
+        "companies": [
+          "Pfizer"
+        ],
+        "is_oncology": false,
+        "is_press_release": true,
+        "summary": null
+      },
+      {
+        "title": "Boehringer provides update on EASi-KIDNEY trial",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPVzRNQmp0UDQ1YXh0cG8wR0pnLVlZS25tTEs5bGttV2VhTW5nb09sWU9vTmJLY0FSQkgyT0h4SXVMVmNWamFGVkJpYlY5c19EMXZpSF80ZU5BS3FqRUI5NEVBQ2VvVjhLY0RnSW10bm9oS3JacW9lNGVmS2NDRWROZ3k1YjgyYkI1MWlnSThGTXdUQ2Q3c0VGWXhn?oc=5",
+        "source": "Boehringer Ingelheim",
+        "published": "2026-09-15T10:30:00+00:00",
+        "companies": [
+          "Boehringer Ingelheim"
+        ],
+        "is_oncology": false,
+        "is_press_release": true,
+        "summary": null
+      },
+      {
+        "title": "Servier and Cure51 launch a research partnership",
+        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBGd21xYnpHNUNuVlY3ZDhCY2laUnRhT250eHlZOVRFWjZfN3FqdFhzZXZjRFlORWhSSzA4d2hpZ0x4QWF6eE1DeEJpa1FuLTRyWGVNUUM2Tks3RHJ1UVNldmtUQ2oyWmIxeGhsWVVTLUp1bXQxWkZmWU1FdFFPdw?oc=5",
+        "source": "Servier",
+        "published": "2026-09-15T07:34:14+00:00",
+        "companies": [
+          "Servier"
+        ],
+        "is_oncology": false,
+        "is_press_release": true,
+        "summary": null
+      },
+      {
+        "title": "Bronstein, Gewirtz & Grossman, LLC Initiates an Investigation into Allegations Against Novartis AG (NVS) And Encourages Stockholders to Reach Out",
+        "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQcURIeGFqRjU4MDBUUzFZb3VwWHV5ZV8zYWt1YVdnUzNfYVV2RENYeEJHVUNzeV9hR3AwVWNBWXB0VDJINzZqLWk1NC1JcHZETndlY29PQkdYVE1jMU0tY3kxZ2R4anFLbGJOeDNRclN2cS1NeDlsMTJ3cXBhYjZIM1BhU1FCV0l2MzlXdXoyQ3VBZ09NdHhPWWI3VzVuU1FBY3VZTzNOTnlpMmtMamxxQUY5QVZfQ1VtMjdESThJaGNSQ1cxUE41STFrdkg3TzhPWm4zRGJfMlVUTGNQUFI2VlcwUXE?oc=5",
+        "source": "ACCESS Newswire",
+        "published": "2026-09-15T02:08:07+00:00",
+        "companies": [
+          "Novartis"
+        ],
+        "is_oncology": false,
+        "is_press_release": true,
+        "summary": null
+      },
+      {
+        "title": "Shane Lowry Secures Record Home Victory at the 2026 Amgen Irish Open",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQU3VCaktTTUlRQnB0dTFoTlFOS1o1RGpVTHRNbWRkeEZaTG1RRjZWOC1jbHFKeTZRX3lNeXBuTVNoTXhGVGtINFpxc3dWNlJGc3lEVXlPZlotV1JxVk1xUGU0RUVPTnl1andGQXRFeTVQZnpLajdHRWZ0alZiTG5WZXVpX3AzVEVGTl9kUUpoMlB2dHNSRS03QXpKT191SU9SR1puNEV2ekdxdw?oc=5",
+        "source": "Amgen",
+        "published": "2026-09-14T21:47:54+00:00",
+        "companies": [
+          "Amgen"
+        ],
+        "is_oncology": false,
+        "is_press_release": true,
+        "summary": null
+      },
+      {
+        "title": "BioMarin Announces Appointment of Robert Plenge, M.D., Ph.D., Chief Research Officer of Bristol Myers Squibb, to Board of Directors",
+        "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNTEUxSnotUjF5U0lkZWJGY2s4RlI0SVp0RzkwNDNUcWdBTmVGODhzNWNyTW1uTnhlMS1fZHhSRF9FMEs3N0pKSnZBWU5EREdiN2ZPQkpWS1YyRFBtVDYwQjB3T2xvdW9kX0ZHNWFEcE1XdlEwNWR1Z2ZuNFcyZS1SOGRTZktta1hMa3JQZTU4b0pHb2RaYXNzcW1kRlR6Q1NVd2JQYmZlemFXekNwRUtQdFR5LUNGX2ctdzFNcDU2dHJMX0VJUmFudy1BUjl4NHcwcUstdHp3ay0zdk1abDg2bUNoc3RvWU0zUXRHcWpYeFl2X012TGFVUVFrOEVhVUY2TnRWdWJERTRYRG8?oc=5",
+        "source": "PR Newswire",
+        "published": "2026-09-14T13:05:00+00:00",
+        "companies": [
+          "Bristol Myers Squibb"
+        ],
+        "is_oncology": false,
+        "is_press_release": true,
+        "summary": null
+      },
+      {
+        "title": "BreezeBio Appoints Biopharma Executive Kevin Sin to Board of Directors",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOSmVDZWx1Ulk3Slg2QVhJbjRTazBFLXlzcWJCY3BxcDEzWGFiMGUwbzZMX0d1ZVdxQ0d2VUduUXc5SkVuQ0pTdmlsdVp4RVhUVXFWNHIydnpGWTZzMWdHRFZycjdMM0p5dTd5Q21Rb2RUY3lDS0cwc2MyeTE3a0NZYmxqUGlsZzhOYWJnNHk0UVplSGhYb1N4VWdsOUk0VWxXenlWdXdzaFR4OVNVS2c?oc=5",
+        "source": "citybiz.co",
+        "published": "2026-09-15T13:35:51+00:00",
+        "companies": [
+          "Genentech"
+        ],
+        "is_oncology": false,
+        "is_press_release": false,
+        "summary": null
+      },
+      {
+        "title": "Merck & Co. stock gains as pipeline and guidance upgrades support valuation",
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNT1EwcVAzZ0VVOTZsVUJwRUpuazBmSWxJemhVWFp1SDl3aVdVYjNRNVk4a3E0QzlkdUlyNVh1T0FiQlJudGZTOWNINGs2VmprSC1DaFBhZFpldjJOQjR1aDBvN2ZndEEzQVdreWYtQjhiZng2RU4xdjQ1Umx1QjQ1c1NlRnNoa2pyR2lYZmhHMDBVa0JCaWwxV1hBOVpabFh4NHRWNzZOQmVSSklLSXVocFI2Nm5zTmU2aFlxSk1OT3U3RGZ4NFRXNw?oc=5",
+        "source": "ad-hoc-news.de",
+        "published": "2026-09-15T13:09:26+00:00",
+        "companies": [
+          "Merck & Co."
+        ],
+        "is_oncology": false,
+        "is_press_release": false,
+        "summary": null
+      },
+      {
+        "title": "Legend Biotech taps Novartis veteran Zhang as CEO",
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNNmhraEdYTFVuRGpnOFROaEtnVGVZbWlzazk1WTNybkdDczNHZEsxeVFDMjdJSEVIOXJOSUJGT2tDUjU3RlA2ZWtrbHMxSUY1ZDMtdE1SbnVMbk9BWl9fUFh0TGhtbzJrdzU4dFNSZjhrZGxJLWxFaU5xLUlMSnVoemo0aTlNUUk?oc=5",
+        "source": "WTVB",
+        "published": "2026-09-15T13:05:52+00:00",
+        "companies": [
+          "Novartis"
+        ],
+        "is_oncology": false,
+        "is_press_release": false,
+        "summary": null
+      },
+      {
+        "title": "Bristol Myers Squibb stock gains as Zacks lifts Q3 EPS forecast and guidance stays in focus",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQQXlzc19icHdUd1AydDFuZWNOcFhlcWtnUVM3TF9kaC0xVzR0OVRoX0dMbmNmLXVpQm9xQW1XbDZ5OWtQVVJ5R2ZlaUJkQkpENHB1RFZ6R2JHTjdtNkRGM2wtNFdlSVp2WVhpOTRXeVozeUI1LXVHTkFibHhBWXhUTDMweUZFaVRZREZUd29pUlozTWdwNk1jeUsxRDI4dkNZYVpKS2ZieExkeGNWOGZ3cC1BQy1RYndLNHA3ZU9GWG1aU2Z5TVdLMjNR?oc=5",
+        "source": "ad-hoc-news.de",
+        "published": "2026-09-15T13:03:54+00:00",
+        "companies": [
+          "Bristol Myers Squibb"
+        ],
+        "is_oncology": false,
+        "is_press_release": false,
+        "summary": null
+      },
+      {
+        "title": "Lilly pledges up to $237M per program in CNS genetic med collab",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZExUaVJxYTcxYUczY3FxN1NnaWkta25UaTZZTXE0TGNiTVZ5SFFWd3pPWVJ3TThxMlpCeDdnMktvSE5JVTZnN1BSbWxiUUt3WHhjQjVSYWZoaGJmUEM2WWVWWS1TTFh5bnVkRVEzallxeHlvbW5fTDAtU19COVpTaFowclNwVWV0S2sxcFBlUXpFWWVsZFZuQ1lqTHRoTWFEeHR1MnF1bw?oc=5",
+        "source": "Fierce Biotech",
+        "published": "2026-09-15T12:42:28+00:00",
+        "companies": [
+          "Eli Lilly"
+        ],
+        "is_oncology": false,
+        "is_press_release": false,
+        "summary": null
+      },
+      {
+        "title": "Pfizer’s CEO Says Chinese Rivals Are Coming by 2030. Here’s What It Means for the Stock",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQeFg2Wm5DZ3JMYmFVajNlSGZ2TWJoY2hCRk9NeWZrTE5ZUS15cnpMdVN1alA2ZW9QeXI4cDdzVjkzSGNuTzFfcF83dHFOOWdhN2xxQmlEcjBXT1VBUG1HNGI1RE81Y1pGYi1SYXc5eUpUOTQ5Tk5JZjRjWC1NVlZtNWVaT3EwWWNCTWVOMG90c01tcGpqUGZsZVpPYy1xc2VKeWFJTjE5Y3IySlRLNEF3?oc=5",
+        "source": "tikr.com",
+        "published": "2026-09-15T12:32:23+00:00",
+        "companies": [
+          "Pfizer"
+        ],
+        "is_oncology": false,
+        "is_press_release": false,
+        "summary": null
+      },
+      {
+        "title": "Exclusive | Legend Naming Novartis Executive as CEO",
+        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPSEV3MEtCOFQwU3p1d0JGODhzTUxfMzdtbmJrVmQ4eVc0cTlwQmNOVVBEZzNBOXE5Q204QmJMVG8xQkZmcHpBX0F0c25kd21yRnl2QnFGSVVGSnd4SEpSMU51RWlyd3pGZUt0MXRjM3JJSTgtbU1PaElkdm9JSTRTYVo4M3R1VURfN2c?oc=5",
+        "source": "WSJ",
+        "published": "2026-09-15T11:30:00+00:00",
+        "companies": [
+          "Novartis"
+        ],
+        "is_oncology": false,
+        "is_press_release": false,
+        "summary": null
+      },
+      {
+        "title": "Gilead Sciences Inc's Dividend Analysis",
+        "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNZzE4ZmI1d2VCeG1yVjVGSXJCS3R1cWpzVVpleWtTLXdpaXlUNjRFWGVzZjF1SlV3V2VjSzd5alVZc1ZpNkNWTzVyWGtGVnY2REZVMUJ6WXY3bXptQVRlTDRtSVJfcmg2SVowcW9jdm9rV3RQTlI0NFZMRERoM1J6VHNLMzNKSkRrYXgxaFJNeEdqbU5MQnhnT0dTSVBWNURIX1AyS1Q5bXl3UmZROFZDeElyNHVFcWFWNk1Fa3NVOGFMVGpDdmJab1YzMzFfRGJWbkJ5S0dvUWZ6T2tBNnJxLUJIbDl1YUF3ckdielpiUi1tc19USFBRX3FCMWFmSHZuSDQ2WmxzTUNfTE5YT0tMUQ?oc=5",
+        "source": "GuruFocus",
+        "published": "2026-09-15T11:04:58+00:00",
+        "companies": [
+          "Gilead Sciences"
+        ],
+        "is_oncology": false,
+        "is_press_release": false,
+        "summary": null
+      },
+      {
+        "title": "Merck & Co Inc's Dividend Analysis",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPV0FhZkstOV93V3YxVnRkSU80cjVoRnBCdFJ2dkx2cU1SaUhTUDZJNnYySy1lVk9Fbmw4ZE1TYTJGT0Nsb2tKWk4zWXlBdTUwSlpTSnlfbjZuXzI1ZlU5MERESmJodFduMG5qSDNBNXJHR1pVQjlMdmJZVzl0T2tUTXI2LUlWNDdsVUN2V3J1MUVyVDFiRWEwYXQ5a0k?oc=5",
+        "source": "Yahoo Finance",
+        "published": "2026-09-15T11:00:52+00:00",
+        "companies": [
+          "Merck & Co."
+        ],
+        "is_oncology": false,
+        "is_press_release": false,
+        "summary": null
+      },
+      {
+        "title": "AbbVie Inc. stock gains on dividend hike and strong Q2 2026 figures",
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPdUpDMFI1ZjdOSjNIZ2xEWUJSZDgwTXB3MTFXTElBY0dwTnZGbDFNekh3T0M5WVJzaG9CeTBFcFhEcHRtdkU3OHJCM0FOU1Q1YkVkR2h5RUJEdk93VGhCMEdiVzBwdUVFdXJMSGZWbWJDWmJGSm1NdkZabG1YeUhsRjZMNFhLb2lOYUFBREp6dHdoSFZmY09fWkNvVGxEQWZXVG5GbmhvUkg0MmlaX1hORnhYM0I0aGpaYldXOTlfSFQ0dDdPazVRVQ?oc=5",
+        "source": "ad-hoc-news.de",
+        "published": "2026-09-15T10:24:47+00:00",
+        "companies": [
+          "AbbVie"
+        ],
+        "is_oncology": false,
+        "is_press_release": false,
+        "summary": null
+      },
+      {
+        "title": "Hummingbird Bioscience Appoints Dr. James Garner as President",
+        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNcjd1N1NnSGMzYnBYQUREU3hKZlhrT3YyUDVMTFA4a0lMdHRCMlV5a3l1RFBWT2dvTnFBZ3ZBX3hNSUxVWDcySTZaWk5XQV9VOXpWM1dnYlE5b2VqMjZXcmx1cGRTYmpKNzVTXzVCcDVLeVdvZTRlZU00dkZIa2RxUGhJVzFNQTI5YzJqeG5rN25Kb2t6X2k3NkU2QlFyMFg4NEFMYzZBQ19LZzJWNTE0a3Z5cVJZcTlKSzVfZm52UHZIV05Rc052clUtdFdEYlnSAdQBQVVfeXFMT0hMWExLaEJCX3RsdFRqQ1cxY1ZJRUotQnVnZHBPMkhIbHdaMUhpWWdCejExelMzSW5PeE9DTHpETHF3eW9pTk53YXFpR25YemJlR1JaSXJLaC15NE83bm9fRG02Q0ZzeUt2RlQ0YTc1X3Fjemt3ejJoYXp1WGJTdGQ4R0NuMkRuYzY1YmdmcUlGXzd2U21ueGpkMlhfU2dvanlkUUFOUllmRFNkZEIwdlRfaW5ZVnlJazR2ZmxWTEUyQl93em81QlZmbG9YLUlNNjZvakQ?oc=5",
+        "source": "The Manila Times",
+        "published": "2026-09-15T09:14:03+00:00",
+        "companies": [
+          "Genentech"
+        ],
+        "is_oncology": false,
+        "is_press_release": false,
+        "summary": null
+      },
+      {
+        "title": "German investment bank forecasts strong demand for Eli Lilly's weight-loss drugs",
+        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5nUHFYMHFNcEtGUTdtYVBoMEVLaEx5ZjlXd09qa1ZlWW9mMnhXRjRyS0p3aVhRM0t6VmlyNksta1MxMURjbEJFM1dFekpMNjVreVZ1bjQ5bUhnRUx4bFRvU1ljakptWXdWZWxCeHVzdw?oc=5",
+        "source": "medwatch.com",
+        "published": "2026-09-15T08:50:43+00:00",
+        "companies": [
+          "Eli Lilly"
+        ],
+        "is_oncology": false,
+        "is_press_release": false,
+        "summary": null
+      },
+      {
+        "title": "Revolution Medicines’ chief commercialization officer Mancini sells $3.15m By Investing.com",
+        "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPdnB1ZEU2YmJUbmM1M191bHIxdkdGbGdMd3FjcjNfd1B3YWpObUpPaVpRSkVkWW9MLVZXOW1RNFpsdGI4cHROUVk4NjJBTmtaMXJzTEFUQlpiOFg4bWNRRjJHXzVORjZRcURqckFoelB3ZlFlSlFoLUtNaDh6YkxMaEt5Y1QteW11Rk5pTVRBdWdDR3Q4dGFIVUxRVEZJVkpuYXBEMjhfVE9tY2pmT2F3WVBNSEZmWjdreXFFS0JoMWVRSVBXbHRDancxZ2hxVkw2c0ZycjdVbTFFbkhB?oc=5",
+        "source": "Investing.com South Africa",
+        "published": "2026-09-15T08:26:53+00:00",
+        "companies": [
+          "Revolution Medicines"
+        ],
+        "is_oncology": false,
+        "is_press_release": false,
+        "summary": null
+      },
+      {
+        "title": "Why the EU Biotech Act must deliver practical improvements for clinical trials in Europe",
+        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNclQ3T0duSHV0QU9fYkFjb3R3cDV3R2p1SVRHcFVnZHVEUEc1RTllQlN0MDFUUzNzeGpmLUl4UHZaTktDXy1ENHhNcUx1eFo4MEhaQlpyVENoV2c5VmpONXlWbjdUeWlTOEo5Mkh4YWxYTC0xRmE3dUlaMXktUHJycmhiZko2d3RiVnQ1NjhoRDBFMmJoUWN0aVR4Rkh4c3JGdTlXMUd6YUVIdm5fNDIwYXItRS1pV1dxU1N0dmVzWDA0RV9aZFVMWm5wc2cyV1p1LWYtMU5MVzY?oc=5",
+        "source": "The Parliament Magazine",
+        "published": "2026-09-15T06:55:29+00:00",
+        "companies": [
+          "Pfizer"
+        ],
+        "is_oncology": false,
+        "is_press_release": false,
+        "summary": null
+      },
+      {
+        "title": "Gilead Sciences stock gains on options surge and dividend signal",
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNZ1h2RldIUXdTRk42aWc2aDZLQk1wSmZvY3gzS3hOSUFYRVhZNGstbzBULWRyckJQeUxMUGtFWkRoVlRsSG5rN291V3VQOUpTVDZjRzQxRnJnZ2Q2Y1JJWkFvNnpPNXp6Q2RQa1c0elQtaDNWVEpKeFZJOE80V3RvQW1abzJpRzhULVpkM2Y2VUpBUDk1ak1Ec0c1YlMtM1Nuc0dUNURaVUI0NzBLbHJkOHdPbDZDeFh0dkFma2xkRFZpN21leEE?oc=5",
+        "source": "ad-hoc-news.de",
+        "published": "2026-09-14T18:27:09+00:00",
+        "companies": [
+          "Gilead Sciences"
+        ],
+        "is_oncology": false,
+        "is_press_release": false,
+        "summary": null
+      },
+      {
+        "title": "Bristol Myers Squibb stock trades near consensus target after solid 2026 earnings",
+        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOME1JZHBnUlNjaDRKcmRCcWx2TEZWSC1lclFWLXNfUk5vYnpGTEw2R3lMZTMtQ25pM2JnUTdwVm9OSUJTNGpwMmk0Q3ozbHFLOE9QbWJvZHdQNHRvMkc5ZUFzWEVtZkQ1LVViRGN2ZXV1aVBlaE43R1RqYkFsYzVFQUF3cmNtTGJpZ2xIdGZKT1FBYzBFNmtoajN1ZnpaRkFTU0lkU05yTkI3VGtIYV9ncWl6U3A4RjhHWTBpSmN2R2dteS04MUpHb2FXNXM3Nmtq?oc=5",
+        "source": "ad-hoc-news.de",
+        "published": "2026-09-14T14:26:32+00:00",
+        "companies": [
+          "Bristol Myers Squibb"
+        ],
+        "is_oncology": false,
+        "is_press_release": false,
+        "summary": null
+      },
+      {
+        "title": "Hannah Badri Appointed Vice President and Head of Communications, International at Takeda",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNYnY3U1B3UGpwWjVuNGwyd2I4UHA3cTZyQ25DNC1rcl9fQ0RYRDZIWU9mMHA3ME1laHd1LXVkREVtVlJsVlZWeXAycFg0UXVSQUVpVm9sQUpzbnlmTi1NV2h5TVNvMUkzNkFjSWZTSE1SNzRxeFdGdXdGT0owVHlGNW5QcXFMbmk5TmhwT0h3NlgwN28yN2pCTGEtUTBMTHk0QkJuUXREVktfNFNZ?oc=5",
+        "source": "hrtoday.in",
+        "published": "2026-09-14T13:28:30+00:00",
+        "companies": [
+          "Takeda"
+        ],
+        "is_oncology": false,
+        "is_press_release": false,
+        "summary": null
+      },
+      {
+        "title": "Pfizer’s 6% Yield Masks a Fragile Dividend Story",
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPZTU0TDY2cEZTNlVlQVFDcHVGclVDWnpOU0xkQnkwQmFuRURiUndab2l3NkNIdTJ5ZkxPb0F0djdqSnJ2RlR5UXRoSWxPZTI1ZTdvMmJLX0NsWUszck5zOWd1aUJMWDdCSm1zOHFsM2J1bFRIV05acWNFbW9vOVVSR1lseFlNS0tSZ05kbUpuUnFJRW85?oc=5",
+        "source": "24/7 Wall St.",
+        "published": "2026-09-14T13:19:00+00:00",
+        "companies": [
+          "Pfizer"
+        ],
+        "is_oncology": false,
+        "is_press_release": false,
+        "summary": null
+      },
+      {
+        "title": "BioMarin appoints Bristol Myers Squibb executive to board By Investing.com",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPSlBXNHNrWG5nZUZISDg4dnZicmRrMDJWNFlGWExBaXVndlJWdE13RGN3NHBxZVZ2N1VFWWprVnUzMFZ3Sk5CcUFaSk1LSmFLLUg3UVAxV2IwdzNYNlQ2d1B3Vng5aU5rb1BFakZSUDlUUm5GdlUweVFWSXhMeU8ydHdzb1hBRFZhNjVyd2JzenlNUmUxaTBNdDFzb3ZQMmZJTDZrZkNRMlRnUkRER0c5RVpRXy1YZXpOa1E?oc=5",
+        "source": "Investing.com UK",
+        "published": "2026-09-14T13:14:00+00:00",
+        "companies": [
+          "Bristol Myers Squibb"
+        ],
+        "is_oncology": false,
+        "is_press_release": false,
+        "summary": null
+      },
+      {
+        "title": "Gilead Sciences CFO Andrew D. Dickinson Executes Option Exercise and Forfeits 1,347 Shares",
+        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOemgwTmdrT2RPNWFKaXZwbmt5QkJCU015dG5EWmtGajFiMEdhb05meVR6TVJ2ZnZ4Qy0zMWU1VlQ5WkpHMHdva0hmQUNvaTdhOVRiUi1CbWJGOVhBbmdXS3VuM2dINVlUekdtNklZV3AwWmI3Rm14MGZYaGtSWHJPUlFBMG9oTEFWZ2pQUnJRdDJOTWZ3akoxQmVfWEhPRXZWYXFPT0xKZVZLRHJmVElnVnRxT1lpSk1tS2gxSmxGbV9MdldBNXkxYUZlclhuUW5J?oc=5",
+        "source": "Kalkine Media",
+        "published": "2026-09-14T12:45:00+00:00",
+        "companies": [
+          "Gilead Sciences"
+        ],
+        "is_oncology": false,
+        "is_press_release": false,
+        "summary": null
+      },
+      {
+        "title": "Gilead Sciences (NASDAQ: GILD) Executive Berger Dietmar Updates Holdings After Option Exercise and Forfeiture",
+        "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNRDc3MGxrMXQzT1IySlNod3pUT2RKWGdSVW9LSVNsZnRDMXdPZE9YS1NrSFN4RWF4T0FDUlFhWWJoZWZTMjY3cF9ud0J4R0VLNV96QUhLSmc2bVpVeXJUNVczX2MtWFFVZEZwVGdQek1KQlhuMTZsYWQwZWxmOXlKcHJUNkRoazZtNE0wSFJzYm12OC1XTS1jd25ocmhmMS1YaXdIQmNJbGY3MUNkZzFYS0tMWlJ0OEI4aFlnTURkMy13SVZIbm5LYlQ3cU02cFlJamNCTTZHYnRCUU14M1U1ck9lNnpiZlkt?oc=5",
+        "source": "Kalkine Media",
+        "published": "2026-09-14T12:45:00+00:00",
+        "companies": [
+          "Gilead Sciences"
+        ],
+        "is_oncology": false,
+        "is_press_release": false,
+        "summary": null
+      },
+      {
+        "title": "Merck & Co. stock holds near highs as dividend and analyst support underpin rally",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNQkZ6S2p6Z1hmdm5oOS1ZbjNQWmtDc3JoMVdHQlFIUS1LSmFDTjFZd2VjNUZXaU95UTRhOXVoNDVMZEV2a0FGUTRxSENCdVNIN3FoZW8yUUoydXFRRHJaZFRZWE5qVlpZcld1Y3RCbWZLcmdKUXhiMUZPQ19MWHpCdmwxUGplREdPY2syRVJEYmo5R1NmcXF4Y1JIRlhuaWczZnFza2dvMkw5TnpIcWNqQXZaTmE1MlV2LXhXYWxLVWFjTTY1MEhxcm5R?oc=5",
+        "source": "ad-hoc-news.de",
+        "published": "2026-09-14T12:42:31+00:00",
+        "companies": [
+          "Merck & Co."
+        ],
+        "is_oncology": false,
+        "is_press_release": false,
+        "summary": null
+      },
+      {
+        "title": "Weekly Recap: $70B+ revenue goal and Keytruda+INBRX-106 higher ORR",
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZGNpY3k1SUw0a2kyeGNScnF2d2F2dGxyQmtKQTNkX1NhNzhrZGFURUptSmRqZzFCWmkwTkc5QzY2V0k2NTlJbVJuYzhUdFZvRmhEeTN5ZkZUUng4TUxBOHVSZmcxckFkWjlzaVdoZ2ZGUkhmbWFuYlhmOGZaRU5FdUxJTVVETUNyU2pJRVVCX3RMVU1tNGVickJDLVdtbjVKTzVkbXNlUUZWTWhOVl9YcDJmU1pJaElyOERnaGNXS2IzdlE?oc=5",
+        "source": "TradingView",
+        "published": "2026-09-14T11:22:06+00:00",
+        "companies": [
+          "Merck & Co."
+        ],
+        "is_oncology": false,
+        "is_press_release": false,
+        "summary": null
+      },
+      {
+        "title": "Incyte stock holds firm as quarterly revenue jumps 37.7 percent",
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQdXVEOTJXUnFYaGFRNlV6OXpLZm5yajFMcDl5SHhxd1F5N0hBN3U3b1dLOURIRU1PZld3b1JXRWtxWlMwcW9rMTMxSG5ELXh5djNrdWw1dU5EdnRzWXMzMUZWZThnclBPanR6NmdvVU9rV3IzaWs2MVZUT0hrOVhpZUZnM1E3R0xiQ0VmTGZhY0FuT3lBTUVPd1hmY2VKMlFYUm9IdTN1TThLWlp0T3lPdGZiZUVKVDkwSUpoZjVoSlFzaGhN?oc=5",
+        "source": "ad-hoc-news.de",
+        "published": "2026-09-14T10:26:14+00:00",
+        "companies": [
+          "Incyte"
+        ],
+        "is_oncology": false,
+        "is_press_release": false,
+        "summary": null
+      },
+      {
+        "title": "Incyte Corporation (INCY): Investor Outlook on Robust Revenue Growth and Strategic Collaborations",
+        "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQdXpjb3p1X1hwX3JXOXM0b1QzQU5EeUhPQ1FNX3VLR1BUemEwcjZEZkg1OG5Pc3c2Mkk2dTZaQ0JvMFBqM09LcnhKM3MzT0xvY2hPbnBUMHZJNHFFU2MxeTBRQ3hkbUpoQjZ2SUtSSzctZWR5eTFKRGUxQm9qZEJqZjRCT1ViSEcwN0dWRkZZSnRmVlMtb3hncmxPQkFNS3V3d0cySTQ1RERKdHNrakM5UkJQdllsQm9KTi02UWlqN2p3WGJ5RTFJRnBwVjNoazNGRlZiaVAxQVMwVmNrWlE?oc=5",
+        "source": "DirectorsTalk Interviews",
+        "published": "2026-09-14T09:17:19+00:00",
+        "companies": [
+          "Incyte"
+        ],
+        "is_oncology": false,
+        "is_press_release": false,
+        "summary": null
+      },
+      {
+        "title": "Fierce Biotech Layoff Tracker 2026: Sionna halves staff; Merck trims more NJ jobs",
+        "link": "https://www.fiercebiotech.com/biotech/fierce-biotech-layoff-tracker-2026",
+        "source": "FierceBiotech",
+        "published": null,
+        "companies": [
+          "Merck & Co."
+        ],
+        "is_oncology": false,
+        "is_press_release": false,
+        "summary": null
+      },
+      {
+        "title": "Bayer Leverkusen and BVB Are Interested in Barcelona’s ‘New Lahm’",
+        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQbElKbXNhaHp5bmw3WjJEU0psekpmb1pBMFpJVENSNktseXZuaVNidlZUNzJubHhZX1NMZjJpWTZxaC1LMFYtLUNvT0hFaktsQXFQR29BN1N6anBVWl94T1dNOHdXOVBaai1JaXFYUm9Kdm50SWlURHpVYVNORGxKUHFUVHdpNkFrTU9PWUdmSll6WmcyUEFXTk83M1hPLXVjMWZjbTNGWU15c3pVdFY5TERZLTZpVnptWkJ6VkxvQXVoM2tuZ2xwNFpBOFg?oc=5",
+        "source": "roundtable.io",
+        "published": "2026-09-15T14:10:35+00:00",
+        "companies": [
+          "Bayer"
+        ],
+        "is_oncology": false,
+        "is_press_release": false,
+        "summary": null
+      },
+      {
+        "title": "Eli Lilly To Present Fresh Data On Foundayo, Retatrutide In Europe – Here’s Why Berenberg Sees A 21% Potential Upside In LLY Stock",
+        "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxQa2tkZVZrVWtZdXpuUURBcFZrRVZBUDRJbUxPOEwtbVlNeHB5RkZ1RWJjV0RqbVVkZDhhWWZlclNHU1M0ejNFazQwYXN4dnI4QlMzOHJySDFaYmJSY3ZGWDdadnBCRTd4bVhJQ2dxLUN6MkR6MzZUenpGTGZTSHhTeDQxYTI4NlVZamNUd0dNTnhTLU42YWJOaGlXUVVSbk5sZU9XYUdwZ2p6TGQzejRwblNid1FDTUxfUEVGVlVNd0haTWVWTWFMT3BQbjk3aWU5WUE5akxpZFNTMzlTS18xVTFJSXhGVE1BdEl3MlcwRGpqX2xwVkJIOXhwWDJ6Y1JaaVZGZTRMOGZDc1hTUS0tcTNxYlJGdw?oc=5",
+        "source": "TradingView",
+        "published": "2026-09-15T13:52:00+00:00",
+        "companies": [
+          "Eli Lilly"
+        ],
+        "is_oncology": false,
+        "is_press_release": false,
+        "summary": null
+      },
+      {
+        "title": "Venus may once have had a moon, but new simulations show that as the planet’s rotation slowed, tidal forces could have dragged the satellite inside the Roche limit and destroyed it—in some scenarios within just 30 million years.",
+        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9ZUHpnT2pyV2xGeHg4cmk3NUY1aHZlRFRvMzJ2aWxCdG1FZHppTGZfTU1IcnZ0WGZWSXV1NmR2bENMZk1pTXpqSnNUVGFBaFAyYXhram5hZDVBNFFuLU5WWHJURFZWMVJVWFJ5LWYtUjJGeHBpRDU3OHFuTWEzNVE?oc=5",
+        "source": "Space Daily",
+        "published": "2026-09-15T13:44:32+00:00",
+        "companies": [
+          "Roche"
+        ],
+        "is_oncology": false,
+        "is_press_release": false,
+        "summary": null
+      },
+      {
+        "title": "AbbVie chips in for neurology advocacy through PGA Tour birdie campaign",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPSzV2YVNmdTlsV05RZ3FYdHl2ZlV2d21UelJGYXd6cHF6U0xfX3JoWFRoNl9IMS1Sckt3WDljY0MycGpIc1lBY2ZYa05BRkZBTWs0eDdZVzZnbDN5LWlZQ3RoeGo1VktiRGZHQmlPd1Q0Q1hhaUZkTDU4V2ZXQi0tODZCVUNVdXF6aHV3aUpIY2hCaG5QTE5pN05UMjZIRXBaZlNPbHJB?oc=5",
+        "source": "Fierce Pharma",
+        "published": "2026-09-15T13:27:00+00:00",
+        "companies": [
+          "AbbVie"
+        ],
+        "is_oncology": false,
+        "is_press_release": false,
+        "summary": null
+      },
+      {
+        "title": "AbbVie named Official Pharmaceutical Sponsor of PGA TOUR, 2026 Presidents Cup; launches Birdies for Brain Health campaign",
+        "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxOcFkyMVpiWndBaGRadXk1TEk2Q2ZtYmZ1a2F0VkhrbXNjOHZqX2NsNFVXczZ0SGVieThZNmlKampneFYxaG5jaXJfb0hScjVwVU5WS1VoVFJPbmpNRWd3djdYNnE1bnctVEMxQlV5SFNrTjRON3RSTi1oeDVnbm1ja2tuN0RMb0k0dzh4VlpXNVhmaW9BMV8zX0JWY1FtcnFHQW1Vc1hGRmhuMWhMTVdDb3l3MksyWDRTQk14X25aWXZoQjNwcjRyTnljQXVocnZ0YlVjX1dRZ2lfNnFkLXhBbzFZOXVXckp6NXNXMThFZXFHSmktdEZObEF4c0JxUkc5bUJYbGtZZ2ZXWE5tZnlOcw?oc=5",
+        "source": "PGA Tour",
+        "published": "2026-09-15T13:24:01+00:00",
+        "companies": [
+          "AbbVie"
+        ],
+        "is_oncology": false,
+        "is_press_release": false,
+        "summary": null
+      },
+      {
+        "title": "GSK lays off 650 staffers amid closure of German vaccine manufacturing site",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNYmIzbTBhS1FaT2hqSV94WUg3VjIyTlI0SEp0X3VUZnkwZUhyM2JERmFUMGFUSVhCRnh2RFJSWEVpdDdNVGhzR2k5eW5QY3ZoN0hRMTZvUHhpSVR5ZnhsTEtRWVBJSVFMbVNRZVJvSVg5VFFYbUx2X2ZRY0RaWTJkZTdVLV9Gc1I1bHJTX2hUNXZTYVhId2d4cHJ4Q3NTeHNfUlAzWElGZVVoWlNJMWc?oc=5",
+        "source": "BioSpace",
+        "published": "2026-09-15T13:16:57+00:00",
+        "companies": [
+          "GSK"
+        ],
+        "is_oncology": false,
+        "is_press_release": false,
+        "summary": null
+      },
+      {
+        "title": "Berenberg bullish on Eli Lilly, sees nearly 25% upside",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQRkZjTkhaMHZZRXRuTVNMbEVRaTlUTkF6Njh0a3BDZkZ3WlczWmlmR1N0dEpaVm5FZWI5bzVHVk8yemFscC11ZE9qNzZwZFB3OS1rYXZvRmlPeHNJb3h3X3l3WVN1LUY4NlptSG52V1k3ZFgzMm5nQS1FWmZLNGdUblc3U1BrWVUzSG9VSFlFNWZ5NVZfX3RjbjREMnFTN0VEU1RRTTc1MElnbjY2Snc?oc=5",
+        "source": "Investing.com",
+        "published": "2026-09-15T13:07:30+00:00",
+        "companies": [
+          "Eli Lilly"
+        ],
+        "is_oncology": false,
+        "is_press_release": false,
+        "summary": null
+      },
+      {
+        "title": "There Are Plenty of Eli Lilly Bulls: Here’s What They Aren’t Telling You",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNTFFfdzhiNnM4T1NzV1NoUEJNUHZsMzladTVkd0JZSDZNcUxuaWs0Q3VQbGpQZ2dMWmc3Q2hKOUgySEpkNF9Sa1Zmd1d0eE5oVzg5QkVFYXl3eG1tUEtid2xNODJhM1BPcUY4elRHa0xmeTdDV1VTMnhBOVJ6NVU5ZzZsRUc4Tk5laU9qUUREWkVzRGx3QjJGNXpNM2dWdUJCUWx5UzBRM0RVUFRPRE84Y3lUWQ?oc=5",
+        "source": "24/7 Wall St.",
+        "published": "2026-09-15T13:05:00+00:00",
+        "companies": [
+          "Eli Lilly"
+        ],
+        "is_oncology": false,
+        "is_press_release": false,
+        "summary": null
+      },
+      {
+        "title": "Is Trending Stock Pfizer Inc. (PFE) a Buy Now?",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOa0lVT3J1UHlqdHR4c1NOWHRNOGZURnFDOUlYZFc1LVRLLUIyZHVjajU0bnVRdzBFbVhoUUNKa1lmNUY1SmRBWHY2bjhkTHh0WU9LWVQ1ckpNZmZQamVnN3ZMV3AtZE9rWFRrenNadFhtSVVYZWtLTDMwWjdqLUFCRjB2ZERLYkFUMDN3OFNKQWx4Q0htRzlCUE93?oc=5",
+        "source": "Yahoo Finance",
+        "published": "2026-09-15T13:00:03+00:00",
+        "companies": [
+          "Pfizer"
+        ],
+        "is_oncology": false,
+        "is_press_release": false,
+        "summary": null
+      },
+      {
+        "title": "AbbVie and BioLabs University of Toronto Open Applications for AbbVie Biotech Innovators Award at Life Sciences Ontario Forum",
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNVlZJbnhNc29kVzA0WXpCQUlkMnZDbHpIVW82eXFpTHdzbmpKQXZZaVpTam13V2xiQUxSMWpwR3lpbTNEcFJNVXUtdjVNMGJBRjd5V0dCTUdteUVNX1E1RUZJWmRnRGN1LWljbUl4MUozMVV1dUJCcnpLOTN4cjRBVUN6UVVqazJQeUhrZWh0SEU?oc=5",
+        "source": "Yahoo Finance Singapore",
+        "published": "2026-09-15T13:00:00+00:00",
+        "companies": [
+          "AbbVie"
+        ],
+        "is_oncology": false,
+        "is_press_release": false,
+        "summary": null
+      },
+      {
+        "title": "Roche Holding stock slips after Goldman Sachs lifts price target",
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQNko4a1pTelgydC1LSmVxVG1GRnI1aG4xQVlSS3h2eFQ4amJlVXRxb0tvZFA4cnVST1VUVWJMamV3RkNOMEV3cjg4NGl1dGgtbm9pRFJySmdUVUh5NlU2Q01RaVFQTXpOX0V3YVRGMWpIVGNkLW9ldDExWm1FRlRoaVhSMFJmRXZ6elFjZ0U0Q0hvNk5vR0dUN1AxYW1FZlM1XzM1Z0N5XzBUZnpQaVh1Z2JTUjNTM0pleHR2RGhOTm9hM0s5NEE?oc=5",
+        "source": "ad-hoc-news.de",
+        "published": "2026-09-15T12:55:23+00:00",
+        "companies": [
+          "Roche"
+        ],
+        "is_oncology": false,
+        "is_press_release": false,
+        "summary": null
+      },
+      {
+        "title": "Laboratory negotiations start with three months left",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPQ1BBeDJMaTFEenl5NVlvM0xFRnJ3T1RDUFVXNnVrZHQwTkVSTGhqX3pveDZDbjlhbzZKVFRFQVFUUDE4UjF4ejM0eHZ6eHZGdzNpV1NPQWE5aklsMWNPcHl6WkhaM0N3X0piUng3R0RadzBySTFlczYwbElxNTVXTWY2ODY?oc=5",
+        "source": "delano.lu",
+        "published": "2026-09-15T12:47:32+00:00",
+        "companies": [
+          "Janssen"
+        ],
+        "is_oncology": false,
+        "is_press_release": false,
+        "summary": null
+      },
+      {
+        "title": "Amgen stock gains as FDA eases Imdelltra monitoring burden",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOYTVUVGhPUmhXMXN4MzNsM2ZJTXBEbl84Z1pvN2tpdVlPR24xaklzMVRJXzhiby1YMDBWZ3JsbFgyRGl3cVNmSEtRYzN2R244bk8wTHdNZjdQdW9mOTFkOS0zWW1PVjZjSFRFR1FRZmFydGFwX1RyTmFjWXFYTVZqTF91WHZ2YTdnM3o4aXYzU2t2OGdFbTFyeVY4cmtVLUd0UDYybjVRSm1FVFM2RVBEUDBlMnFCSUlzV1lMQVdB?oc=5",
+        "source": "ad-hoc-news.de",
+        "published": "2026-09-15T12:42:02+00:00",
+        "companies": [
+          "Amgen"
+        ],
+        "is_oncology": false,
+        "is_press_release": false,
+        "summary": null
+      },
+      {
+        "title": "Kirksville tennis picks up first win of Stark era versus Mexico",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNVjdyNlBRLU0waXo1N1lVZnVDRlBfanN6bW5LTzZKeEliUGxwRmNGNkd1V3lHU21OVTdMamNRT2dTb1lJRHJSUkhkUDRxWXBhUW0tY3hhd18wc25oc3hyWlhpSWg0SlZTM0J2ZDhDanFaU0Jpa3BYUkV3UWtyVFJTUnNvQTM0QVJEZnk0NnhpRFFaaWJjY3RKT1Axdm53MHVlODJELUl4Zm9JUDlNOTZsYTJiR20?oc=5",
+        "source": "Kirksville Daily Express",
+        "published": "2026-09-15T12:33:56+00:00",
+        "companies": [
+          "Janssen"
+        ],
+        "is_oncology": false,
+        "is_press_release": false,
+        "summary": null
+      },
+      {
+        "title": "Eli Lilly Vs. Merck: One is a No-Brainer to Hold Through 2030",
+        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOVTlaSGdfNHlJZ203b29SSWt6ZjA2NG5aN3g2bUVnRkdIQWM2TmVHMUg3RzJSeW9iTGFPVUdnM2ZKR2JXRkotR1JnRzVYRnhaVWFRb0NFQmtpc3FIdDF4UUFPRU03LS1fY29SVkdiR3JqeVA2cS1kQWFRYnp5VVUtVmRGQjFLX1NtNE1F?oc=5",
+        "source": "Yahoo Finance",
+        "published": "2026-09-15T12:30:57+00:00",
+        "companies": [
+          "Eli Lilly",
+          "Merck & Co."
+        ],
+        "is_oncology": false,
+        "is_press_release": false,
+        "summary": null
+      },
+      {
+        "title": "Novartis: Driving Innovative Supply Chains With RLT",
+        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPYml1aERxaTh4bGFGS2Q4Ri1WaHNrbTRCWmVnT2I1V2t0SFNzZEJwSGtVazdaaFVaTi14NWR1UWR5dGMzZDIzTzQtTVB4ZEVVT3FGT0JROGF0MEZFRjVKWlItOVJ4N20yMC1fNF9EaHRnWjB0dTdaYnZFbldNS1FGeWJtcUczdy0xbEp5akhhYw?oc=5",
+        "source": "Supply Chain Digital",
+        "published": "2026-09-15T12:18:17+00:00",
+        "companies": [
+          "Novartis"
+        ],
+        "is_oncology": false,
+        "is_press_release": false,
+        "summary": null
+      },
+      {
+        "title": "Eli Lilly and Novo Nordisk have paid more than 270,000 doctors — one as much as $1M — to promote GLP-1 weight-loss drugs",
+        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQUGdBX1gzdVg1SmV2Y2k0WU11bHdNRGRsUzUyMUZPLXZsS0JnVTFFVC1qWENUay1LN1RQemV4THdfMEZpTE1tVEJkeHVXSGI0VTRiT18yTE9udFVnbF9zaEFBOVIxcWNlMTBzdE5oaU5VVTdfYUJUbU5kRUZrUDc1cXVlU2F0SElVaGdVT2h4VFJuQQ?oc=5",
+        "source": "Yahoo Finance",
+        "published": "2026-09-15T12:15:00+00:00",
+        "companies": [
+          "Eli Lilly"
+        ],
+        "is_oncology": false,
+        "is_press_release": false,
+        "summary": null
+      },
+      {
+        "title": "Martin overhauls its Nazareth-made 16 Series – here’s what’s new",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOcTdOTHlZelFzM0hjY1ZMbHI5QVJibjZRcVVub04zVGZLdU0zSnE5QjVEb0l4b3J1UkdoU09qdTdIOTVUNWZ3bTYwMUdpTFJiRDd2cDR5OHl0V0FwRmYtWGxIbnc2Wm85UDdFNkFIYkh2TzRYcmRMR2Nxem5PR2NqNGhTamtETVEtSUU2bkMwc2JZUXJOX3RHdjF1Zw?oc=5",
+        "source": "Guitar.com",
+        "published": "2026-09-15T12:06:33+00:00",
+        "companies": [
+          "Roche"
+        ],
+        "is_oncology": false,
+        "is_press_release": false,
+        "summary": null
+      },
+      {
+        "title": "Here Are Tuesday’s Top Wall Street Analyst Research Calls: Autodesk, Eli Lilly, Etsy, Lear, Netskope, Nokia, Northrop Grumman, Rapid7, Rivian Automotive, Ulta Beauty, and More",
+        "link": "https://news.google.com/rss/articles/CBMisAJBVV95cUxObEEzMkFyY19WLUpNUkxTTTRjVGZEZWUxY3VfcGxzQ2cxNHQ0bmIyZ1hPY1RMU05IY3RDSTM2dE9CZTVKVHY2NFRvTGlJanZSaGdhZmRjeVh0RXRYMnlPSEVCQlNEcXhySWVZWFVqUUVXcVpULXdZWHdaZDdpOVhJNEk2ZFl4N3NGWE5aaFJTdWlZVXhPQlE0bDhFSE9qUW9RYkU4Q01DNlFTMEY0bXh2aW5OZldBUnhBNVk4X1UtS1dYSVJjRE9TUEYtYWs2S0NRX2FaTkRWNEdkVVdCNl9UejhLWkY1azNwd2xlcUpzQjF0Q19lOXlQY1paUVNOSFBJT2lUZTFTblJyMlllTVYyRGtlT2Y4TVFTdUR0akVzZlFBQkdSMDl3SWpDby1WYWxG?oc=5",
+        "source": "24/7 Wall St.",
+        "published": "2026-09-15T12:04:00+00:00",
+        "companies": [
+          "Eli Lilly"
+        ],
+        "is_oncology": false,
+        "is_press_release": false,
+        "summary": null
+      },
+      {
+        "title": "A skincare company with more than 200 clinical studies is bringing a new framework",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNR2EzVzhjZzFaVk9GbnJ4LTN1Zk8tMFdVQXI2VDVFT1l4QXpVVnQwdFhWa1ZZcXZwMFRDbVhQUzQydlpKeERYdFpVQV9fUkNaR1YzbkpqM25GY0daNkhPNFNWWWZxb21pN0VjYU1PdnNBS2hJTWRldV9OQ3lhRU5PYlhpNWVHQmdYU3dIaW84bkptLWo5Zm8wWTR3RzM2U0FSdnVjcE1nUDZkRFhvVEhNcDctRno2WDRTai1mN3ZINFA?oc=5",
+        "source": "Stock Titan",
+        "published": "2026-09-15T12:00:00+00:00",
+        "companies": [
+          "AbbVie"
+        ],
+        "is_oncology": false,
+        "is_press_release": false,
+        "summary": null
+      },
+      {
+        "title": "Here are Tuesday's biggest analyst calls: Nvidia, Apple, AMD, Etsy, Eli Lilly, Samsara & more",
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNSHFJV25tNmx1R211LURzSHRXSFdkNmpjcUhRSHlROElQeXVFNlhiMFh0TzBfOFVpNkpuaDlUVTlhVFo2b3VpMVUxSWRINnllVUhLMjJTX1hBRHJhUVBfMmJrTmNIeUowd1JEX2NCT2Q2LTNzTnBPV1lLS1plLUZ4ejhJejFlZ00?oc=5",
+        "source": "CNBC",
+        "published": "2026-09-15T11:57:50+00:00",
+        "companies": [
+          "Eli Lilly"
+        ],
+        "is_oncology": false,
+        "is_press_release": false,
+        "summary": null
+      },
+      {
+        "title": "Legendary Truman swim dynasty honored on Saturday",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNYjlQYTFvQ2RuN0Rza0RaUWdIMzRmUURRV2dLOEpOcmIzU2d6LUFadUxUWG5kV0ZtU0c1VTV0MzVzdDU5ZmN6eUJLU01TMnNhcHJma2xYOGZkcTNPQ3dQbW55eG5pRlRqNEJRYV9VcmgtNnhtVHE1UVpmSDZzTjBxTTV4dS01Y1NZUXk3eDlDV2p0ck5aRTdvM0xJVUstaTVwbmVr?oc=5",
+        "source": "Kirksville Daily Express",
+        "published": "2026-09-15T11:50:55+00:00",
+        "companies": [
+          "Janssen"
+        ],
+        "is_oncology": false,
+        "is_press_release": false,
+        "summary": null
+      },
+      {
+        "title": "Amgen to Deploy Veeva Vault CRM Globally",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPanVjRV9BbERWNWlHaV9ldElQeFZDY3VLcVJzVUZodDBKNUlXMkFva1FhUTVrMjdFWkVIR05TY2tqQlJHMV9mdmRYa3lfWlFwT2x1Y01wYzduSF84WXRZXzhZWGV5WkJoUzNsb1ljWVRya285Q2RvM2hVZmJiaHhIVXJQbXFjd3AtdlpTWDdRa2UxOTRHamMxVw?oc=5",
+        "source": "marketscreener.com",
+        "published": "2026-09-15T11:49:25+00:00",
+        "companies": [
+          "Amgen"
+        ],
+        "is_oncology": false,
+        "is_press_release": false,
+        "summary": null
+      },
+      {
+        "title": "Preview: A new voice with the same mission",
+        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNTWt0eHpNTVZ5d0Q0dXlyUGtZZGducHozUElZSTVTUEtOUFpDdW5zVE8tWTJoaTFyT0xnVWlVU0l4MWRWazFHWkRVcFRwM0t4SnI5WjUyeExCelBGT3JxTVV5UDVsNTMxWVJtOFJDbDA4LWxrelFCelRDaEtLbnE1OTFCQjdXcTNjRWdHcVdoTk84dw?oc=5",
+        "source": "The Hofstra Chronicle",
+        "published": "2026-09-15T11:43:52+00:00",
+        "companies": [
+          "Roche"
+        ],
+        "is_oncology": false,
+        "is_press_release": false,
+        "summary": null
+      },
+      {
+        "title": "Why is Eli Lilly stock climbing today?",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOR2xRZ21tUlV5ZV9peFNQNlVjUm5xMGpyRUVzc3BtVXNPb1ZENGJPMkpaR1VNalpqUmJ6bm9xQlNBdkJZYnFMWUM5RW9UV0t5SmVqdWw2WnhpR1gwbGdlVmE0Q3VpY01kaGNjZ1BYb2tiSGVoNUl0VUxrY0N4cUhDUXRsT2kzU2dENzFnMzNfUzFwUnFCZVMxNFdIVHpnTDl0eFNUc01TbVNPZnc?oc=5",
+        "source": "Investing.com",
+        "published": "2026-09-15T11:22:47+00:00",
+        "companies": [
+          "Eli Lilly"
+        ],
+        "is_oncology": false,
+        "is_press_release": false,
+        "summary": null
+      },
+      {
+        "title": "IP Group H1 2026 slides: NAV rises as Pfizer obesity asset surges",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPNWNzaGpzdmZxNE52REExS3R2YmNGUzdscmZMS0xWeGpQaU5JdERQS2dLMHZKU1J1bFgxdVg3VXM3U2hKYWxKMDNINHpuSkJRNzJ6QjlfUlczRzcyZFFtazZoUGpIajVrMDI1NnVuX0otM0ZWb29qenVaYUdiX25vYW02OVpzaDhKa0lzZ2pLZ0ZaODhJcjFweGk3bTJtV1lQc003UGlnNjZ0LTBJVGg1UzFLZmJQWXZnT3FTSkln?oc=5",
+        "source": "Investing.com",
+        "published": "2026-09-15T11:18:45+00:00",
+        "companies": [
+          "Pfizer"
+        ],
+        "is_oncology": false,
+        "is_press_release": false,
+        "summary": null
+      },
+      {
+        "title": "Leading Biotech Selects Veeva Vault CRM Globally",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQRjkwOXZORVZDVHY3Nzd6Z2FpTGpaSnNiVGd3cEhQdEhMQWlfQ0JLVmJnbFBRdFlJVnNKRWFuU0NNRTg2TVFrMnFRdVBPQ1AyTDVDOVJkRkE1eU11OURJWVVPMHJyRzJ6bzdOa3NMUzdDZHBGY1FFQTNxZ0dIM19vb1pMZFlxZXV6Q1JTMU9VVWNUZnZkVGp2MU1HSnVVaVhSRkE?oc=5",
+        "source": "PA Media",
+        "published": "2026-09-15T11:04:26+00:00",
+        "companies": [
+          "Amgen"
+        ],
+        "is_oncology": false,
+        "is_press_release": false,
+        "summary": null
+      },
+      {
+        "title": "Exelixis Eyes Zanza Launch as CABOMETYX Growth Faces NET Ramp Hurdle",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPS00xcmktejJyZDlISHBrb2xHQ2tFRWVMcGQyU2UzSldTQ0dXSGRKX2NqdnZMaTFtdlEtdm5jMENsOGpmYXkwTmhOWFdJdDRhTE1NaU16Y3BwUjB2VU1mZDRXQldKbzRwbFlyZEJCMGx6QldKRzBvSTJnOUt0eHhkLTFaY29HcUh0dGpIeFkzanQ5SDluLXFud1g4MGJMUQ?oc=5",
+        "source": "Yahoo Finance",
+        "published": "2026-09-15T11:03:21+00:00",
+        "companies": [
+          "Exelixis"
+        ],
+        "is_oncology": false,
+        "is_press_release": false,
+        "summary": null
+      },
+      {
+        "title": "Bayer Leverkusen vs NK Celje: Match Preview",
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPMjJUZ01YeHZ2S1RWQ21zaVVGejdFeTZibndNUWRlV09fSWhUdUIyZlpSclhEaHVvbGZyNWVPR3ZqdTYzZlA0b2ttb2x3QmZuaXFiWkhHajgxSWtOZG9xRlVZUnM0TXEwcTJ4enBNaUtwN0xDV29LdTBva2VjQVlmZlVza0FaUnNz?oc=5",
+        "source": "365Scores",
+        "published": "2026-09-15T11:01:29+00:00",
+        "companies": [
+          "Bayer"
+        ],
+        "is_oncology": false,
+        "is_press_release": false,
+        "summary": null
+      },
+      {
+        "title": "Chicken salad is trending on TikTok. Where to get it in Delaware",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPV3Y4bGlzYnNERnhzWnFEZzdLMzR2Skdva3otd0RTdFBOMmVuLTVVVHItUG54eGJ0eVBRWU1ZS0tCY3pVTmFWS1RudjJmNzVCTzNHWDFGTTZDbGNCX2hhTzJ0MGI0ZlFkWHJEVVNDWEs3d180azFCODQtSXRVZlgxV1JuNmo4alpYejdtTjJEVmZIRWFzQjZKb1lSTDZGWmtQNnBRU0ZHU3NaTmE3cjhvdElmcHI1QQ?oc=5",
+        "source": "Delawareonline.com",
+        "published": "2026-09-15T11:01:00+00:00",
+        "companies": [
+          "Janssen"
+        ],
+        "is_oncology": false,
+        "is_press_release": false,
+        "summary": null
+      },
+      {
+        "title": "La Plata snaps three-game skid with 10-inning walk-off victory versus South Shelby",
+        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPRlozN3NMTkVaYTkzZ2RUTDZvVHg2TTA5eGJtRk5lcUZSUm9aeHNhM3BZcjJvUWJaVHVpTkl5bmRNVHJrTjdhdnhjWVU5YkxHYjdpTm9iWjNGclh6TGNqZzktVXUtRG0wM2dsd0hHT2I1TGVRWGJkWHFBaU95SUhLbE9Sd0tBcm5nT0NFNkU4QWdNWlY2TXVWNi1NdElwQzBJemNZalhfUEFCdkNtMHJMMl93NDNzUWFLY3B2dFliamthLTNfeWRwQlV4VkRLc1k?oc=5",
+        "source": "Kirksville Daily Express",
+        "published": "2026-09-15T10:58:17+00:00",
+        "companies": [
+          "Janssen"
+        ],
+        "is_oncology": false,
+        "is_press_release": false,
+        "summary": null
+      },
+      {
+        "title": "Lilly to present new data on Foundayo, retatrutide, and eloraTZP at EASD 2026, as it strives to change the course of cardiometabolic health",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZUpWNFNGSENRQnZZMVI0RGNRRm42RElGR3NZR2hkMWp2aU5MSkF6LWxnVVZWek14MW4tYldFOU5uTW1ZRlYtS3dZRUVlbjZTRnJsUDFERzBOY1RHYU5oWFlDaHlaV0FyZ2lBZTVlVGdtY3JuODU2aWxxU3RUZEtiUnA2MGZUU0pDdlRId2VYSm1yZ0M2eF9US2g4eWc0QVhDUjhNbFhId2pvMjBSeDRGeG9VZW9MYW0welcxY0JnczA?oc=5",
+        "source": "investor.lilly.com",
+        "published": "2026-09-15T10:45:28+00:00",
+        "companies": [
+          "Eli Lilly"
+        ],
+        "is_oncology": false,
+        "is_press_release": false,
+        "summary": null
+      },
+      {
+        "title": "BK’s Breakdowns: Shane Lowry’s winning WITB, 2026 Amgen Irish Open",
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPakNqMWtZQkx1cFBWUVFydmt4UjdEU2VkWU43RWh0aVk5cGxiV2xjVlBlTGVuV0w4LWFDTktjV1I0eDN5eXZYeXd2OWNCQkNtU19qOWkyNlBQdmVMMW5mZU1ORmo2dnJyLWZSM0RBOVBOVFFKSGhRNUJodG9PdlExM19UeGstNkVqR2Vtc1pyMTd3NEVZ?oc=5",
+        "source": "GolfWRX",
+        "published": "2026-09-15T10:30:00+00:00",
+        "companies": [
+          "Amgen"
+        ],
+        "is_oncology": false,
+        "is_press_release": false,
+        "summary": null
+      },
+      {
+        "title": "Eli Lilly halts early-stage obesity drug development",
+        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5ybTNCaGtndkUtOUZ4QWdreUcwNk4tWVZyTXlLYXdRMXcyWTBwMFoxdFUtM2I0Zk8zbzJfSHpaNWwyQl94bFlRbncydXY0LUw2RDRVS3YyOUxVeFI3My1oS25DQTZlYjFvQ0tkcnhhQQ?oc=5",
+        "source": "medwatch.com",
+        "published": "2026-09-15T10:17:31+00:00",
+        "companies": [
+          "Eli Lilly"
+        ],
+        "is_oncology": false,
+        "is_press_release": false,
+        "summary": null
+      },
+      {
+        "title": "FDA to decide on Takeda's psoriasis blockbuster hope in Q1",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOM3otWEFKM2FGZGVtNTJLTUJoR1ZHdGFoQnFXMlpyWjJILVgzV2lKNmQyZTd1LVZndHF6QnU2ZVVnTnBlT2E5a0xlVF9scjZPUkhKaDRtby1kZXRkRS1WVVNQaWJpRGxUcFFLYlZnOG5wSG5ELXEwQkR0Y3dZNERRNVJqM2s?oc=5",
+        "source": "pharmaphorum",
+        "published": "2026-09-15T10:02:50+00:00",
+        "companies": [
+          "Takeda"
+        ],
+        "is_oncology": false,
+        "is_press_release": false,
+        "summary": null
+      },
+      {
+        "title": "Roche Holding AG : Goldman Sachs reiterates its Neutral rating",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPWWJTTVVtRE5lX0FmSE1WX05PdTk2VTBLbktkQkZpbXFTa0ZpZTY0SDNNNVV3dG01SmV0NzF3UjY0SzVVUUp4NjdEdEhEc2s3aFhFM2hoTUFzT2FHcExRUUR3LUpIQVQ1WlcycFlEWUJDZUR5dFF0MEhRaXhVNnFzanZOdEdnSW9fMjBYWFZmbGh4QzF1enh3Nm1mMW81Rk5fSTlObkdlWi1aVDdJaG8tRU04Yw?oc=5",
+        "source": "marketscreener.com",
+        "published": "2026-09-15T09:50:26+00:00",
+        "companies": [
+          "Roche"
+        ],
+        "is_oncology": false,
+        "is_press_release": false,
+        "summary": null
+      },
+      {
+        "title": "FDA reduces monitoring time for Amgen’s Imdelltra infusions",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOdHRIQ1I0VUNuV0lzZE1fck1lUVNHTU1IUDM3VlVWZ1VWR1Q3T2dFN3dMdVhwam1SdzVkUGlqaVd1NmtzMU5jNmxvYmUxN0o1bjgwaVduWXlaZDA0N1ZGbldCc2k3NS1ZdzVrczhiX1FQal9vbERhQndlbnhoX2RFNjFVRVY1cUpGTE9hT0ZMNDIwVHBlQXVz?oc=5",
+        "source": "Yahoo",
+        "published": "2026-09-15T09:40:05+00:00",
+        "companies": [
+          "Amgen"
+        ],
+        "is_oncology": false,
+        "is_press_release": false,
+        "summary": null
+      },
+      {
+        "title": "Incyte: Priced For Success, With No Margin Of Safety (NASDAQ:INCY)",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOR3BxX19FWFpRMVo1dHpXVnZvcHVLd1M0RlhWOS1Fa3ptRmZBYjB2Q0FGUXJOTHItWFFjQTJNNWdIVTVjU3dDZzRWMjktV2Q5UE92RktSMzVVRG5GVWo3OVJURzlUSXF6NG1vWnZ4NUJUVlFYRUl2elJXY1BwMWxVZi1PMzYwQzQxbEpyd2Q0bjdHSFVkZUE?oc=5",
+        "source": "Seeking Alpha",
+        "published": "2026-09-15T09:34:14+00:00",
+        "companies": [
+          "Incyte"
+        ],
+        "is_oncology": false,
+        "is_press_release": false,
+        "summary": null
+      },
+      {
+        "title": "Exelixis (EXEL) Looks Fully Valued After FDA Review Delay",
+        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPLUlRRXlKb01KRFQwak5jYzR4S3lTc0tOV2k3dHdkbG5fbXVnWGZEZ2hpa25yQm9pZHVvUWNRMXBpc3VDanBSdDk0Znc5WU96N1RmbHl6TjZzcmlaYmFaYUJxdVRlY2FhcjRmTUNhcmZQVGZ2TjVUWGdsX0psQ19NSFl5RUdwMWh5WjRCd0NxYU5xMjdKbk5pRnNoWGdpWkI3V1RHanVHMW1vRXU5UlI5bExXMFJsTU5JRjdzMnYwc0JGUnlfUXBIS1FydjkwelpkeVd30gHYAUFVX3lxTE5Ua1NqMjhvSW1KdDVJcGNuQzNsOU5Zd0NxNnFMbElPT3BLeGZMLUN3Q200Mlk0eVpTWGxjam5ObmFXVVlXeFp1aGk5UDR1aVhtdW8wTl9RUmRoWk1xc2JyekdaN3p3alFpNmpQWmxhT3NXQlEzM0hPREg5RDRXdjFBaUtCVW5NaWJtZUtncVRCSWE1azE5eHA5WFJBZ3N5T1VZUlRocmFoZ2VBTGp2TlpqRmVTV2JVbEo3aUJjVGdJa3IwUlRTa3VoY19USm5OTkxEQmk5MWZaag?oc=5",
+        "source": "simplywall.st",
+        "published": "2026-09-15T09:27:00+00:00",
+        "companies": [
+          "Exelixis"
+        ],
+        "is_oncology": false,
+        "is_press_release": false,
+        "summary": null
+      },
+      {
+        "title": "Frauen-Bundesliga - Bayer Leverkusen Women 2 - 3 Bayern Munich Women",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPOFFqQXdGRTNTRHM4VHEzWmRIdlJqZ1RDbzVjUHBqZVctUkFvVHpnN0RKNmRXVXhpT3R4WVVBMmRMX0JNbHNpbHF3ZkJYT210Y0ZzUkxpRWN5SHY2M084MFlWNkREakNJZnhfRTFMWklMOEdTMXFMVnhyLWRPcUp6Mm1sLUNJcklfT1hOT3lfeUZtR1RCcFl3cDZDSUFYR3lMaURUZG1PcWg?oc=5",
+        "source": "OneFootball",
+        "published": "2026-09-15T09:19:43+00:00",
+        "companies": [
+          "Bayer"
+        ],
+        "is_oncology": false,
+        "is_press_release": false,
+        "summary": null
+      },
+      {
+        "title": "Why Is the Market Reassessing AbbVie (ABBV)?",
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPZ2dRcGJsMGE1dk9GLWI1VzZiMXB2MGNjSHJkS1YtY3ZybEh1eEsxcjdUU1lJM3k0ajdLa1BTdW0zWDJRZ2NEZEh2VWxZMHlYTjhEbjJSVVA2a0tBVWlxdHlTdEt2QmFzQ2RUSlFIRHQ4U1NDUmpudC1MdkhBdVVDU2UwR2hlb0FuQWs2dkRWMkM?oc=5",
+        "source": "Kalkine Media",
+        "published": "2026-09-15T09:10:00+00:00",
+        "companies": [
+          "AbbVie"
+        ],
+        "is_oncology": false,
+        "is_press_release": false,
+        "summary": null
+      },
+      {
+        "title": "Why Is Pfizer (PFE) Drawing Fresh Attention?",
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQck00bHM2V2ZrY1NDS0NvMC1wY1lvN1JIZGJ5LXhucUVpb0MzdEsyX191bFNzX0hKM0x2RC04OTlNUkNJc0E5ODRFSUhSZXd0eGlsUWVNMmdIZ2F6QjRDZlJCSjZYYU5CdmhiOGZ1bnlvOVRzU1Ayd0JkX2xSRzdSWkNQUmtMekdYWmtWQm8td1k?oc=5",
+        "source": "Kalkine Media",
+        "published": "2026-09-15T09:10:00+00:00",
+        "companies": [
+          "Pfizer"
+        ],
+        "is_oncology": false,
+        "is_press_release": false,
+        "summary": null
+      },
+      {
+        "title": "Bayer Leverkusen Begin Their Europa League Campaign Against Celje",
+        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOOThyc1ZWRFFUVnR4OWNtS2hEcUx3UFBQS1RVODRFc01ndE1KY2RLWW9RYWNBM3RyS0FWM3FmX3VOOEEzTHBIWEJVZEdCdC1vZ0U2TGc0U05fTEFFazhjVGEwOU15NGYwaEZLc3F5MlcxSlVqRXBQM09oTEpndEk0VzkzZW0ybGN0VWxleVJxN0djZ3NPRk9SYU5aQmxCcnQ3Z2tsVnVQUEx5UllWajUzT0EyZnpfYUx3Q0NDVFZUdHVrY29yV0QxVTl2MWZFa1k?oc=5",
+        "source": "roundtable.io",
+        "published": "2026-09-15T09:06:17+00:00",
+        "companies": [
+          "Bayer"
+        ],
+        "is_oncology": false,
+        "is_press_release": false,
+        "summary": null
+      },
+      {
+        "title": "Why Incyte’s Hot Streak Just Hit a Sudden Wall",
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOSXhaRzNhNTZScGc0b09YaWxiNWVvR2p0bmY3WXpOdWhTR3YxYU1jZjlBTlRPTFRkOHRuWmdjMzlBSVVwbFluWWxqLUpjR1JTSFV6WXJvcmJER29LNnVTZzZ0RHJvc29iVURCeEgzYkJQZ1BSV2ZmcTJJTnFKTzByellyUmlRSzFLTm1kYQ?oc=5",
+        "source": "TipRanks",
+        "published": "2026-09-15T08:54:10+00:00",
+        "companies": [
+          "Incyte"
+        ],
+        "is_oncology": false,
+        "is_press_release": false,
+        "summary": null
+      },
+      {
+        "title": "Wendy Short Bartie Integrates Patient Advocacy into Bristol Myers Squibb Corporate Strategy",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxONldPeGZCa0hiXzNNOWQ5UTlHV1dPeEUyQ3hmanpCYjk0ZDBLUWNvbTV4WFc1M2JFci1Ta3AxSDdqYy00SFBrRWFRUWRvbFFsLWNEd3FkMmRTcVJZNk5CVnc4elJxT3BCQjE5V3VLRmN0MXVqeVBVRS1fS1JKaGxnYjVMNV81azV1WkZJTkpqeHJoazV1WjZTT19NLXQ1TVlSbXhWejNMSE5VWWpfZmZhdmhXLXh6WlZpckhSUHhn?oc=5",
+        "source": "geneonline.com",
+        "published": "2026-09-15T08:48:29+00:00",
+        "companies": [
+          "Bristol Myers Squibb"
+        ],
+        "is_oncology": false,
+        "is_press_release": false,
+        "summary": null
+      },
+      {
+        "title": "Why Is Gilead Sciences (GILD) Drawing Fresh Attention?",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOYVNBUEVoTTNoeXpnQVFRSnZVOEZBRFk4aklsd3lWRDZoZjZzY0I3XzFpdzBwRG5hOVFXY3g0M2FCZi1rdVRPdnVSVm9FbUZjMjlNV3VRTHk5cGZjUDdXMDNoZjN6R2hja0RjMmw2LVNSNE1CUXVxcEYxZFZRcVJKZE9GWkpxUFd0M1c3cHhBazNwdmIwblBJdkoxSjViUQ?oc=5",
+        "source": "Kalkine Media",
+        "published": "2026-09-15T08:36:00+00:00",
+        "companies": [
+          "Gilead Sciences"
+        ],
+        "is_oncology": false,
+        "is_press_release": false,
+        "summary": null
+      },
+      {
+        "title": "Novartis AG : Gets a Neutral rating from Deutsche Bank",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQSVh6YVFyWUlhRFlCMW51ZjFFVkNubFF2d3hBczFGcFFaSzgxSzRsclN5eU05U2xSN1RZd21pcG14cVBjbE41NVYzWTVVRHFrMlpHbHFHYkFqdHcwenM3WjVVLVhXU0Y5RlFKcllSMTRuNk4yMEJOcmJtRV8xU1lublJwZVZRc3BTeko0dkVpZU1UX0lsemV6R1Q3OENIajBfV05lNlBHQXk?oc=5",
+        "source": "marketscreener.com",
+        "published": "2026-09-15T07:52:34+00:00",
+        "companies": [
+          "Novartis"
+        ],
+        "is_oncology": false,
+        "is_press_release": false,
+        "summary": null
+      },
+      {
+        "title": "IP Group eyes busy second half as Pfizer obesity investment catches the eye",
+        "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQdktYdHNYRFoydFNQbUJPYlh0QVJ2QUNoeklveXd3NHRvX0RtTE83WVJ4MnRNMEtwSG0wVjJ6cUlNMjgwM1EyOGhGWDg5MjFUc0h3RXF2U3FUS3pBR0lHdDVfVUxrNGwyUnhSZ0hEalZsczhXQktrQmNwQ2tuczZVYVpURmNLSFdmQkd4Qm4wYWUzdGU1NnBXSV84TDB3U1prTzBURzVnbnh6eTBzMFp3MXhrVE9QNU40WTdqT1hBZEtwU2piRmJ4empMbFRERXp4bndJT09kYXdPc0lHQlpr?oc=5",
+        "source": "proactiveinvestors.com",
+        "published": "2026-09-15T07:49:00+00:00",
+        "companies": [
+          "Pfizer"
+        ],
+        "is_oncology": false,
+        "is_press_release": false,
+        "summary": null
+      },
+      {
+        "title": "Novartis Suffers Three Clinical Setbacks in a Row, So Why Has Eli Lilly Avoided the Vortex?",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOVkpPX3NvV184VUpQZzRfdHJKSlg3MUM1bGhYTERvM0RqRFY5MTUtVDBOQkF6SVhycTU4WFJCSVhTbFIyODFoRnBqVmNkYTBfckRPLWJwXy04QVpib1BvVV9LUE1POW54OXNnQ2Z0cnlheXU2UVhZQlJRS29TZUMxWjJQcjUzeXk0X05jYmRhZUJaQ2ZOUkdzSUpfSG9RQTJfMm9aS3dlb1dqTGg1dlZ1dm1GTEY4NHNKdmZ0enNfUQ?oc=5",
+        "source": "NAI500",
+        "published": "2026-09-15T07:46:49+00:00",
+        "companies": [
+          "Eli Lilly",
+          "Novartis"
+        ],
+        "is_oncology": false,
+        "is_press_release": false,
+        "summary": null
+      },
+      {
+        "title": "Bank of America Corp DE Sells 1,329,871 Shares of Gilead Sciences, Inc. $GILD",
+        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPYWg2a2swR0pWckVSR2ZaTU8zOFRwOGhmMEt5QXJ0SUxHM21DbFhlVHdMd1ZlamJGUXMwdWhCbU9ldGlLZVJvZFVJZU50cWliWHhCOVJtcjloZEE3NXFTZS1vZXBmUTE0TjZCbTJKeVg4MHdTUUJmaWRXbzlXMlVLbzJqQmp3VFd5SnRFT0V4VXB4RzN6WGQtMHhReUxEV1h5bV9nV3VZdmRadjFvc3Z5clN4V3J6VUN5Wk1CZ1NBNzJXRVBPWFBQVE1mV09TZw?oc=5",
+        "source": "MarketBeat",
+        "published": "2026-09-15T07:41:46+00:00",
+        "companies": [
+          "Gilead Sciences"
+        ],
+        "is_oncology": false,
+        "is_press_release": false,
+        "summary": null
+      },
+      {
+        "title": "All sides heard on Roundup proposal",
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOa3NmR0NZRlNuU09NdUxzd3dtM0lTcGQ1UDM1cUF6MzkyT1dyOXRWZEpZdmUwaHNaZFVsN21nNFlYWDYyZC1OZjhaRGkzcDhSLV9lRGgyLVZIem5QUTE4WE40WVpPNkVuanoybXl3QUgxUy1aaXNINlQ1bTR2UEJVZTNCRjZhSFlpOGhuWg?oc=5",
+        "source": "The Arkansas Democrat-Gazette",
+        "published": "2026-09-15T07:10:00+00:00",
+        "companies": [
+          "Bayer"
+        ],
+        "is_oncology": false,
+        "is_press_release": false,
+        "summary": null
+      },
+      {
+        "title": "IP Group H1 NAV Rises 3.2% as Pfizer Obesity Royalty Asset Reaches £152 Million",
+        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9HdEktOU9vbC1RbnF0X0syR0ROQlZET29RcUlVcVdqbFltTVFTbERacEdEZXljeWVxSy1sZG1XcXZOMGV6M0FFdGNDaDBoeWUtbVRjbGhsUnBFQlFteU0zb0dXUU8tWjZ4T2NvdXotWVdTNFZRaHN1T0d3?oc=5",
+        "source": "Yahoo Finance UK",
+        "published": "2026-09-15T07:08:31+00:00",
+        "companies": [
+          "Pfizer"
+        ],
+        "is_oncology": false,
+        "is_press_release": false,
+        "summary": null
+      },
+      {
+        "title": "Roche Experience Days 2026: Shaping the global dialogue on healthcare innovation",
+        "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPM2FNTVFNNlgxdy1hUGxNSmdQSFRSdHozVy1pTlZmZElDSWZQTHJVeUVndmsxQ2VGelJlVFpQeUpwNW1mRS1iX2k5QkRWVWQzY2dSdC0wR1JmODFkX2pXMFQtQ3JKWlRTdUR5aTU5OFBlLWlpRnFsOWlVYVJZTVRHcmFjdFFVWmFCc0ttbVZ4MmF5Y2pRN21TQ19GNFBpXzBfcDFOSGJ3bzktOGxzR2pTemY4WXRJQmE1UkQxcC0xTlZYMzZVSk1hOWtMOHRtbUpqc2VCeHpLYWxLNXhDNXBXVnp4Szg5dDBJYlA1ODExOFhQbmE4eW84dkYwUFo1dmZR?oc=5",
+        "source": "South China Morning Post",
+        "published": "2026-09-15T07:05:04+00:00",
+        "companies": [
+          "Roche"
+        ],
+        "is_oncology": false,
+        "is_press_release": false,
+        "summary": null
+      },
+      {
+        "title": "Novartis stock heads into the open after a 2.7% gain on SIX",
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPY0ZSd2hhSzF6Y3pwekVWUENRaGNHS29wQ28yd2k4MU1kLUV3TlU3dERrSW55X0wteFVFc2NLZUtWM20xdHBfRGxEU29PUy1EUkU4b2s0OHQ1b3kzX0tzOVUzVnRZNGNTQzNZeHduNnVpRFRvLUpac2Ywa0ZUS1NoQzc3aGdreU56TlZKWV9jTVlkdkJBeFFGMGxnYVlYRGtCX3drUXd2X205Z2ZpOWdyb1BOMjVNa2tKaE5hMExfNFY1WTZ6TlRkdw?oc=5",
+        "source": "ad-hoc-news.de",
+        "published": "2026-09-15T06:31:26+00:00",
+        "companies": [
+          "Novartis"
+        ],
+        "is_oncology": false,
+        "is_press_release": false,
+        "summary": null
+      },
+      {
+        "title": "Bristol Myers Squibb stock heads into the open after a 0.7% NYSE gain",
+        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNdTYxQXp6WG53REpDWi1DRk9nUVpkN0d3a2NfZ2lScGtrejBBR1Jmek1kREU2XzNmOW5fTUljb0xvWk9faDN6ZFVJTUxVUmdEZ3JCMHlZTUh1UVJUYlZZZVItY0lrb2RBZjRyZjFFWVpBc2ZmTTJ4bE1kUW1BclpfTUY5WG5Qc3VBYTZ4U182UGJPTkl6RnNfZWJVTkZOSmZwNGRDUkpJY0E1My1scnBoenhCUXNETlBNcXlpVFU3Um9lNjVwZGVfOXNOeVJwT2c?oc=5",
+        "source": "ad-hoc-news.de",
+        "published": "2026-09-15T06:25:40+00:00",
+        "companies": [
+          "Bristol Myers Squibb"
+        ],
+        "is_oncology": false,
+        "is_press_release": false,
+        "summary": null
+      },
+      {
+        "title": "Merck & Co. stock heads into the open after a modest gain",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNampXM0ZzMVRwcWFVamJuWEd5Nm5BNHM5VW01ZVpXaHhVVVVIbkhPSHhicmRobkxkTGNpVWhoVFlSRHVwWkxVM2FTX3pOSC0yUy1iOGVuUHppUU5NaTNJNzNKZ3NYRXphSFg4UG41VEZlWXB3TnJHUllrVXVrMEV5LVktckN4am94QkRXaGdybzc5ZTRwTzVnQzRWb0pib2lyUExlNDRyY0htOENrUDduSU1MMGgxSXVWSFhzdTlB?oc=5",
+        "source": "ad-hoc-news.de",
+        "published": "2026-09-15T06:19:29+00:00",
+        "companies": [
+          "Merck & Co."
+        ],
+        "is_oncology": false,
+        "is_press_release": false,
+        "summary": null
+      },
+      {
+        "title": "When breathlessness isn’t just ageing: Campaign urges early action on pulmonary fibrosis",
+        "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPZGhibE9ScGM4WUZVNkhpOVlQTnRrblgxd19aXzF2SEdOQ09MR1FUYkM3d0gxbVozM1dTRklDTE45dmFycUxSeFhPR0YyWjZrYXd2X2hZTEpZaGl5QWxlZWtOMW91X3hWeU90OGVKSWNsU18zcU56ZnZWSHd2SjhDQUlYUWVkY2M3RmxkVDZjNUJOSDVuUmtwZHZBeHlDQnkzRzl2c0VhREFRckJUMlJGNlJ2azBvek9OZ0VmS0l4SjI2azZvRUpISVdXQ3pCbkZ0YXJodC1vSTZVTVVN0gHcAUFVX3lxTE9kaGJsT1JwYzhZRlU2SGk5WVBOdGtuWDF3X1pfMXZIR05DT0xHUVRiQzd3SDFtWjMzV1NGSUNMTjl2YXJxTFJ4WE9HRjJaNmthd3ZfaFlMSlloaXlBbGVla04xb3VfeFZ5T3Q4ZUpJY2xTXzNxTnpmdlZId3ZKOENBSVhRZWRjYzdGbGRUNmM1Qk5INW5Sa3BkdkF4eUNCeTNHOXZzRWFEQVFyQlQyUkY2UnZrMG96T05nRWZLSXhKMjZrNm9FSkhJV1dDekJuRnRhcmh0LW9JNlVNVU0?oc=5",
+        "source": "Gulf News",
+        "published": "2026-09-15T06:12:06+00:00",
+        "companies": [
+          "Boehringer Ingelheim"
+        ],
+        "is_oncology": false,
+        "is_press_release": false,
+        "summary": null
+      },
+      {
+        "title": "Gilead Sciences stock heads into the open after a 1.9% gain",
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOcUhHUy1YZmpzWFJ1Zlk3ZGZJbFBkNmV0VkFoUEdoYVJfQ2NFelc1X01waGtiRWJjOTlVOGVLZ0FFbDhoNHZ4ajVZVHBQVDVVX0ZSdnNCa1RCeFp4THJGQm1hXzFULTZqS195RVVqYnJLYmhwTmQ4aFYzcjZMQ0pGM1hITkViTTZWQ1JBWWRFZUh3T3VmOGNJa1FTZ0ViMzVCMFhBdmdJb2ZGNTZMT1FBTGFWUEZ5bXdJOU54N0I4ZHJ2Q25NOFdPMQ?oc=5",
+        "source": "ad-hoc-news.de",
+        "published": "2026-09-15T05:56:04+00:00",
+        "companies": [
+          "Gilead Sciences"
+        ],
+        "is_oncology": false,
+        "is_press_release": false,
+        "summary": null
+      },
+      {
+        "title": "Incyte stock heads into the open after a 0.2 percent slip",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPU3lycEtjYzJpWHZCLV9HTy1XSHFYTnpYTTgycXdfVS1yRDRreE0yVmdsY1hzUW92NjJhT29WOGVQSE9XNzJHM2N2YjVCOWc5clFwNk15QVhjRW9tZE5VcEFOQlNfQTBZekpWeGNzdjdxZ1J0dTZUTlFhaWFJMzRENEVyczFVdm02WFZZemZpYWZXTUZIOVVaRU9qZkx2ZXoyMjlpYzhFR0FiaDJnOGZ1MU5TQTBhcC1Od1NtSg?oc=5",
+        "source": "ad-hoc-news.de",
+        "published": "2026-09-15T04:57:17+00:00",
+        "companies": [
+          "Incyte"
+        ],
+        "is_oncology": false,
+        "is_press_release": false,
+        "summary": null
+      },
+      {
+        "title": "RBC Capital Maintains Merck & Co(MRK.US) With Hold Rating, Maintains Target Price $150",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQTDQ0Ql9CX3Y3cDNyTWZJdzRtZkhSM1dCWGVCNGZHOUJwakc2blNHVkVMRlNablB4QWd6SnJERXdQSk5tN1RMOFBpREpsZGt0dEhoTC0wVXZMb0VPVmRQR3QxVFZ5VjRWanVDVUJSNVI0SHczYThVdlphREtET1RiOWdOT3VQQVJZTENVOG01dDNoNm5Pb1h5aE1IWG1DSmhkTmRkZDluWGg?oc=5",
+        "source": "Moomoo",
+        "published": "2026-09-15T04:19:17+00:00",
+        "companies": [
+          "Merck & Co."
+        ],
+        "is_oncology": false,
+        "is_press_release": false,
+        "summary": null
+      },
+      {
+        "title": "Paper + Spark adds seven new clients as it’s named agency of the year at 2026 AMI Awards",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPb1lBTUo1OGROVS1LeUlISkVzaV8yU0hwTDhZSXRwUHRXeHJabGF1Q3Y0UVdtRmJ3TkpVVUU2NUNDTFlkcTQ2VGhDeWEtVEVUMVQ1aURYWlZ2Um1NMng1Uzg4VTNoT3hQX3RPMWMwdnRQZmtGS0VkLUMwN1FqQzFFVEhkWHlGVXo0NXJYMjQyLXoyTWZYeGtUWWlDYUNBVWNtVTNPWWVPdTdPNDNoTF80R2ZR?oc=5",
+        "source": "Campaign Brief",
+        "published": "2026-09-15T04:08:23+00:00",
+        "companies": [
+          "Boehringer Ingelheim"
+        ],
+        "is_oncology": false,
+        "is_press_release": false,
+        "summary": null
+      },
+      {
+        "title": "Lilly’s Obesity Access Push via Medicare Bridge Might Change The Case For Investing In Eli Lilly (LLY)",
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPbUVlWS1IZTZlOEIxUzJKOTJKU1lIY0F0dWZsdFN2UTVHT2VTY3dDOHBwbHA3VzlmX3hpcFZZU0k2YmFnaVRVT0lSQk84cHlSbmJ1S2tsa2FNaUllZVZRWk5yWnVneHJJbnBEaGE5bEhvVEFtbzJScHdITDlPOC1xVWdVN2hYeEdTNWZFT0c5Vi1iSjF0?oc=5",
+        "source": "Yahoo Finance",
+        "published": "2026-09-15T03:24:00+00:00",
+        "companies": [
+          "Eli Lilly"
+        ],
+        "is_oncology": false,
+        "is_press_release": false,
+        "summary": null
+      },
+      {
+        "title": "The Blonds - Fashion Week - Fashion shows - Womenswear - Spring-Summer 2027 - New York",
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4zaDNHT01ROW9mNnZDYVQta2szT28tTGdMZmxmOGpnM1NHY3Z2dV96S0tiWVRkX3FhWHltREdlNWxEZ0x4SWU1a09SV081RkM3RmtFdXJNQzlzZFZ4NkhhTUttS0M1eFlpRngtdFhuSUQ1WThUbXc?oc=5",
+        "source": "gr.fashionnetwork.com",
+        "published": "2026-09-15T03:23:16+00:00",
+        "companies": [
+          "Pierre Fabre"
+        ],
+        "is_oncology": false,
+        "is_press_release": false,
+        "summary": null
+      },
+      {
+        "title": "Wendy Short Bartie Repositions Bristol Myers Squibb Corporate Affairs to Integrate Patient Advocacy and Healthcare Access",
+        "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOYTVjYkgxeWRtUTFnSFBoT0R3S0h2S2JpVDZ2SC1VcC1iVnJQa3N2WlhBbi03UVMwTnk1RExXX1c4Y0NjMTlQclgyWE83RUtVU0VieEZKekZiNS1iY19zOVp6N3FxQ19WMVl3WGl0czFrc1l6QWtxZEd0bnFuLWNtSmlsR1RVZHp1a1B2MWloM1RzY19WOEU4ZzBtS0NGcFhLZ3ZfZlJabzZBRUJ3SU1BZ3QtbE9zODExaTFWbWl0WEQ0enlOeHFsbEsyampMb3VkMHA4U2JPV2NXM1VSeTMyQnA5aw?oc=5",
+        "source": "geneonline.com",
+        "published": "2026-09-15T03:13:59+00:00",
+        "companies": [
+          "Bristol Myers Squibb"
+        ],
+        "is_oncology": false,
+        "is_press_release": false,
+        "summary": null
+      },
+      {
+        "title": "RBC Capital Maintains Bristol-Myers Squibb(BMY.US) With Hold Rating, Maintains Target Price $64",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOQzZCeUxQMWNpNG9xdnIwM1R2MUdFdDEwNkZXMzYzVElCb25zNmRmTVdEMzZTWldmS1pCTEV6akxVYjliMTllWmQyMHZOYVdFQjM3NVE4dURoM2x3Y0QwVDk2R0NjUlAyTHItZXJkQkdMVTZ1TWVSaFhiU2kzcjRqUHNMNmFlYzlsSUY1aml4T0tRejZBTmRxMkpRelZIcDJzbHJMS3FzNXhDQ00?oc=5",
+        "source": "Moomoo",
+        "published": "2026-09-15T02:49:20+00:00",
+        "companies": [
+          "Bristol Myers Squibb"
+        ],
+        "is_oncology": false,
+        "is_press_release": false,
+        "summary": null
+      },
+      {
+        "title": "Pfizer stock heads into the open after a modest gain",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQQURFN1hQY1RmN0U1SS1UMjdwRWk0bzdPUkdjN3FLcERsX1ZTMEpZX2YwQUJrRzJYSDdNTDF6aExvN0lYUi1OeUFFa3hhYkZrTzBqc0pUamZpZDYtVDdudXVqLVI0QVI2bi1vSVl5NGJBM1otem5xX0lCTW0wczNSLXFlUzROQUhDMl9hcm1aSkx2MU5hN2JJa2oxNGlNajFvR3pMTEhWSkJfOU9qcVdZUlV6OEFsUQ?oc=5",
+        "source": "ad-hoc-news.de",
+        "published": "2026-09-15T02:48:27+00:00",
+        "companies": [
+          "Pfizer"
+        ],
+        "is_oncology": false,
+        "is_press_release": false,
+        "summary": null
+      },
+      {
+        "title": "Amgen vs. Vertex Pharmaceuticals: Value Stability vs. High-Growth Biotech Investment Plays",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNNGR5Vl94R2VqMFl4Xzg1QV9QRFBhdEkzZnl1ZXBsZy1zYjdEb0lMS29WWWJraG5uemNvamNHQnlOTWhCb3dVQmduX3d0TkFxMUQ4d1RyOVpvTVFVOV8tSGlCLThvRDd5czlxcEQ4MkZpOWZqQ1NsTE9fRmRmOFVhZHpZbnJqMm1rcDk2NzVRM3p5SU9ZOGhsQ1BhV2ZzeW5uRF9Qb1FWbC1fTm85cXUxUzZNWGJRZUs1MHFRVA?oc=5",
+        "source": "NAI500",
+        "published": "2026-09-15T02:47:51+00:00",
+        "companies": [
+          "Amgen"
+        ],
+        "is_oncology": false,
+        "is_press_release": false,
+        "summary": null
+      },
+      {
+        "title": "Universidad Udit - Fashion Week - Fashion shows - Womenswear - Spring-Summer 2027 - Madrid",
+        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9HMl9OdERkWkp2dV9Od0hDRWdaSkV0eVFZWEZvczhYY0FwODVFcnQ3cVNMSml6WV82UkNhOUVCVTYtaUZ6b1VGdXBCSWlsalp6N1k4alhVNncwNlh4eVJCRkZpWFp3ZnVrVVNwbGdaY0RwLWpiMEprZWFZTF9rdw?oc=5",
+        "source": "gr.fashionnetwork.com",
+        "published": "2026-09-15T02:25:02+00:00",
+        "companies": [
+          "Pierre Fabre"
+        ],
+        "is_oncology": false,
+        "is_press_release": false,
+        "summary": null
+      },
+      {
+        "title": "Officials warn: Don’t click threatening “Verify your voter profile” link",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPMTlqeXRoLU9wNVA4ZW1scHNtbEF5R24zNTdpdHY5NW1OcnVqVU04RXg1bDl2a1I0NC1tTzdTNllzQmFwYXU3OHcyZlU3WXc3QkJDWFdTR0w0ME90cFppQURCT002RGFyanBrRVp2UkNNMTVmMWR3ak1iUVJST3EzN0VIWTNDV0c3UHgzUTZuRjRPWm84ZFZRNVhsay1ndEJHSjc1WVMzTV9xX0k?oc=5",
+        "source": "WGAL",
+        "published": "2026-09-15T01:52:00+00:00",
+        "companies": [
+          "Roche"
+        ],
+        "is_oncology": false,
+        "is_press_release": false,
+        "summary": null
+      },
+      {
+        "title": "Why Is Bayer (XTRA:BAYN) Expanding Into Biofuels And Atrial Fibrillation?",
+        "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQakRaTVVDc01GVXRyTUZ3Y09QSXUwRHBtdXA0QnV0b3RScVR6aG4yUzRHdVVUQ3U4bkduUV9zWW9sMm5iV21ER0RWX0l1a1FxWkZ3bDlDaVRmMlBzalR5WWFvcks4Mmp4VGRwM1NvQ3ZubzhpSEVoUGw4Q2R1c0IxRnRFLVpfRjBYRl96SVI5ZjFaaEFQZ2dlX1RDVGw2NDJSaXNxSGxLcjRZQnVqeDloUGVwZFNmOWNMLTJCTDNFYTdZelVQNnhxbFExdFNTNDM4NG9QRjB6azJWeE3SAeABQVVfeXFMT25ZZWVhX3pLZWt1OXBoZURmRXZrYkJ6LXhCaXp3aTFWQnAzbHQ3UGJYRm5fMlNrNm01ODlRQzVObUtNMDl6a0Mybnc5VmtSUnJMWWRNQmVMVllLdHc2aVBqZFo4UGFWeDV4UFh6ak04VzVRamxqa2QzeWh6WVBsMFdmV3lpWGlXQzZJNG5QZDNqT2pUdHcwUG1adVBlclg5LTBrOEpPdW1SbWlmNEY2N05oaF9RaFk3Slk1a2E2SE5nYlJOYU0yS3ZiSk1wSkhxbGlnMFV2WG8tNWZYY2oxelU?oc=5",
+        "source": "simplywall.st",
+        "published": "2026-09-15T01:29:32+00:00",
+        "companies": [
+          "Bayer"
+        ],
+        "is_oncology": false,
+        "is_press_release": false,
+        "summary": null
+      },
+      {
+        "title": "Empowering communities to turn HIV innovation into impact",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQUDJjRlNIX0l6bnh3RUtLeUpuMjhsZ0phaUd4OWJjVjBRNjl3ZFpOVlFJUkZ4MG9DbmhnRmoteDdaVEdWLVNfckg4TnVkckJaRjZyVHVqVnpJUDNjazV1Umh0c0owS2s5QmE0U3h6Wjk3cXdEU2d0SHdsYktYakhJczBqYklvOUUtVXhOZ21IN1luTXhjTTdLOEVqSQ?oc=5",
+        "source": "Devex",
+        "published": "2026-09-15T00:50:51+00:00",
+        "companies": [
+          "Gilead Sciences"
+        ],
+        "is_oncology": false,
+        "is_press_release": false,
+        "summary": null
+      },
+      {
+        "title": "Kirksville softball falls at home to Macon, 10-6",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQVTJRd01iMTVXZmZvb2p1U285Q3l2STFCSmJvUlQyRTRhRS10UVA4UXVnQ25NWW1pT0xJR1hLSmRVSmt1NDV5WXN1dDRJNFJlS3RqU2R6amowcXdKNmdQaWxrRnc0WkdiS3FoQkNCTHZRSS1NZXJSSktxZ1lvVmZaclVXSC15UU1PcnBJQWd3V0dOaWdacGIxcUxsRUVXdkh2SkE?oc=5",
+        "source": "Kirksville Daily Express",
+        "published": "2026-09-15T00:45:00+00:00",
+        "companies": [
+          "Janssen"
+        ],
+        "is_oncology": false,
+        "is_press_release": false,
+        "summary": null
+      },
+      {
+        "title": "Daol Securities lifts Hanmi Pharma target as obesity pipeline gains value - CHOSUNBIZ",
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOR2p3VURXYTUzM0ZoOXljVnNDTDlJV05pNlVRZVVaYzZmLVJSYjFJYzVwUjg1bnpURFdVNHpfT1QzcE83WFltNjRLaXpNeWdJOURZZGtOb1ZhaE0yZFRVVm9JMFZFbW4zZEpQOTkyLTVnTTYxcUhoRDlDUmhnVGFKUE9FejEzSlp1NU9HcEVRUmNRLVJI0gGUAUFVX3lxTE5HandVRFdhNTMzRmg5eWNWc0NMOUlXTmk2VVFlVVpjNmYtUlJiMUljNXBSODVuelREV1U0el9PVDNwTzdYWW02NEtpek15Z0k5RFlka05vVmFoTTJkVFVWb0kwVkVtbjNkSlA5OTItNWdNNjFxSGhEOUNSaGdUYUpQT0V6MTNKWnU1T0dwRVFSY1EtUkg?oc=5",
+        "source": "Chosunbiz",
+        "published": "2026-09-14T23:43:00+00:00",
+        "companies": [
+          "Genentech"
+        ],
+        "is_oncology": false,
+        "is_press_release": false,
+        "summary": null
+      },
+      {
+        "title": "Is Gilead Sciences (GILD) Reasonable Given Its Sales Base?",
+        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQNTUzU29OTXMyUTdMRF9pekZoc3hnY2VlV3BCQkd6SUNVV3BhMlNfU2Y0ejQzRGl5bk5vUjN3eHA3SGd3Mm5KRzFvWXNrUlZGSU1YeW02UVJBZ2JMQ1dHUmJBRWtWaVh2RE9OZWFCTlFhWWRXVnJDcXhWWUx1Z00tdlVlMTZCR0owYnMxdFJhYw?oc=5",
+        "source": "Yahoo Finance Singapore",
+        "published": "2026-09-14T23:19:14+00:00",
+        "companies": [
+          "Gilead Sciences"
+        ],
+        "is_oncology": false,
+        "is_press_release": false,
+        "summary": null
+      },
+      {
+        "title": "News | Lender doubles down on New York office conversions after Pfizer setback",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSGhrQklBVlNJUnRMRS1YckhaRndBdVowQmxSd3VfMVBnZWsxVnJ4ZG1FZjNmYTBhU3VpV0ZtNFl6eTFnVEZwVWtZbVgtQnhDMHdRUWtOd2tBZEt0enJ6MEVaQlh2T3J1eUdpbjJQMWxTY28yX0l5UTJMeUxFVGpDbVhQcHgxWGhrQnZzWlpMMXU0cWJLelRUdVAtOWduaGtUb25DTnM3ZjUxS3M0UEhsY2kxaw?oc=5",
+        "source": "CoStar",
+        "published": "2026-09-14T23:14:24+00:00",
+        "companies": [
+          "Pfizer"
+        ],
+        "is_oncology": false,
+        "is_press_release": false,
+        "summary": null
+      },
+      {
+        "title": "Pfizer Options Spot-On: On September 14th, 68,168 Contracts Were Traded, With 2.53 Million Open Interest",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOTzRodWt6czFhVHpyM3pGeHhXQVR5c3lGTHZNUHBsVTJ2ek5tQVFGdXE4Tk4tUHcxVEExa25hUnZKQngzMkFlbXo2MTY3eFlzdHVYQ3JLSEsxTHJEd2dydUtKVlNKakdOaEtsRm11dmx0NnhDVDRHR3VaMzFNaUcySzF6cnRFcl9ma3I2eVFrcGhsTC15MHBCUDdDT2s5Y29CNXJZSDNB?oc=5",
+        "source": "Moomoo",
+        "published": "2026-09-14T23:11:05+00:00",
+        "companies": [
+          "Pfizer"
+        ],
+        "is_oncology": false,
+        "is_press_release": false,
+        "summary": null
+      },
+      {
+        "title": "Once Daily Psoriasis Pill from Takeda Enters Priority FDA Review with a Decision Expected in Early 2027",
+        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPaTF2bmtfV3MwY3ZZOXVhdjZsR2hVVThMTGVuUXlWekx4cndwYTgyVk15Y0tCZ2Ewbzl0eTYzMjZTQlpSR2ZSM0c5QVpWWm1CVFYtU1RSbkw1elhrSXNYcl9KOTN6WmZaNk11aGY2QVI1cjZ5QldkX3BDa1hfcVRpNlc4bGh6b2FjMXc?oc=5",
+        "source": "Medical Daily",
+        "published": "2026-09-14T22:45:11+00:00",
+        "companies": [
+          "Takeda"
+        ],
+        "is_oncology": false,
+        "is_press_release": false,
+        "summary": null
+      },
+      {
+        "title": "Revolution Medicines to anchor former Google campus as Silicon Valley office market shifts",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOVTdSNGdWMUJ1cklSOWhlVDhtV2hZQ0RRLUhlZ3hENmhEZmFRZ0FiUDhpcVVMNGhtZGxIbVc1anZMN1dGUThUTDVCNWZhQl9TSXd5d3pYd0dlZ2ljcDhGd2RudzJwdnBUSUhmWTRmUWRTZFU0WHdzaXZjN29sTG9tSm4xZWxIS09fMUlXWUxsUEI0NmFURDBqaUpsdC1ydXkwQ2NBSWRUdw?oc=5",
+        "source": "bizjournals.com",
+        "published": "2026-09-14T22:21:00+00:00",
+        "companies": [
+          "Revolution Medicines"
+        ],
+        "is_oncology": false,
+        "is_press_release": false,
+        "summary": null
+      },
+      {
+        "title": "Revolution Medicines (RVMD) exec exercises options, sells stock",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPUVdLaHpZNWxiRElkMWNmZ05UbmdJYlp3eklQNWJ1anM0eEFjX0tPUXU2QjJweVlmYldxNUpMTE9keVdjM2VYSG5WRWRUYVZaeHdrd0dpemdvdDc2S2cyc3ZLUTN5dEY4aGliaHVvRjJuTWNKZTFaZ1F6WS1ueWc3MjlWLUVESGFOX1N4WF9OaHJyYVA5QzRMMm83bEVBX1ZuNWZxSkhQQm9JUjZ6NU9VcFVUUHBsVnp2cHc?oc=5",
+        "source": "Stock Titan",
+        "published": "2026-09-14T22:04:20+00:00",
+        "companies": [
+          "Revolution Medicines"
+        ],
+        "is_oncology": false,
+        "is_press_release": false,
+        "summary": null
+      },
+      {
+        "title": "Back to Back Heart Drug Failures at Novartis and Novo Nordisk Undercut Two Leading Theories of Cardiovascular Risk",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWnVsMjUyUDU2dDFBX2F1N2dXSTJaNTAyRUNRUmFuNnZmeWxiR1BiS3o1ZHZ2T3dBMjEzZUxyejdRc3V1aHJxOGZlOFlFRExxMkNLSi1kdWlFSWdMVVJSU3FJM1B1YXJqRDUyZ0k2UERQTTY0Vy1NWlhvRmVKeTVDVmRaWExkWjJvZUwtdjRNNEFod2tsdEgyc1JoclhndmI2NjAwcDE2bw?oc=5",
+        "source": "Medical Daily",
+        "published": "2026-09-14T22:00:07+00:00",
+        "companies": [
+          "Novartis"
+        ],
+        "is_oncology": false,
+        "is_press_release": false,
+        "summary": null
+      },
+      {
+        "title": "Gilead Sciences (GILD) Gains As Market Dips: What You Should Know",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOaHBaSElMVUdxQ3lYWEFWby1OVW9zQTNOZC1INXJvZXpRVmx0RzRYTjNsVnNoRVZtdEVsQkFtS096SnV0YmZjZkZsVEM1T083NmxIczZXVlVJel9FYmJFWExBVEMtNzNwVUFGazBMM0dmYWlSWHRuV2dzRnlXMVpYaE5OSThaamtGUVQtNko3eWFpYkVWZUFla0xQZnRqZWM?oc=5",
+        "source": "Yahoo Finance",
+        "published": "2026-09-14T22:00:03+00:00",
+        "companies": [
+          "Gilead Sciences"
+        ],
+        "is_oncology": false,
+        "is_press_release": false,
+        "summary": null
+      },
+      {
+        "title": "AbbVie (ABBV) Advances While Market Declines: Some Information for Investors",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPWGRySzBTdS1yazAySGNkWUNXTGM3Uk1LblN5UmJRNEs3VVVLYzZzejRYcFNUbTN0ekc3aUlDMnBBSnNmcDVNcTZSMWVUMF9wcEpyZXVBZWNMT21rWkx0NTZNakpXU2g4ekwwUUNDQ3htZEtrOUJoVlhGWVBGRWpmZnFkd2ppNnlGQU9CamlzX0lacmxpYjVaM2tLNmFNMzg?oc=5",
+        "source": "Yahoo Finance",
+        "published": "2026-09-14T21:45:04+00:00",
+        "companies": [
+          "AbbVie"
+        ],
+        "is_oncology": false,
+        "is_press_release": false,
+        "summary": null
+      },
+      {
+        "title": "Merck & Co., Inc. Target of Unusually Large Options Trading (NYSE:MRK)",
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNbFVWYk1kTDFxajFDVFVsVmczQ3M2bEhxSk1mMjJ6T3d4ZG11NWliTlAzV1FCbHduOFFtREJxMnZSUmRxdWd5Q2J0ems2eEZVVmRHWklVbVY1bkVDbVltQ0NwS19VOERMUFhLR0I5clZtSGpxb21iQk01TmtEdXFQMk5uejV1UFhyU0tQeTkwNXJjWks3ekpFXzZseXBrNjdUWGZVaGR5NEJramd5SEFSX3ViZUhPeWRuUjNhZUViOHBtYTQ?oc=5",
+        "source": "MarketBeat",
+        "published": "2026-09-14T21:23:33+00:00",
+        "companies": [
+          "Merck & Co."
+        ],
+        "is_oncology": false,
+        "is_press_release": false,
+        "summary": null
+      },
+      {
+        "title": "LVMH unveils the winners of the fourth edition of the Maestri d’Eccellenza Award",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQWFNkQ0NJcjB0S0VNUzZ6b1B2LVNwbURYam81ejVmWkpNM01xd2VpemtUR2JTZ2dHeHhVWkFRMlpKc2VBQWoxeUZhaVF5SVlrYjdRVVBKSXVtaVFDVnFXR0RTZHBQaDdGemdxelZZQ0ZtWXFWY0k3WDJBQUFpWGI2RnZzQlp1RllqeUJJT0pmdmZXdGpNNTF2ZFozdVBJU1B5cnVzQV9QclJiejI4ckNGcjV3YzZlb0UtMWpOeXB5cHVGc2ZJdUxB?oc=5",
+        "source": "gr.fashionnetwork.com",
+        "published": "2026-09-14T21:03:34+00:00",
+        "companies": [
+          "Pierre Fabre"
+        ],
+        "is_oncology": false,
+        "is_press_release": false,
+        "summary": null
+      },
+      {
+        "title": "Takeda at Morgan Stanley global healthcare conference: pipeline turns to launches",
+        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQeEh4MjZEZkZibzFoU0xaUUJCM1diUnR0dFlYTE1BMlV5d1hMRmhrVkhkUGhxQXlPQVRnX09WRExqZmNfWF9iUFZjQXJLZnZmY3liNkxvZnlPOXkwblNLMGNLaU1xaW5aWEJORVRjVVprRmFiZkdUTW1yMHQtSE5BOWlIMnBnRHhLbUtqbG94NEkydE9wMjhCTEE1SC1wcXFGY3JHRGVicmFVeHFhQ2dOMG9iTmc0UlI1bTJFb3UtNkZHVDc1Ny1BTGFJX29iaGI4Zjhzb1lKWVY?oc=5",
+        "source": "Investing.com Nigeria",
+        "published": "2026-09-14T21:00:26+00:00",
+        "companies": [
+          "Takeda"
+        ],
+        "is_oncology": false,
+        "is_press_release": false,
+        "summary": null
+      },
+      {
+        "title": "Bayer and Neste Unite to Encourage Farmers in Planting Oilseeds for Sustainable Aviation Fuel",
+        "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNeVI5WFBuRV9YUWJkWTB1dzdwR0xON051ZmlQMy1GYzFzQ1VBMjVmbV9nV1JCdmkzeXhsd0w0d2hZUWUzWGFtalg1a19fdWVuS1BIbnFGZk1MdERKMWhBUUs1R3hvMmxLaE9xSUNveFJ6R2IxUnZLNF9BNlV2SS1td181SUoxdGVqQzctckR0UHVfQ0hISkhpN0pjNmhzOXFUN2N0X3hFaGIxTXVLaFhSbzJVZFNjM3lOb25IODJ2Si1mOV96Y25iS0d0TmZtVE53c2NuZHlQVUFtRHk1?oc=5",
+        "source": "energytech.com",
+        "published": "2026-09-14T21:00:18+00:00",
+        "companies": [
+          "Bayer"
+        ],
+        "is_oncology": false,
+        "is_press_release": false,
+        "summary": null
+      },
+      {
+        "title": "Scattered storms; much cooler for most",
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQWUhnTFluNkhJMEJLdFV3T3V6OFYtWWNybXNnUWk2dVBxcVlyT1VJQ3pQY0hQTTRza3ZHX1pzNndXR0U0YzktczRmaHpJMUdCYlk2Q1VmNGJiVXZXRjh0bnJTcHhKbnhib0RPZDhyWUNaNlhoRVZPVDlZbTF6R1VrSEx1RjVxbnJM0gGIAUFVX3lxTFBZSGdMWW42SEkwQkt0VXdPdXo4Vi1ZY3Jtc2dRaTZ1UHFxWXJPVUlDelBjSFBNNHNrdkdfWnM2d1dHRTRjOS1zNGZoekkxR0JiWTZDVWY0YmJVdldGOHRuclNweEpueGJvRE9kOHJZQ1o2WGhFVk9UOVltMXpHVWtITHVGNXFuckw?oc=5",
+        "source": "KWCH",
+        "published": "2026-09-14T21:00:00+00:00",
+        "companies": [
+          "Janssen"
+        ],
+        "is_oncology": false,
+        "is_press_release": false,
+        "summary": null
+      },
+      {
+        "title": "Sushi Takeda, Los Angeles, California — Restaurant Review",
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1tWmJlUGRTVHBaWTM5VmVxNEthcno0ajVFblZ1YUVtVHZ3VUt6M0d2OEhaTFVDQnljUko1bVZILTR4aFY5dXNwaGkzSDVLSjRzMzd4REtuazEwT0VyenUxMUt0SDY5TEQ3RGJfMlZNaU4?oc=5",
+        "source": "Condé Nast Traveler",
+        "published": "2026-09-14T20:50:22+00:00",
+        "companies": [
+          "Takeda"
+        ],
+        "is_oncology": false,
+        "is_press_release": false,
+        "summary": null
+      },
+      {
+        "title": "Bayer and Neste agree to jointly scale winter canola for biofuels production",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUjBvTmEyT2p1WUFvRmFhSTNsSzFRZG1YNlhMVzlUNDl6NGRuSmdhcFFWMFlhVkNnaXpJd2dXQ2xTc1NIRkNZQWVHZEU3YzlmSV9GV2xJQUJlZkpja2FJbkdkcVhmM3BKRjlabExHcXBiR1Z1VGdBR252TGphVW5CaDVNMnZlWllaVFVEbndPWnE3OUlLclR0eVhMai1fN1dteU5mdWF3T2hGbHBD?oc=5",
+        "source": "Biofuels International Magazine",
+        "published": "2026-09-14T20:45:41+00:00",
+        "companies": [
+          "Bayer"
+        ],
+        "is_oncology": false,
+        "is_press_release": false,
+        "summary": null
+      },
+      {
+        "title": "Lilly says Foundayo has captured over 30% of new US patients on oral weight-loss drugs",
+        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOek55cURnNVVRbTZMOEdZTEpWaGdrc2s4Njk1RF9UTzZ5WTBURU9nUFZqeHdwVXhILUktelE2Tm82NGF3WEVGenlpOHczajhNUUw5WXVDS1p1LWdFRFFvUnpkQV80c0ZYelNCY182N0pQbnJoVzJPcUZrZnpQb0hPWmFBa1ZxTVZ2UllSWU5iVFVWc1dyWWtubE5mdndtT2pSM1piaG1fdG1XcDNjZzIwOWF4Yjc4MDIzYXZLTkJlbC10QUxSbGVLMGQyRW4?oc=5",
+        "source": "Reuters",
+        "published": "2026-09-14T20:38:18+00:00",
+        "companies": [
+          "Eli Lilly"
+        ],
+        "is_oncology": false,
+        "is_press_release": false,
+        "summary": null
+      },
+      {
+        "title": "AbbVie Inc. stock outperforms competitors on strong trading day",
+        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPQTI4NmttM0lvZkZxV0xnMWNyekVoUndUQ29CbjRMSTh0RndWMGtBRTZxVU54djNISkNqWjN3cWZ2TlN0NlpRbUFmV0IwajQ5YU1kTHUxVE5hcFZ6QlJFbHZLaUJKOEZoV0NrbzJvS0tHaVcwR2JpWGRLTFY1YTh3N0xOZ2xHSVFGV2JLdEJMakw0MUp3UXNaNTh6bEdYNXRueFNLS2ZzUXV0R3JCQ3VyUFp4RnJsN0JaWjEyQjBpbjdPRWt4MDZRSl94dDk0dXIxMUZhOXRmYw?oc=5",
+        "source": "MarketWatch",
+        "published": "2026-09-14T20:31:00+00:00",
+        "companies": [
+          "AbbVie"
+        ],
+        "is_oncology": false,
+        "is_press_release": false,
+        "summary": null
+      },
+      {
+        "title": "Player of the Matchday 26: Cavan Sullivan",
+        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5WNC1laS0zeGFuOTk5N0dlQjMtTmZwRkEzQUgxNlRMQ01Ed3pPdWVIdmIxaGxla0tlXzNIVVBMYW52QlVXcGFkbS15Ujk4cVVZRDBvekZrYzVJeF8wUnR6bmI0THBFQzhoTE1wcEh6aEhTdTR0Z0JCcXZiQkM?oc=5",
+        "source": "MLSsoccer.com",
+        "published": "2026-09-14T20:01:58+00:00",
+        "companies": [
+          "Janssen"
+        ],
+        "is_oncology": false,
+        "is_press_release": false,
+        "summary": null
+      },
+      {
+        "title": "Why Is Pfizer Stock Paying You So Much To Wait?",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZ0l0RkktSC1fXzZITG9tUGVaTnd5NV9EZ2FUZlBuT1Y4ODdZQjBNdGw5ZWRHb2NmZGJBbU5FV0haTWhQdVpuSm5fV1ZOTWJVQkotWVY3d25SS1RtNEl6a0NNNnZabTBhWHFJeGVUemd1eGV1eDVKSk1hM05kU0c5dmNhZTN3UmpsQ0Myb242QkVpZDl6SGc0YnRVbWNLQVpfbnFXUl9rMEswQQ?oc=5",
+        "source": "Trefis",
+        "published": "2026-09-14T19:56:59+00:00",
+        "companies": [
+          "Pfizer"
+        ],
+        "is_oncology": false,
+        "is_press_release": false,
+        "summary": null
+      },
+      {
+        "title": "U.S., Indonesian Airmen Conduct Combat Off-load [Image 3 of 6]",
+        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNSFhfQVdWYTdfdDFiTlZCZkVxOHk0bHlwTV9tUTZpNDVCWXJKVjQ4Rm5YRkUtaVNjUnMxNzNBTWRXWE5teVR3ZUxyZVBNNGREUzJzcUstVHZNQ1pxZ3JYVGk3ZFBsdU9CNUZIVjZjUnVrV1NDSWx6cVNQdTRvVTY1T2ZVd1dTRmJKYm5Z?oc=5",
+        "source": "DVIDS",
+        "published": "2026-09-14T19:33:00+00:00",
+        "companies": [
+          "Janssen"
+        ],
+        "is_oncology": false,
+        "is_press_release": false,
+        "summary": null
+      },
+      {
+        "title": "BofA Securities Maintains Takeda Pharmaceutical(TAK.US) With Buy Rating, Maintains Target Price $44.21",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPV2tDd3lfOEJmVlhUdTBNLVFDQUZnWXB5bUtPY0pQM1czb3NGS2lpbm5YU0FITVc4WGRVdFhDQm10aU1jWXpBNllreWFRc1FURmJ5SzJGMmRvRV9uU2U1d24tWmFMN3RWME9OSlJuNXkwQU1iZXdnV2NkQUJkaU92Q0VRcmtfRVEtaEJfWTF4RkRmMTFuVy0xajRHTUp2UExyUUhaYjJFeC1KNXV2RWZJcXVkV1hETUNiWVpCQnp3?oc=5",
+        "source": "Moomoo",
+        "published": "2026-09-14T19:10:32+00:00",
+        "companies": [
+          "Takeda"
+        ],
+        "is_oncology": false,
+        "is_press_release": false,
+        "summary": null
+      },
+      {
+        "title": "Mixed Clos de la Roche",
+        "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBXcUZ0Tk4zaDZ1bTd6U0JBdW1HX0p3TjdyTjZ2SER1bUUzOXp0SVZFREtaMUY1WFhCTnVOUTZCZFR5WjZzWkhGRks0bFJYeW43eDVxZGgxaw?oc=5",
+        "source": "Christie’s",
+        "published": "2026-09-14T19:06:33+00:00",
+        "companies": [
+          "Roche"
+        ],
+        "is_oncology": false,
+        "is_press_release": false,
+        "summary": null
+      },
+      {
+        "title": "INCY Stock Gains 23% Year to Date: Buy, Sell or Hold?",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNX2JhRHk5Ukk5Q3VSRm1TMGpVMGxUWUFQRVFKc3pCQkliLVo3bTNjei1VcVQ1UUJCam5RcTROQjFrb0FOOFRVOE9COWUzUmFJa05LclBRb2N3TFkxeldCWVl2X0JlUDAtOHlhLXFoeWlSc3d5N2c4YXRsTTY3QTdWYVpqTDJ3dlpuQnpLZHhnc0FFTVZlNmhaTWI0VVBSYmhJQV96dkc5Qkg?oc=5",
+        "source": "TradingView",
+        "published": "2026-09-14T18:59:00+00:00",
+        "companies": [
+          "Incyte"
+        ],
+        "is_oncology": false,
+        "is_press_release": false,
+        "summary": null
+      },
+      {
+        "title": "Olivier Laureau: Why Patient Voices Matter in Therapeutic Innovation",
+        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9DcVhZTEVIX2Q5Q2hGeDJxRGtwbWQzeDhCcm40YUk5aDJEZEpmanV0YkxqeldoamhIQmY0OWRzU0ZsOHM3em9qMjNhU2ZJU2FBcklXSnowY1NDWXEtMVN5ZTNMTHNNLXBaQ1U2X1VnOE8wSWs0cDlTNkEtTQ?oc=5",
+        "source": "Oncodaily",
+        "published": "2026-09-14T18:47:15+00:00",
+        "companies": [
+          "Servier"
+        ],
+        "is_oncology": false,
+        "is_press_release": false,
+        "summary": null
+      },
+      {
+        "title": "FILE PHOTO: Bottles of Roundup, a brand owned by Bayer, are seen for sale in a store in Manhattan, New York City",
+        "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNYzlFd21KTGluX0p6S2NVdEZpb00zVUEyd29adVBXQ0lQQWVXSlM2RjdZYmxOZGUwZEwxVWgxVXdxWld1c19ydlM0WEVQMktjN0RoTlBGRGR5bmJ4T3Q2eGQwS2ZFTGZDTE5rbGtoTkkwZDROQTh6NFlrM1c1aktfS2dUUVFTNm9FYk9oc093SmRYMEZpZUZpREZia1F2Qk9jNlFzWjZFUXVUWkEzS2ZYajVNMDg3VXQzSUtnMmVIS0NPSHZGMnFfRVVXUUZMUGl2X1AzOTBBRy15T3ItQjF6RHJERkRzR045MEpOUFgxMnFXTVM2WnUyTm1Xb21lWndV?oc=5",
+        "source": "The Lufkin Daily News",
+        "published": "2026-09-14T18:40:57+00:00",
+        "companies": [
+          "Bayer"
+        ],
+        "is_oncology": false,
+        "is_press_release": false,
+        "summary": null
+      },
+      {
+        "title": "Satralizumab Shows Clinically Meaningful Improvements in TED",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOdVNEWkhFQkpONm5HVUxTSUk4bE1qS3dKblVfZWtCcmVtNkU2d0NDSG5qTHMxTFdPSV9MVmIyWktieENVX0hYV3I0S08zQlE2ejlPbS0xNjZwdFJrU3pqZE9ZWXVOMkRVMUFkZDA4bEpFMXpoMUptZUl1N3B0OGJpQlRIblNLTlFyV3Zia1B1d3F6MnRkZEhaVGdJWnZicTBKRUp6Sw?oc=5",
+        "source": "Review of Optometry",
+        "published": "2026-09-14T17:24:22+00:00",
+        "companies": [
+          "Genentech"
+        ],
+        "is_oncology": false,
+        "is_press_release": false,
+        "summary": null
+      },
+      {
+        "title": "Why Is Gilead Sciences (NASDAQ:GILD) Suddenly Back in Focus?",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxORkpuV2lsQ05PdlpETVBBTHFpRi1RWDRrU0wwUjlkRUFGaXdYY3g2TTNKeE5qT0pfbkZrbVlQSEF2YzczdkN1VXNUVUFWek84eU8wanpDaFVRMTVWMkhMeGN3emVIUEE3NzI5cktpakNQX01PeGZ1SHQ3VzN3WkdXWDFJSDhvdWVWeUJXczdfRkZRcHM5UjlRRTNaUXp1MjdXYWJoVQ?oc=5",
+        "source": "Kalkine Media",
+        "published": "2026-09-14T17:20:00+00:00",
+        "companies": [
+          "Gilead Sciences"
+        ],
+        "is_oncology": false,
+        "is_press_release": false,
+        "summary": null
+      },
+      {
+        "title": "Lilly cans early experimental obesity drug after ‘high bar’ not met",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPalptblZRVkhlazFOVi1jR2VFZDlfbTJ3d09Sc2xuVF9SMjZyOG1aUDNmVmZDejBoY2wxbjFScFZFVGdwRUtOZlUxRHlGQXhuMlFZSFFhRVNLNVVFV1VKeXZlVkJoM2c3VVB1UV90SzNKeGhzM21ydTIyQlBSSGRtTm1XemZJakRnejZ0dU5hMHlzMlRHcGE0UkZ0aU52TjlUbDN2Q19R?oc=5",
+        "source": "Fierce Biotech",
+        "published": "2026-09-14T16:45:25+00:00",
+        "companies": [
+          "Eli Lilly"
+        ],
+        "is_oncology": false,
+        "is_press_release": false,
+        "summary": null
+      },
+      {
+        "title": "Alumna to Speak at Inaugural Speaker Series Event",
+        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNVVlaZTNJOFNsekpwMmlhcFBQVnBac25QTHExaHJPd0JuSEtqdmI2eFI3bkltNkZYOEZIeHJvVUdENDRfMEpSMGNJX1pXeW9XaFBDRVptMTM5OFBocjlrcUxoTHdXOVhlV292YjY5Q3VRQkh2amtXMldDYnlDUXI2cUZjMzBTLVM3M1E?oc=5",
+        "source": "State University of New York at Fredonia",
+        "published": "2026-09-14T16:31:05+00:00",
+        "companies": [
+          "Genentech"
+        ],
+        "is_oncology": false,
+        "is_press_release": false,
+        "summary": null
+      },
+      {
+        "title": "Gilead Sciences Target of Unusually High Options Trading (NASDAQ:GILD)",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPQmVVNTlwMTh0d0w3Sks5RVpGcXJYUEp6U0h6dzhMZXlwc2NJZHFtMGY3REFuVmNFeDZ3X25uLVR2bGdCRzA4c2VjYWZZR3Fwd2U4dlYtWXdHTGNUbWhnU3JrLUNKWVhrTEhsTjVMTEFRN2xpX0d2QWhsN3YtRWNWc180Znp6UEotb25vYXZkY3dHZXFtM3Z2Y1dlcHJNMHBpQjRVUGp4cGhyaV9CQzYyZTFSX0VaVGx2N1R2VFRoM3ZJM2Q4c282NXVn?oc=5",
+        "source": "MarketBeat",
+        "published": "2026-09-14T16:04:48+00:00",
+        "companies": [
+          "Gilead Sciences"
+        ],
+        "is_oncology": false,
+        "is_press_release": false,
+        "summary": null
+      },
+      {
+        "title": "Pfizer Says Major Headwinds Are Easing as Pipeline, Obesity Plans Take Center Stage",
+        "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPcHNuLUYxZThycVlsSVJ2LXZJSnZtOENkNVNPc0NZY2RObzZiSy1zOXlfZ0JnNUpyV2Ewc1MwdFJjMEcxZzVOYXFZNGJIZ1ZfbF9HXzNuUUN2MlV0RG9sRTFtd01fbUxMVjJNSks0Njl1Z2l2dDByRW5OWUl4Wk9TQUFnM1k0SEhVYmhnZkk3Rkk4ZHNGZVNJYVZWbElWalJzMlJMQjFtcTlfUmJhVk91WHBUeElPYWNVYVhzWU9ScEtWV1ZhUUxOWGd6SzFnczliRTlvY0pYTTk3ems?oc=5",
+        "source": "TradingView",
+        "published": "2026-09-14T16:02:35+00:00",
+        "companies": [
+          "Pfizer"
+        ],
+        "is_oncology": false,
+        "is_press_release": false,
+        "summary": null
+      },
+      {
+        "title": "Lead-Deadwood conquers Stanley County 50-0",
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNT2JSU1o2cGhOUGNrZ05PZ3BuMHhQd1ZDLVh2TGlreHk2QVcyZ2NTcXpBRUpSTzhmcWlQUGFlbzd1NU93bGdGNjV1ZnJya3JlVWRYX0tJY2t4NDBqRWNYUWd3TkVjTi1PT0lhRjB6UkVGa2MyZ3FRXzJORnc1TGhmWWdQUDRoSUxtaVpHM21La181UUZHUVgtdFVnLWwxeHJ1Tm1BcGVZWXpJekdlRzB4ODlOS19GZmh2QlRIZU9hN2R3dG9lYjdER3dJOA?oc=5",
+        "source": "Black Hills Pioneer",
+        "published": "2026-09-14T16:00:00+00:00",
+        "companies": [
+          "Janssen"
+        ],
+        "is_oncology": false,
+        "is_press_release": false,
+        "summary": null
+      },
+      {
+        "title": "GSK to wind down German vaccine factory due to lack of demand",
+        "link": "https://endpoints.news/gsk-to-wind-down-german-vaccine-factory-due-to-lack-of-demand/",
+        "source": "Endpoints News",
+        "published": "2026-09-14T15:57:28+00:00",
+        "companies": [
+          "GSK"
+        ],
+        "is_oncology": false,
+        "is_press_release": false,
+        "summary": null
+      },
+      {
+        "title": "AbbVie vs. CRISPR Therapeutics: Which Healthcare Stock Is a Better Buy in 2026?",
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNc0JZd1BIYW9YajRSR1lTVjg5M3pGbTliZk9JT09heUdVWEUyb3oyYVdVeVBaTnpsTThqMGNEbXN4SzhSSEVMWll2cXM2OGdhdy1MS2h4ZzJZbm9aYi1iWDhqR0cwZmR1VlNSNTR3dmNjRTZtbDdvVUlwaUdGUjEyY0w0Y2EtaXFCdTFyTkVvSU9FejVNTndqOHcycVlXSUNfRlhDcEdWcW8yU2RpMmpLLVBERXpENEdhdGQ5QWVYVVR6WEV4TFhiMA?oc=5",
+        "source": "fool.com",
+        "published": "2026-09-14T15:40:00+00:00",
+        "companies": [
+          "AbbVie"
+        ],
+        "is_oncology": false,
+        "is_press_release": false,
+        "summary": null
+      },
+      {
+        "title": "Cellectis Transforming Into In Vivo Gene Editing Company",
+        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE92Mm9KTVg3WWkyR29YMlhkQUJBS3MtZTk4VmZRclhzWHB3ZFpkbEthcU9Ocm9oelBRcTQzTk1XWmVzVUxhMnVyZ0s4cWRldzVQTjAxeEV0U2xLemNOVEkyTU9scUVUdHhRejNzUHl5SUhsa0Njb01weDZ5TQ?oc=5",
+        "source": "Pharmaceutical Executive",
+        "published": "2026-09-14T15:29:35+00:00",
+        "companies": [
+          "Servier"
+        ],
+        "is_oncology": false,
+        "is_press_release": false,
+        "summary": null
+      },
+      {
+        "title": "AbbVie’s Latest Migraine Success Strengthens its Growth Story",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPUmkwQndHTUtjTDFVRjJiYXNRTmEycHJaSUNnWnFqNGw3OUxPZWVrQjJiMHpWMVRtcE9TWEJQQmhBTXpDTE9aRy1nSGgtdTgya3lDZUgtYnctb1JxQThENGNmaTlxZGJjZ05UbmdRMFRlNFVDVWJDUTl6Y2NOMnh5cmJJT0tPb21NTE1VZTZKajlvX0hldm9iVDFUTmpXVVpVcExoNWtR?oc=5",
+        "source": "Yahoo Finance",
+        "published": "2026-09-14T15:00:28+00:00",
+        "companies": [
+          "AbbVie"
+        ],
+        "is_oncology": false,
+        "is_press_release": false,
+        "summary": null
+      },
+      {
+        "title": "Takeda R&D President Andy Plump to Retire in 2027",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOXzJuYnRPSEZzNnFJcVdtZWRtNnhVWHpwejkzckJIaWxsRmE5OExDOEVjWGxVb2ZuOVFYU3dZRXJVbmQ0dFdfSHRtSkpnMnRzbFpldnRMWVNpSGN2UXUzNDNaUmllb3JIb1Nzd1Y2aGZrUjJLbG5abnJMa0NiQi1TSzFSQ1RzWC16bklNdjhLcWtkd1BncnQ5NE9R?oc=5",
+        "source": "Contract Pharma",
+        "published": "2026-09-14T14:45:41+00:00",
+        "companies": [
+          "Takeda"
+        ],
+        "is_oncology": false,
+        "is_press_release": false,
+        "summary": null
+      },
+      {
+        "title": "AbbVie Inc. stock holds Moderate Buy rating as shares trade near 52-week high",
+        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPVWNCVGhOaWJjYS0xZG5kS2JGQkRhQ0tvcnVHXzZXWG1PQzdHMVJ2WGc2TGN3OU91WW1YM0tfOVQ3Sm1keFZ4dTEwWlpzcVhDam91N1lnOE5CZnljNkxfZXkydzdwd1BNTHd5clVIRTM2UWVnVVd1ZnVVLVJYdzlra0MxTmhCRVk2SnNJMEtKREhLYnQ5NWFBSGpYNktsZVFqN0Q5WWxKNHM0WjZNOW5lbEl0T1JhTER1WTlpMG9sNmMxSUNhaW9rS0ZrQkNqdDQ?oc=5",
+        "source": "ad-hoc-news.de",
+        "published": "2026-09-14T14:29:28+00:00",
+        "companies": [
+          "AbbVie"
+        ],
+        "is_oncology": false,
+        "is_press_release": false,
+        "summary": null
+      },
+      {
+        "title": "Citizens reiterates Exelixis stock rating on FDA review extension",
+        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQUHFkNW1mZXY1V0RDTjlzNFhxcWNLNFNhUkNmbjRWc0xXb0ZRdjJrQXVCOFNPSTg0X3NBMXJQOGhLR1o3Q1Awbnh6ck9LV01oOWNYam1JZ2xNbndVaTVESzRJZkowNXdOTzlKZmwxd1ZUOGpPRFVrT2ZJSWEwMnY4aFptRlBoRFVGdk55R0c1ZklMUVR6SzU4TDN0SmhlT1pEM2N2WGJHcnN1em5DS2hsQ3lwa0xrQmRvV2IyV2tFUGZwNC1BaDZ4Qk1BX2twQQ?oc=5",
+        "source": "Investing.com",
+        "published": "2026-09-14T14:26:00+00:00",
+        "companies": [
+          "Exelixis"
+        ],
+        "is_oncology": false,
+        "is_press_release": false,
+        "summary": null
+      },
+      {
+        "title": "When Words Stay Silent: How Sign Language Avatars Are Transforming Access to Medicine",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQdGlGbGhEbG1raHBEREJLUEVSTmtYNE16VmpreklEUGVBMXhTTVV6dFlFMGFqcUt6OTJUMGU1QlExXzkxX2tjZE9TVDZzY2tFbkxERk13TTNhRWhjdXlKQUpJT0RTcFI2X25oYWVSc0pPd0ZCYVpnWDVxT2Z4Q2JPZ2xzUXdnZFBUU1RESTdDREJJX3ZVZktVTkhFeElKTnh3WUw3RWVoTjF4d3QyTW5fWjNR?oc=5",
+        "source": "CSRwire",
+        "published": "2026-09-14T14:18:18+00:00",
+        "companies": [
+          "Boehringer Ingelheim"
+        ],
+        "is_oncology": false,
+        "is_press_release": false,
+        "summary": null
+      },
+      {
+        "title": "Exelixis: Why The 3-Month Delay Is More Negative Than It May Seem (Downgrade)",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMU5tb1gzYkF6a3k4WnZKRDJXMGltRDVBM2Q2MHpUSGpKTTlsR3NDR1Z1UnBOclFPdm9IRGZ2dF9pTEZEczVKdnpiLTRsTTlpczJWTVZYa21oclRYUEg1eTZKTFp2TlNtQTBOZmJyaGpDREVKNlRMSkxPbkp6V0VxSV9SbngzZGtFSUhWb014UkFpU0wyVl9XUXZjNmlkaEJmaHgtVURNU2piT2E5U0U2dEJHWFBEdw?oc=5",
+        "source": "Seeking Alpha",
+        "published": "2026-09-14T14:00:53+00:00",
+        "companies": [
+          "Exelixis"
+        ],
+        "is_oncology": false,
+        "is_press_release": false,
+        "summary": null
+      },
+      {
+        "title": "Preparing for the Roche De Bouf Festival",
+        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9Fanlvd3pISXZDRDgyVXNBMU5wRl9tc1R0UG9DSlpMeTdFUTJWT2ctQ1prZDZlbklYV2MwWEZHR1dtRThEcV9YLVc4S0dKNVB0dXJ4UkNyY3dWV2kzdExWb1RqdDAzcG5FN2JiSkRIMlZIYk4wWU9YTUp0UlY?oc=5",
+        "source": "13abc.com",
+        "published": "2026-09-14T13:53:00+00:00",
+        "companies": [
+          "Roche"
+        ],
+        "is_oncology": false,
+        "is_press_release": false,
+        "summary": null
+      },
+      {
+        "title": "GSK makes ‘difficult decision’ to shutter German flu vaccine manufacturing site",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNdGV0blF5VklsaHlMemw1dFN2VGVlOWJnM1hjWTNsRklLLTJaYkU4RUdCSkZocExILXViWjVmWGNRMDRQNlh0dk9rc2lfbVVJT3k1NGVhOVNHZWI1WEFVYXZPcDV3QWtoYTBWR2xybUl2Y1V3UVIzSDAxeHZ1UGpIQzEyZzdXUm1RbVpFTzdRcUEzLWZuNUtoVmhUSmNnR2ZTYkNwX045RWYzNVlLZ25RSFJaSnd5ZlR3?oc=5",
+        "source": "Fierce Pharma",
+        "published": "2026-09-14T13:46:33+00:00",
+        "companies": [
+          "GSK"
+        ],
+        "is_oncology": false,
+        "is_press_release": false,
+        "summary": null
+      },
+      {
+        "title": "Supercritical Fluid Chromatography: Advances, Applications, and Sustainability",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNV25ITWdjX2RFZjFOeDN3eDFYM0dXQ1c3dk5iQnpjUFEtWFVtRmd6TURNSG5vbTFOSTBVc0c1WHlYc1NVOEZMMUxobHMya2NjUVNpMklQUTZrTnBwTzNSSVhZaWtmLWVQMkhXMlA0bTZLQWdMUHdRdTJZdjRiNFNoTWJnclpPLXI4TWVJblhzbHQ2Ukw1X0RlRmJSaFNGNk5ObnRGTW5rT05hVlRkMWNsTl9oN3dXTHUy?oc=5",
+        "source": "Chromatography Online",
+        "published": "2026-09-14T13:34:15+00:00",
+        "companies": [
+          "Novartis"
+        ],
+        "is_oncology": false,
+        "is_press_release": false,
+        "summary": null
+      },
+      {
+        "title": "Genentech adding new 1.25-million-square-foot R&D center in South City",
+        "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQbFQ1NXVHY3Z0YnBmOTA2MFR1VW5TSEUxUFdNLUFUN1hlV2dfSGhoWThqeWdrek56TDdCeEktRDE3NkJiVFpSVGVWWlF2dHVjWUJ4QVN2emtoWlRMMW5TOVREdG11MnZvNzhQYXloWVBHTGZEckFuMFMtMXFRZ3Fqb3pWVzRENXNIZDFUZC0zdkhINWcwc3RrUWl5cnBYMnJpazN3a2gwcC1zZ3lHVTdmOGlCWTZCd2hpSFctWkdlNFBRV203ZGN2cHoxRC11bFRaV0EzdDVyVzhpZTNrbkRYUC11TDNnQmJYSGhSbjNlbzMzQ01j?oc=5",
+        "source": "San Mateo Daily Journal",
+        "published": "2026-09-14T13:00:00+00:00",
+        "companies": [
+          "Genentech"
+        ],
+        "is_oncology": false,
+        "is_press_release": false,
+        "summary": null
+      },
+      {
+        "title": "Incyte (INCY): 3 Reasons We Love This Stock",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQcTdxZUFTRU1OQmM0RDdmSndidjFhTE8zWHFYNkVReElpZnVUcUY3ZzFva3FJYUZuOFBRSXYta19LcXl1ZFVOSjgtN0xITUdUWUxOV0hwR3hXZHR3QzNSckpnQmdXdkd4aW51cG5BU25sSFRwNDB6dEtTUzRqM01nTldycEYzYUpjSTZDR2pVOVgxLUFTS3c?oc=5",
+        "source": "Yahoo Finance",
+        "published": "2026-09-14T12:59:30+00:00",
+        "companies": [
+          "Incyte"
+        ],
+        "is_oncology": false,
+        "is_press_release": false,
+        "summary": null
+      },
+      {
+        "title": "IDEAYA Biosciences at Morgan Stanley conference: darovasertib leads push By Investing.com",
+        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNcy03emMtYjNkUUlLRzNsYW9rTUd1RE5iemU0bmEtLUpFQW1aVGxfYmcyNFlLNnpXYUhLcEhKTTktNUlDV3JyZ2w1cTNVeURzSnRWMV9MemppaDJIVFpLdjVOZDdiaEkzUlhSOXMzYkxMQVBBY2FWVm52dUtESC04c1ZBMjMtY09hRC1GTE82SllxVXhFckFVcWlOTjR3Y3IwMzBwdEFZVU90VWxGanJuZV9UTU9hRi1YTTRQUUZOci10R3VBWkEyS2k4NWo?oc=5",
+        "source": "Investing.com Canada",
+        "published": "2026-09-14T12:58:40+00:00",
+        "companies": [
+          "IDEAYA Biosciences"
+        ],
+        "is_oncology": false,
+        "is_press_release": false,
+        "summary": null
+      },
+      {
+        "title": "Bayer’s Viconic soybean trait aims to give farmers more weed-control flexibility",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNWmdSS25lbWZuVTctVl9iZXgzRzVtT2swNk10Uzd2WVpIWExUa1JKSldNY0tPdnhhb01hOExOS3BWa0c5Q2dHMmZNdkJLX1FNbENpbkxLeW9aMHA4V0tjSkhNclZvTGNHTEFGZHVQWElMd3JESm45ZlQ0eXlKdWw5U0xoLVI4NmhYNEQxVVM2N2pqeEhkaURNOE5FTk5kRFVEQjBSVmZKVU1MS3NoN0hTN190SHVNMEdHMEE?oc=5",
+        "source": "Brownfield Ag News",
+        "published": "2026-09-14T12:41:05+00:00",
+        "companies": [
+          "Bayer"
+        ],
+        "is_oncology": false,
+        "is_press_release": false,
+        "summary": null
+      },
+      {
+        "title": "The Lessons Chelsea Can Learn From Xabi Alonso’s Early Bayer Leverkusen Struggles",
+        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOOWJ5NHZMQ0FDLUtGNERPOHNPcVZmU2JfcVY0MDNLOWpoU3A3czJBelM2OFBIeDBOZVVpVVZaekltb0FfVWxUbE80MC1oUzlNZ2VQWFJGNDMwclA1UXoxTUQ2cjJvdHFyVUlPNHNxeHRLX2xyQzU4bHBNSm9CMnRIbkNpY0J4OXpDUHhLWkdTZw?oc=5",
+        "source": "Sports Illustrated",
+        "published": "2026-09-14T12:30:00+00:00",
+        "companies": [
+          "Bayer"
+        ],
+        "is_oncology": false,
+        "is_press_release": false,
+        "summary": null
+      },
+      {
+        "title": "CMO of the Week: Genentech’s Zoë Lazarre",
+        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOdTVvc1pfM0FUVWJiSG9ZenhicnZsLXZtVzM5MXVXR3VzVzFtc0JhMUh4alA0SnB0MWJ1YWN4SGxNRnNkVXhZOFlJV3doREFqd0lwRlUtVXVaWHdROTlPaUJYUWc3VzRjRTdtbkxrcGQ3UXBWVFZEYWg5M2NRbEdKVQ?oc=5",
+        "source": "brand-innovators.com",
+        "published": "2026-09-14T12:22:08+00:00",
+        "companies": [
+          "Genentech"
+        ],
+        "is_oncology": false,
+        "is_press_release": false,
+        "summary": null
+      },
+      {
+        "title": "Why Is Bristol-Myers Squibb (NYSE:BMY) Under NYSE Spotlight?",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPaHdHbnVFYzJQYi04bFFXY2lmYnJsN2ZBb3dzLVRrdnpFeUE5NlVVVFNSVWNqWGxvZ0p1UkZKMHJUVkZqMjFFRG1jbVFFLVlrbks0SmZsZzdUaEpYVUd0TTUyZnRrMFpybGdhSWp6YmxjenZhak1lN1RSbktSZkFMbVpfWUFGaXRzZ21ONzRWRDBQRDVGZG1ESEZkS3cxWWZkWjZyVQ?oc=5",
+        "source": "Kalkine Media",
+        "published": "2026-09-14T12:08:00+00:00",
+        "companies": [
+          "Bristol Myers Squibb"
+        ],
+        "is_oncology": false,
+        "is_press_release": false,
+        "summary": null
+      },
+      {
+        "title": "Woman Thrifts 'Stunning' $1,000 Vintage Rug for Only $5, and It Adds So Much Character to Her Home",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOaXBYOTVUYk1VWm9tRjY0RVdqSlFPNnFfMzdJQkN5cm9qdEZyZzBGLWpnZmxMTExmT2RDc1g5V3RVOGFNazIzeFZnUXAxSXRqSkJOQkV3LWE3VTJ0ZjFUTVRTMHJmOVRPXzlHZlhFSVp2eXVEWDRaaW5XYnJzb2taVHFsRi1VMXFoUVNqNWZVUm5yVElTWUU4eXliTVkzUXBCTm9CZ3hweUFkMUNfWDZDdzlJd0RCbjNBSkZZ?oc=5",
+        "source": "Dengarden",
+        "published": "2026-09-14T12:00:00+00:00",
+        "companies": [
+          "Janssen"
+        ],
+        "is_oncology": false,
+        "is_press_release": false,
+        "summary": null
+      },
+      {
+        "title": "Amgen vs. Vertex Pharmaceuticals: Which Healthcare Stock Is a Better Buy in 2026?",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNNGkxeW81My1zcm9FLWlnUmxtaU1nVEFmYnI3Z2lwVWhHZGFxbEQ1ZFAxT2hSRE1PcDRXZHk5TTJDckpVQzBkUldVR0k4b001cmRzRDJHcHpkOTRtNnkySHBoN0VmSS11WUVOMFF0VE0zRjJYeUo2NFotaGtybzQ3c1FDcExoczZmVlZUSTBWWGtOV0NUZkhQcg?oc=5",
+        "source": "Currently.com",
+        "published": "2026-09-14T11:03:45+00:00",
+        "companies": [
+          "Amgen"
+        ],
+        "is_oncology": false,
+        "is_press_release": false,
+        "summary": null
+      },
+      {
+        "title": "Pressure intensifies on Novartis as bolt-on deal strategy faces major test",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNbnd0cXVMU0NxU1UwSW9FZXB5bC12WXpzNG5FemhjUGRnRlZrM2N4b2RzRkJyR1hZZHg3UWl2X0VxQ2lYRHVpRmZaT0VoYmhiSjEwaWZvQS1sSEpjVk5IT0JCXzEzMUpEeFRyeTdGaGlDbGZOUVp2bXY4YVU1M25NblBrVE1Cako2bGhIVXpGQk1jbS1PM2hCN25oOTc2a3F4a0RvbW1NME5xWVUyM2ZaczJfNTB4WU5qUS02eVYyOA?oc=5",
+        "source": "Pharmaceutical Technology",
+        "published": "2026-09-14T10:50:12+00:00",
+        "companies": [
+          "Novartis"
+        ],
+        "is_oncology": false,
+        "is_press_release": false,
+        "summary": null
+      },
+      {
+        "title": "Points and prize money: See what every player won at the Amgen Irish Open",
+        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNeTlTcEJIZFBXZXotSlJqVWZDM09LVEZwbEE3bkhsb0VRNmY1Y0FKU0hEQkNTMkYxeC1nby1hX2JnekVsLTdETl9LN2hyX1VRUXNPdnlHUlFCSjhoTGlKMGlHWU5wV3NkWVJyNDdwMkxoZFk3ZVdrcnJzbDZ4OFltLWx6cl9XN3hPVExkYmtQdGxHemZOcHdvc014Z3o0VzdDdGVuM1BnYUxJbVEzbXVWaDFEajZyQTFSVjFHZEdtV2x3YWJMeTAzT3RCMV9tejJoQ3NWRi1SNFU?oc=5",
+        "source": "DP World Tour",
+        "published": "2026-09-14T09:21:30+00:00",
+        "companies": [
+          "Amgen"
+        ],
+        "is_oncology": false,
+        "is_press_release": false,
+        "summary": null
+      },
+      {
+        "title": "Exelixis, Inc. (EXEL) Stock Analysis: Evaluating Growth Potential Amidst a Competitive Biotech Landscape",
+        "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxObTM5LU9PM2trWHNVQW5Demc5bUlTWks3TlpUSDBvcjM3d3JuRmRtaENIMVkwS1AtWEJDRkpiYXE5aE92Zzk4Nm1JVzhLNm9LcjNaeklsUlAzQXprUWlsUVJRQ2VtRDIxRUkzMDQ5TjExVWZjM2dUdHFLQjhtSWVZVWpJcXVjMEVmUmFnQ3pCdkNITDM2d3FBYVZXdF9KS3Vta1V3dTJHcFFpU2dUaE90R3BZWEVweXRrOFlRWlQtTE5fek1MVlJ1QTJhdWlhR1dqMU05R0ZtbkZTOUJrUE9oVTdSYXk?oc=5",
+        "source": "DirectorsTalk Interviews",
+        "published": "2026-09-14T09:16:45+00:00",
+        "companies": [
+          "Exelixis"
+        ],
+        "is_oncology": false,
+        "is_press_release": false,
+        "summary": null
+      },
+      {
+        "title": "Bristol-Myers Squibb (BMY) Stock Analysis: Exploring Growth Potential in the Biopharma Sector",
+        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQMXMtNmtqUU1POUdqckdGSTJXdHZZUkczTUdwOE5PS1Y4OGI2b3Z5ZDI2V3FVY3NGRm9nc1ltQ1h4aktTLTFvaTZCNEVqQXRHNlVQTnYyMWZwWTFLYmVVVTRrczZYbjNoVkltaDBEaWxJMHNrWlp6TUdCd1ItcnNLbnZzdjc4WEprbFFPYmZTT1NRRFZmR3ZZd28yem5KdG44NjhTWTJGMDZFODVVaUZDdlZRcWl3ZElqUEtEZEZ3VHRaUFR3T2x1dUxxX0ZfWTJ1ZkhLNWtOa3k?oc=5",
+        "source": "DirectorsTalk Interviews",
+        "published": "2026-09-14T09:12:47+00:00",
+        "companies": [
+          "Bristol Myers Squibb"
+        ],
+        "is_oncology": false,
+        "is_press_release": false,
+        "summary": null
+      },
+      {
+        "title": "Gilead Sciences, Inc. (GILD) Stock Analysis: Exploring a 10% Potential Upside with Strong Buy Ratings",
+        "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNTFJzaVI5M1BvMmVzR1dDeFZWQjJQc2NabFVFby1fTkRBWUlwX0swOThKV0ppVUFrMTA1bENVT3YwME96WEMzOGYwZXR1YzdSem9hdzZWWEpsX1Zxd1UtR0FOOVhmUlQwb3YydTVtVG42WlowbVNyZkpNSG5QZGlONTAtTWxROHU0OUVpalJzSFMxOWVYbEE4ZDd5Y3Nhd2ZLMW5xazV4WkpZYmlyQ1lIQk5kZUV0d2w2WG5TYmtYdHZiVGM1ZkdIMW02UkdaOUxHb1RWbm5BWDE0eHpHWUVZ?oc=5",
+        "source": "DirectorsTalk Interviews",
+        "published": "2026-09-14T09:08:19+00:00",
+        "companies": [
+          "Gilead Sciences"
+        ],
+        "is_oncology": false,
+        "is_press_release": false,
+        "summary": null
+      },
+      {
+        "title": "DP World Tour highlights 2026: Amgen Irish Open, Round 3",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNd1RmVlJ3LTc3aHhpd1RTZHI2bnpRQ0xoRnNkSU1uekxvczhBcElCWjFsenpVektfOTJ1SUxWTG5icHY4bnNiRGpzWXRKU3oxZWloTk8xXzNqeUU0bjBDR0d2STBmb05WajlkaXh5UkxVTmppMlAzZnR2UlRvblBZRzZEeGZBVm40cFZuMGw0SFhiTzI4VFNkeVk1WGt6WkxSU0VVQQ?oc=5",
+        "source": "Golf Channel",
+        "published": "2026-09-14T08:47:18+00:00",
+        "companies": [
+          "Amgen"
+        ],
+        "is_oncology": false,
+        "is_press_release": false,
+        "summary": null
+      },
+      {
+        "title": "No more Nordisk as Novo goes it alone amid rebranding push",
+        "link": "https://www.fiercebiotech.com/marketing/no-more-nordisk-novo-goes-it-alone-amid-rebranding-push",
+        "source": "FierceBiotech",
+        "published": null,
+        "companies": [
+          "Eli Lilly"
+        ],
+        "is_oncology": false,
+        "is_press_release": false,
+        "summary": null
+      },
+      {
+        "title": "After FDA nod for novel Cabometyx formulation, analysts predict limited threat to Exelixis",
+        "link": "https://www.fiercepharma.com/pharma/after-fda-nod-novel-cabometyx-formulation-analyst-predicts-limited-threat-exelixis",
+        "source": "FiercePharma",
+        "published": null,
+        "companies": [
+          "Exelixis"
+        ],
+        "is_oncology": false,
+        "is_press_release": false,
+        "summary": null
+      },
+      {
+        "title": "The Oral GLP-1 Tracker: Novo's Wegovy pill, Lilly's Foundayo continue prescription climb",
+        "link": "https://www.fiercepharma.com/pharma/oral-glp-1-tracker-launch-trajectories-lilly-foundayo-novo-wegovy-pill",
+        "source": "FiercePharma",
+        "published": null,
+        "companies": [
+          "Eli Lilly"
+        ],
+        "is_oncology": false,
+        "is_press_release": false,
+        "summary": null
+      }
+    ]
+  },
+  "stocks": [
+    {
+      "key": "abbvie",
+      "name": "AbbVie",
+      "ticker": "ABBV",
+      "ticker_note": null,
+      "status": "public",
+      "note": null,
+      "link": "https://finance.yahoo.com/quote/ABBV",
+      "price": 260.06,
+      "change_pct": -0.65,
+      "prev_close": 261.77,
+      "currency": "USD",
+      "source": "CNBC"
+    },
+    {
+      "key": "amgen",
+      "name": "Amgen",
+      "ticker": "AMGN",
+      "ticker_note": null,
+      "status": "public",
+      "note": null,
+      "link": "https://finance.yahoo.com/quote/AMGN",
+      "price": 376.02,
+      "change_pct": -1.44,
+      "prev_close": 381.5,
+      "currency": "USD",
+      "source": "Nasdaq"
+    },
+    {
+      "key": "bayer",
+      "name": "Bayer",
+      "ticker": "BAYRY",
+      "ticker_note": "ADR",
+      "status": "public",
+      "note": null,
+      "link": "https://finance.yahoo.com/quote/BAYRY",
+      "price": 13.91,
+      "change_pct": -2.52,
+      "prev_close": 14.27,
+      "currency": "USD",
+      "source": "CNBC"
+    },
+    {
+      "key": "bms",
+      "name": "Bristol Myers Squibb",
+      "ticker": "BMY",
+      "ticker_note": null,
+      "status": "public",
+      "note": null,
+      "link": "https://finance.yahoo.com/quote/BMY",
+      "price": 63.52,
+      "change_pct": -0.9,
+      "prev_close": 64.1,
+      "currency": "USD",
+      "source": "CNBC"
+    },
+    {
+      "key": "boehringer",
+      "name": "Boehringer Ingelheim",
+      "ticker": null,
+      "ticker_note": null,
+      "status": "private",
+      "note": "Privately held — not publicly traded",
+      "link": "https://news.google.com/search?q=Boehringer+Ingelheim&hl=en-US&gl=US&ceid=US:en",
+      "price": null,
+      "change_pct": null,
+      "prev_close": null,
+      "currency": "USD",
+      "source": null
+    },
+    {
+      "key": "deciphera",
+      "name": "Deciphera",
+      "ticker": null,
+      "ticker_note": null,
+      "status": "acquired",
+      "note": "Acquired by Ono Pharmaceutical (2024) — no longer publicly traded",
+      "link": "https://news.google.com/search?q=Deciphera&hl=en-US&gl=US&ceid=US:en",
+      "price": null,
+      "change_pct": null,
+      "prev_close": null,
+      "currency": "USD",
+      "source": null
+    },
+    {
+      "key": "exelixis",
+      "name": "Exelixis",
+      "ticker": "EXEL",
+      "ticker_note": null,
+      "status": "public",
+      "note": null,
+      "link": "https://finance.yahoo.com/quote/EXEL",
+      "price": 55.63,
+      "change_pct": -1.03,
+      "prev_close": 56.21,
+      "currency": "USD",
+      "source": "CNBC"
+    },
+    {
+      "key": "genentech",
+      "name": "Genentech",
+      "ticker": "RHHBY",
+      "ticker_note": "via Roche",
+      "status": "subsidiary",
+      "note": "Member of the Roche Group — shows Roche (RHHBY)",
+      "link": "https://finance.yahoo.com/quote/RHHBY",
+      "price": 54.54,
+      "change_pct": -0.47,
+      "prev_close": 54.8,
+      "currency": "USD",
+      "source": "CNBC"
+    },
+    {
+      "key": "gilead",
+      "name": "Gilead Sciences",
+      "ticker": "GILD",
+      "ticker_note": null,
+      "status": "public",
+      "note": null,
+      "link": "https://finance.yahoo.com/quote/GILD",
+      "price": 144.2,
+      "change_pct": -0.95,
+      "prev_close": 145.59,
+      "currency": "USD",
+      "source": "CNBC"
+    },
+    {
+      "key": "gsk",
+      "name": "GSK",
+      "ticker": "GSK",
+      "ticker_note": null,
+      "status": "public",
+      "note": null,
+      "link": "https://finance.yahoo.com/quote/GSK",
+      "price": 49.8,
+      "change_pct": -0.5,
+      "prev_close": 50.05,
+      "currency": "USD",
+      "source": "CNBC"
+    },
+    {
+      "key": "ideaya",
+      "name": "IDEAYA Biosciences",
+      "ticker": "IDYA",
+      "ticker_note": null,
+      "status": "public",
+      "note": null,
+      "link": "https://finance.yahoo.com/quote/IDYA",
+      "price": 37.28,
+      "change_pct": -1.97,
+      "prev_close": 38.03,
+      "currency": "USD",
+      "source": "CNBC"
+    },
+    {
+      "key": "incyte",
+      "name": "Incyte",
+      "ticker": "INCY",
+      "ticker_note": null,
+      "status": "public",
+      "note": null,
+      "link": "https://finance.yahoo.com/quote/INCY",
+      "price": 120.47,
+      "change_pct": -1.41,
+      "prev_close": 122.19,
+      "currency": "USD",
+      "source": "CNBC"
+    },
+    {
+      "key": "janssen",
+      "name": "Janssen",
+      "ticker": "JNJ",
+      "ticker_note": "via J&J",
+      "status": "subsidiary",
+      "note": "J&J's pharmaceutical unit — shows Johnson & Johnson (JNJ)",
+      "link": "https://finance.yahoo.com/quote/JNJ",
+      "price": 261.96,
+      "change_pct": -1.64,
+      "prev_close": 266.32,
+      "currency": "USD",
+      "source": "CNBC"
+    },
+    {
+      "key": "lilly",
+      "name": "Eli Lilly",
+      "ticker": "LLY",
+      "ticker_note": null,
+      "status": "public",
+      "note": null,
+      "link": "https://finance.yahoo.com/quote/LLY",
+      "price": 1144.77,
+      "change_pct": 0.57,
+      "prev_close": 1138.28,
+      "currency": "USD",
+      "source": "CNBC"
+    },
+    {
+      "key": "merck",
+      "name": "Merck & Co.",
+      "ticker": "MRK",
+      "ticker_note": null,
+      "status": "public",
+      "note": "Merck & Co. (US) — maker of Keytruda",
+      "link": "https://finance.yahoo.com/quote/MRK",
+      "price": 143.22,
+      "change_pct": -0.54,
+      "prev_close": 144.0,
+      "currency": "USD",
+      "source": "CNBC"
+    },
+    {
+      "key": "novartis",
+      "name": "Novartis",
+      "ticker": "NVS",
+      "ticker_note": "ADR",
+      "status": "public",
+      "note": null,
+      "link": "https://finance.yahoo.com/quote/NVS",
+      "price": 138.04,
+      "change_pct": -0.68,
+      "prev_close": 138.99,
+      "currency": "USD",
+      "source": "CNBC"
+    },
+    {
+      "key": "pfizer",
+      "name": "Pfizer",
+      "ticker": "PFE",
+      "ticker_note": null,
+      "status": "public",
+      "note": null,
+      "link": "https://finance.yahoo.com/quote/PFE",
+      "price": 27.35,
+      "change_pct": -1.33,
+      "prev_close": 27.72,
+      "currency": "USD",
+      "source": "CNBC"
+    },
+    {
+      "key": "pierre_fabre",
+      "name": "Pierre Fabre",
+      "ticker": null,
+      "ticker_note": null,
+      "status": "private",
+      "note": "Foundation-owned — not publicly traded",
+      "link": "https://news.google.com/search?q=Pierre+Fabre&hl=en-US&gl=US&ceid=US:en",
+      "price": null,
+      "change_pct": null,
+      "prev_close": null,
+      "currency": "USD",
+      "source": null
+    },
+    {
+      "key": "revmed",
+      "name": "Revolution Medicines",
+      "ticker": "RVMD",
+      "ticker_note": null,
+      "status": "public",
+      "note": null,
+      "link": "https://finance.yahoo.com/quote/RVMD",
+      "price": 201.45,
+      "change_pct": -1.78,
+      "prev_close": 205.11,
+      "currency": "USD",
+      "source": "Nasdaq"
+    },
+    {
+      "key": "roche",
+      "name": "Roche",
+      "ticker": "RHHBY",
+      "ticker_note": "ADR",
+      "status": "public",
+      "note": null,
+      "link": "https://finance.yahoo.com/quote/RHHBY",
+      "price": 54.54,
+      "change_pct": -0.47,
+      "prev_close": 54.8,
+      "currency": "USD",
+      "source": "CNBC"
+    },
+    {
+      "key": "servier",
+      "name": "Servier",
+      "ticker": null,
+      "ticker_note": null,
+      "status": "private",
+      "note": "Foundation-owned — not publicly traded",
+      "link": "https://news.google.com/search?q=Servier&hl=en-US&gl=US&ceid=US:en",
+      "price": null,
+      "change_pct": null,
+      "prev_close": null,
+      "currency": "USD",
+      "source": null
+    },
+    {
+      "key": "takeda",
+      "name": "Takeda",
+      "ticker": "TAK",
+      "ticker_note": "ADR",
+      "status": "public",
+      "note": null,
+      "link": "https://finance.yahoo.com/quote/TAK",
+      "price": 18.68,
+      "change_pct": 0.43,
+      "prev_close": 18.6,
+      "currency": "USD",
+      "source": "CNBC"
+    }
+  ],
+  "benchmarks": [
+    {
+      "key": "sp500",
+      "name": "S&P 500",
+      "kind": "index",
+      "note": "Broad U.S. market",
+      "link": "https://finance.yahoo.com/quote/%5EGSPC",
+      "price": 7592.74,
+      "change_pct": -0.36,
+      "prev_close": 7619.98,
+      "currency": "USD",
+      "source": "CNBC"
+    },
+    {
+      "key": "xbi",
+      "name": "XBI",
+      "kind": "etf",
+      "note": "SPDR S&P Biotech ETF",
+      "link": "https://finance.yahoo.com/quote/XBI",
+      "price": null,
+      "change_pct": null,
+      "prev_close": null,
+      "currency": "USD",
+      "source": null
+    }
+  ]
+}
