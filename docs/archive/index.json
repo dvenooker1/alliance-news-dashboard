@@ -1,6 +1,15 @@
 {
   "dates": [
     {
+      "date": "2026-10-05",
+      "counts": {
+        "high": 10,
+        "medium": 15,
+        "low": 255,
+        "total": 280
+      }
+    },
+    {
       "date": "2026-10-01",
       "counts": {
         "high": 10,
