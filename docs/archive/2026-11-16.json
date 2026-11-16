@@ -1,0 +1,646 @@
+{
+  "generated_at_utc": "2026-11-16T19:16:45Z",
+  "generated_at_et": "2026-11-16 02:16 PM EST",
+  "date": "2026-11-16",
+  "classifier": "keyword",
+  "model": null,
+  "counts": {
+    "high": 5,
+    "medium": 2,
+    "low": 0,
+    "total": 7
+  },
+  "news": {
+    "high": [
+      {
+        "title": "Lilly's 14th acquisition of the year is a little-known blood cancer biotech",
+        "link": "https://endpoints.news/lillys-14th-acquisition-of-the-year-is-a-little-known-blood-cancer-biotech/",
+        "source": "Endpoints News",
+        "published": "2026-11-16T14:37:18+00:00",
+        "companies": [
+          "Eli Lilly"
+        ],
+        "is_oncology": true,
+        "is_press_release": false,
+        "summary": null
+      },
+      {
+        "title": "Lilly adds to buyout streak with $1.5B purchase of startup Calytrix",
+        "link": "https://www.biopharmadive.com/news/lilly-calytrix-bio-acquire-deal-myelofibrosis-essential-thrombocythemiaenial-/874719/",
+        "source": "BioPharma Dive",
+        "published": "2026-11-16T12:44:00+00:00",
+        "companies": [
+          "Eli Lilly"
+        ],
+        "is_oncology": true,
+        "is_press_release": false,
+        "summary": null
+      },
+      {
+        "title": "China's $40k CAR-T; Novartis and Biogen strike deals",
+        "link": "https://endpoints.news/car-t-costs-falling-in-china-novartis-and-biogen-strike-deals-obesityweek-readouts/",
+        "source": "Endpoints News",
+        "published": "2026-11-16T16:19:12+00:00",
+        "companies": [
+          "Novartis"
+        ],
+        "is_oncology": true,
+        "is_press_release": false,
+        "summary": null
+      },
+      {
+        "title": "Moderna readies commercial cancer vaccine production ahead of FDA filing",
+        "link": "https://endpoints.news/moderna-readies-commercial-cancer-vaccine-production-ahead-of-fda-filing/",
+        "source": "Endpoints News",
+        "published": "2026-11-13T16:26:47+00:00",
+        "companies": [
+          "Merck & Co."
+        ],
+        "is_oncology": true,
+        "is_press_release": false,
+        "summary": null
+      },
+      {
+        "title": "Gubra CEO gets the quick hook; Ex-HHS official Brett Giroir takes over at cancer biotech",
+        "link": "https://endpoints.news/gubra-ceo-gets-the-quick-hook-ex-hhs-official-brett-giroir-takes-over-at-cancer-biotech/",
+        "source": "Endpoints News",
+        "published": "2026-11-13T12:00:11+00:00",
+        "companies": [
+          "AbbVie",
+          "Boehringer Ingelheim"
+        ],
+        "is_oncology": true,
+        "is_press_release": false,
+        "summary": null
+      }
+    ],
+    "medium": [
+      {
+        "title": "Big-name investors pour $100M into DNA therapeutics developer Seawolf",
+        "link": "https://www.biopharmadive.com/news/seawolf-therapeutics-dna-versant-startup-financing/874465/",
+        "source": "BioPharma Dive",
+        "published": "2026-11-16T10:00:00+00:00",
+        "companies": [
+          "Eli Lilly",
+          "Novartis"
+        ],
+        "is_oncology": false,
+        "is_press_release": false,
+        "summary": null
+      },
+      {
+        "title": "STAT+: Versant, Lilly put $100 million behind new startup aimed at solving one of gene therapy’s thorniest issues",
+        "link": "https://www.statnews.com/2026/11/16/versant-lilly-put-100-million-behind-new-startup-aimed-at-solving-one-of-gene-therapys-thorniest-issues/?utm_campaign=rss",
+        "source": "STAT News",
+        "published": "2026-11-16T10:00:00+00:00",
+        "companies": [
+          "Eli Lilly"
+        ],
+        "is_oncology": false,
+        "is_press_release": false,
+        "summary": null
+      }
+    ],
+    "low": []
+  },
+  "stocks": [
+    {
+      "key": "abbvie",
+      "name": "AbbVie",
+      "ticker": "ABBV",
+      "ticker_note": null,
+      "status": "public",
+      "note": null,
+      "link": "https://finance.yahoo.com/quote/ABBV",
+      "price": 295.18,
+      "change_pct": 0.05,
+      "prev_close": 295.03,
+      "currency": "USD",
+      "source": "CNBC"
+    },
+    {
+      "key": "amgen",
+      "name": "Amgen",
+      "ticker": "AMGN",
+      "ticker_note": null,
+      "status": "public",
+      "note": null,
+      "link": "https://finance.yahoo.com/quote/AMGN",
+      "price": 464.8,
+      "change_pct": -0.19,
+      "prev_close": 465.67,
+      "currency": "USD",
+      "source": "CNBC"
+    },
+    {
+      "key": "bayer",
+      "name": "Bayer",
+      "ticker": "BAYRY",
+      "ticker_note": "ADR",
+      "status": "public",
+      "note": null,
+      "link": "https://finance.yahoo.com/quote/BAYRY",
+      "price": 15.68,
+      "change_pct": 0.13,
+      "prev_close": 15.66,
+      "currency": "USD",
+      "source": "CNBC"
+    },
+    {
+      "key": "bms",
+      "name": "Bristol Myers Squibb",
+      "ticker": "BMY",
+      "ticker_note": null,
+      "status": "public",
+      "note": null,
+      "link": "https://finance.yahoo.com/quote/BMY",
+      "price": 63.12,
+      "change_pct": -0.49,
+      "prev_close": 63.43,
+      "currency": "USD",
+      "source": "CNBC"
+    },
+    {
+      "key": "boehringer",
+      "name": "Boehringer Ingelheim",
+      "ticker": null,
+      "ticker_note": null,
+      "status": "private",
+      "note": "Privately held — not publicly traded",
+      "link": "https://news.google.com/search?q=Boehringer+Ingelheim&hl=en-US&gl=US&ceid=US:en",
+      "price": null,
+      "change_pct": null,
+      "prev_close": null,
+      "currency": "USD",
+      "source": null
+    },
+    {
+      "key": "deciphera",
+      "name": "Deciphera",
+      "ticker": null,
+      "ticker_note": null,
+      "status": "acquired",
+      "note": "Acquired by Ono Pharmaceutical (2024) — no longer publicly traded",
+      "link": "https://news.google.com/search?q=Deciphera&hl=en-US&gl=US&ceid=US:en",
+      "price": null,
+      "change_pct": null,
+      "prev_close": null,
+      "currency": "USD",
+      "source": null
+    },
+    {
+      "key": "exelixis",
+      "name": "Exelixis",
+      "ticker": "EXEL",
+      "ticker_note": null,
+      "status": "public",
+      "note": null,
+      "link": "https://finance.yahoo.com/quote/EXEL",
+      "price": 67.75,
+      "change_pct": -1.81,
+      "prev_close": 69.0,
+      "currency": "USD",
+      "source": "CNBC"
+    },
+    {
+      "key": "genentech",
+      "name": "Genentech",
+      "ticker": "RHHBY",
+      "ticker_note": "via Roche",
+      "status": "subsidiary",
+      "note": "Member of the Roche Group — shows Roche (RHHBY)",
+      "link": "https://finance.yahoo.com/quote/RHHBY",
+      "price": 60.97,
+      "change_pct": 1.11,
+      "prev_close": 60.3,
+      "currency": "USD",
+      "source": "CNBC"
+    },
+    {
+      "key": "gilead",
+      "name": "Gilead Sciences",
+      "ticker": "GILD",
+      "ticker_note": null,
+      "status": "public",
+      "note": null,
+      "link": "https://finance.yahoo.com/quote/GILD",
+      "price": 167.98,
+      "change_pct": -0.06,
+      "prev_close": 168.08,
+      "currency": "USD",
+      "source": "CNBC"
+    },
+    {
+      "key": "gsk",
+      "name": "GSK",
+      "ticker": "GSK",
+      "ticker_note": null,
+      "status": "public",
+      "note": null,
+      "link": "https://finance.yahoo.com/quote/GSK",
+      "price": 50.61,
+      "change_pct": 0.32,
+      "prev_close": 50.45,
+      "currency": "USD",
+      "source": "CNBC"
+    },
+    {
+      "key": "ideaya",
+      "name": "IDEAYA Biosciences",
+      "ticker": "IDYA",
+      "ticker_note": null,
+      "status": "public",
+      "note": null,
+      "link": "https://finance.yahoo.com/quote/IDYA",
+      "price": 30.98,
+      "change_pct": -2.67,
+      "prev_close": 31.83,
+      "currency": "USD",
+      "source": "CNBC"
+    },
+    {
+      "key": "incyte",
+      "name": "Incyte",
+      "ticker": "INCY",
+      "ticker_note": null,
+      "status": "public",
+      "note": null,
+      "link": "https://finance.yahoo.com/quote/INCY",
+      "price": 120.04,
+      "change_pct": -0.77,
+      "prev_close": 120.97,
+      "currency": "USD",
+      "source": "CNBC"
+    },
+    {
+      "key": "janssen",
+      "name": "Janssen",
+      "ticker": "JNJ",
+      "ticker_note": "via J&J",
+      "status": "subsidiary",
+      "note": "J&J's pharmaceutical unit — shows Johnson & Johnson (JNJ)",
+      "link": "https://finance.yahoo.com/quote/JNJ",
+      "price": 283.42,
+      "change_pct": -0.82,
+      "prev_close": 285.75,
+      "currency": "USD",
+      "source": "CNBC"
+    },
+    {
+      "key": "lilly",
+      "name": "Eli Lilly",
+      "ticker": "LLY",
+      "ticker_note": null,
+      "status": "public",
+      "note": null,
+      "link": "https://finance.yahoo.com/quote/LLY",
+      "price": 1441.09,
+      "change_pct": -0.17,
+      "prev_close": 1443.5,
+      "currency": "USD",
+      "source": "CNBC"
+    },
+    {
+      "key": "merck",
+      "name": "Merck & Co.",
+      "ticker": "MRK",
+      "ticker_note": null,
+      "status": "public",
+      "note": "Merck & Co. (US) — maker of Keytruda",
+      "link": "https://finance.yahoo.com/quote/MRK",
+      "price": 146.03,
+      "change_pct": -1.17,
+      "prev_close": 147.76,
+      "currency": "USD",
+      "source": "CNBC"
+    },
+    {
+      "key": "novartis",
+      "name": "Novartis",
+      "ticker": "NVS",
+      "ticker_note": "ADR",
+      "status": "public",
+      "note": null,
+      "link": "https://finance.yahoo.com/quote/NVS",
+      "price": 161.03,
+      "change_pct": 0.33,
+      "prev_close": 160.5,
+      "currency": "USD",
+      "source": "CNBC"
+    },
+    {
+      "key": "pfizer",
+      "name": "Pfizer",
+      "ticker": "PFE",
+      "ticker_note": null,
+      "status": "public",
+      "note": null,
+      "link": "https://finance.yahoo.com/quote/PFE",
+      "price": 28.92,
+      "change_pct": 0.1,
+      "prev_close": 28.89,
+      "currency": "USD",
+      "source": "CNBC"
+    },
+    {
+      "key": "pierre_fabre",
+      "name": "Pierre Fabre",
+      "ticker": null,
+      "ticker_note": null,
+      "status": "private",
+      "note": "Foundation-owned — not publicly traded",
+      "link": "https://news.google.com/search?q=Pierre+Fabre&hl=en-US&gl=US&ceid=US:en",
+      "price": null,
+      "change_pct": null,
+      "prev_close": null,
+      "currency": "USD",
+      "source": null
+    },
+    {
+      "key": "revmed",
+      "name": "Revolution Medicines",
+      "ticker": "RVMD",
+      "ticker_note": null,
+      "status": "public",
+      "note": null,
+      "link": "https://finance.yahoo.com/quote/RVMD",
+      "price": 167.41,
+      "change_pct": -2.83,
+      "prev_close": 172.29,
+      "currency": "USD",
+      "source": "CNBC"
+    },
+    {
+      "key": "roche",
+      "name": "Roche",
+      "ticker": "RHHBY",
+      "ticker_note": "ADR",
+      "status": "public",
+      "note": null,
+      "link": "https://finance.yahoo.com/quote/RHHBY",
+      "price": 60.97,
+      "change_pct": 1.11,
+      "prev_close": 60.3,
+      "currency": "USD",
+      "source": "CNBC"
+    },
+    {
+      "key": "servier",
+      "name": "Servier",
+      "ticker": null,
+      "ticker_note": null,
+      "status": "private",
+      "note": "Foundation-owned — not publicly traded",
+      "link": "https://news.google.com/search?q=Servier&hl=en-US&gl=US&ceid=US:en",
+      "price": null,
+      "change_pct": null,
+      "prev_close": null,
+      "currency": "USD",
+      "source": null
+    },
+    {
+      "key": "takeda",
+      "name": "Takeda",
+      "ticker": "TAK",
+      "ticker_note": "ADR",
+      "status": "public",
+      "note": null,
+      "link": "https://finance.yahoo.com/quote/TAK",
+      "price": 21.62,
+      "change_pct": 0.89,
+      "prev_close": 21.43,
+      "currency": "USD",
+      "source": "CNBC"
+    }
+  ],
+  "benchmarks": [
+    {
+      "key": "sp500",
+      "name": "S&P 500",
+      "kind": "index",
+      "note": "Broad U.S. market",
+      "link": "https://finance.yahoo.com/quote/%5EGSPC",
+      "price": 7424.94,
+      "change_pct": -1.81,
+      "prev_close": 7561.67,
+      "currency": "USD",
+      "source": "CNBC"
+    },
+    {
+      "key": "xbi",
+      "name": "XBI",
+      "kind": "etf",
+      "note": "SPDR S&P Biotech ETF",
+      "link": "https://finance.yahoo.com/quote/XBI",
+      "price": 146.26,
+      "change_pct": -2.85,
+      "prev_close": 150.55,
+      "currency": "USD",
+      "source": "CNBC"
+    }
+  ],
+  "depmap": {
+    "papers": [
+      {
+        "title": "Multi-omics-constrained kinetic models quantify pathway rewiring and predict metabolic vulnerabilities in BRCA1-deficient ovarian cancer",
+        "authors": "Toumpe I, Masid M, Hatzimanikatis V, et al.",
+        "journal": "Cell Syst",
+        "date": "2026-11-13",
+        "link": "https://doi.org/10.1016/j.cels.2026.101781",
+        "is_preprint": false
+      },
+      {
+        "title": "Gallium induces an RNR-associated nucleotide crisis and sensitizes osteosarcoma cells to cisplatin",
+        "authors": "Klavins K, Fan J, Vaska A, et al.",
+        "journal": "",
+        "date": "2026-11-13",
+        "link": "https://doi.org/10.21203/rs.3.rs-11468521/v1",
+        "is_preprint": true
+      },
+      {
+        "title": "A Three-Axis Framework for Therapy Prioritization in MBD4-Deficient Tumors: De-confounded Synthetic Lethality Modeling, Replication-Stress Pharmacology, and PARP1 Trapping Decoupling",
+        "authors": "Kiani F, Kiani A, Nayeem R.",
+        "journal": "",
+        "date": "2026-11-12",
+        "link": "https://doi.org/10.64898/2026.11.10.765519",
+        "is_preprint": true
+      },
+      {
+        "title": "Cross-lineage single-cell and spatial analysis identifies an endothelial NF-kB-CCL2 axis coupled to myeloid IL1B in sarcoma and carcinoma",
+        "authors": "Li S.",
+        "journal": "",
+        "date": "2026-11-12",
+        "link": "https://doi.org/10.21203/rs.3.rs-11035851/v1",
+        "is_preprint": true
+      },
+      {
+        "title": "Geometry based gene-expression signatures detect cancer treatment responders in clinical trials",
+        "authors": "Chachólski W, Ramanujam R.",
+        "journal": "BMC Cancer",
+        "date": "2026-11-10",
+        "link": "https://doi.org/10.1186/s12885-026-17312-4",
+        "is_preprint": false
+      },
+      {
+        "title": "In Vitro Models of Triple-Negative Breast Cancer of Sub-Saharan African Ancestry Suggest &lt;i&gt;BLM&lt;/i&gt;-Centred DNA Damage Repair Dependency and Pevonedistat Sensitivity",
+        "authors": "Pinto RJ, Magalhães AC, Bento CM, et al.",
+        "journal": "Int J Mol Sci",
+        "date": "2026-11-07",
+        "link": "https://doi.org/10.3390/ijms27219980",
+        "is_preprint": false
+      },
+      {
+        "title": "Reciprocal control of genome instability and RNA processing in cancer: Mechanisms and therapeutic opportunities",
+        "authors": "Grieco M, Giugliano F, Guccione E, et al.",
+        "journal": "Sci Adv",
+        "date": "2026-11-06",
+        "link": "https://doi.org/10.1126/sciadv.aei7541",
+        "is_preprint": false
+      },
+      {
+        "title": "MYC primes a paralog synthetic lethality involving the mitochondrial translocase subunits TIMM17A and TIMM17B and N-Acetylaspartate",
+        "authors": "Moyer SM, Ilic N, Gang S, et al.",
+        "journal": "Sci Adv",
+        "date": "2026-11-06",
+        "link": "https://doi.org/10.1126/sciadv.aej2662",
+        "is_preprint": false
+      },
+      {
+        "title": "Gold Nanorod-Based USP8 Inhibition Combined with Photothermal Therapy Enhances Antitumor Efficacy in Gastric Cancer",
+        "authors": "Zheng Q, Wang H, Huang J.",
+        "journal": "Int J Nanomedicine",
+        "date": "2026-11-04",
+        "link": "https://doi.org/10.2147/ijn.s612704",
+        "is_preprint": false
+      },
+      {
+        "title": "Exploration of Low-Abundance Tundrisphaera and Tissue 3-Hydroxybutyric Acid (β-HB) in Gastric Cancer Lymphovascular Invasion: A Multi- Cohort Multi-Omics Study with Clearly Defined Evidence Boundaries",
+        "authors": "Gong J, Wang Q, Wang Z, et al.",
+        "journal": "",
+        "date": "2026-11-04",
+        "link": "https://doi.org/10.21203/rs.3.rs-11345830/v1",
+        "is_preprint": true
+      },
+      {
+        "title": "A validated antibody toolbox for ALS research",
+        "authors": "Ayoubi R, MacDougall EJ, McDowell I, et al.",
+        "journal": "Elife",
+        "date": "2026-11-03",
+        "link": "https://doi.org/10.7554/elife.111349",
+        "is_preprint": false
+      },
+      {
+        "title": "Nanopore sequencing identifies high-frequency somatic structural variations in laryngeal squamous cell carcinoma genomes",
+        "authors": "Liu X, Xia L, Qiao Y, et al.",
+        "journal": "Genome Res",
+        "date": "2026-11-03",
+        "link": "https://doi.org/10.1101/gr.281046.125",
+        "is_preprint": false
+      },
+      {
+        "title": "A RARγ-SMARCA5 chromatin-remodeling axis stabilizes AR luminal programs and opposes lineage plasticity in prostate cancer",
+        "authors": "Wani SA, Hussain S, Mir KB, et al.",
+        "journal": "Nucleic Acids Res",
+        "date": "2026-11-01",
+        "link": "https://doi.org/10.1093/nar/gkag1138",
+        "is_preprint": false
+      },
+      {
+        "title": "RNA-Adjusted TUFM Protein State Captures Mitochondrial Proteome Organization in Lung Adenocarcinoma",
+        "authors": "Weng X, Tang Y, Li Q, et al.",
+        "journal": "J Proteome Res",
+        "date": "2026-11-01",
+        "link": "https://doi.org/10.1021/acs.jproteome.6c00814",
+        "is_preprint": false
+      },
+      {
+        "title": "A KRT17/GATA6 hybrid state marks unique vulnerability to MYC in pancreatic cancer",
+        "authors": "",
+        "journal": "Res Sq",
+        "date": "2026-11-01",
+        "link": "https://europepmc.org/article/PMC/PMC13734278",
+        "is_preprint": false
+      },
+      {
+        "title": "Single-cell transcriptome-wide association analysis reveals epithelial cell-specific genetic susceptibility to colorectal cancer",
+        "authors": "",
+        "journal": "medRxiv",
+        "date": "2026-11-01",
+        "link": "https://europepmc.org/article/PMC/PMC13734162",
+        "is_preprint": false
+      },
+      {
+        "title": "MANF promotes cell fitness and attenuates bortezomib sensitivity in multiple myeloma",
+        "authors": "Huang C, Yu WJ, Rao YX, et al.",
+        "journal": "Transl Oncol",
+        "date": "2026-11-01",
+        "link": "https://doi.org/10.1016/j.tranon.2026.103094",
+        "is_preprint": false
+      },
+      {
+        "title": "TL-iGeneCombo: transfer learning for individual sample specific gene combination effect prediction and selection in cancer cells",
+        "authors": "Gökbağ B, Wang L, Yang C, et al.",
+        "journal": "Bioinformatics",
+        "date": "2026-11-01",
+        "link": "https://doi.org/10.1093/bioinformatics/btag760",
+        "is_preprint": false
+      },
+      {
+        "title": "RHOA Deletion Downregulates CD19 and Promotes Dysfunctional Immune Microenvironments in CAR T-Resistant Large B-cell Lymphomas",
+        "authors": "Newsam AD, Ziccheddu B, Youssfi AA, et al.",
+        "journal": "Blood Cancer Discov",
+        "date": "2026-11-01",
+        "link": "https://doi.org/10.1158/2643-3230.bcd-25-0482",
+        "is_preprint": false
+      },
+      {
+        "title": "Therapy-Persistent Leukemia Is Selectively Vulnerable to SLC23A1 Restoration via Targeting KHSRP",
+        "authors": "Luo Q, Whalen KS, Wu X, et al.",
+        "journal": "Blood Cancer Discov",
+        "date": "2026-11-01",
+        "link": "https://doi.org/10.1158/2643-3230.bcd-26-0030",
+        "is_preprint": false
+      },
+      {
+        "title": "Phosphorylation Protects Oncogenic RAS from LZTR1-Mediated Degradation",
+        "authors": "Zhang L, Bolomsky A, Al-Odat OS, et al.",
+        "journal": "Blood Cancer Discov",
+        "date": "2026-11-01",
+        "link": "https://doi.org/10.1158/2643-3230.bcd-26-0028",
+        "is_preprint": false
+      },
+      {
+        "title": "CDK8 Inhibition Releases the Muscle Differentiation Block in Fusion-Driven Alveolar Rhabdomyosarcoma",
+        "authors": "Zhang S, Engel KL, Fahs A, et al.",
+        "journal": "Cancer Discov",
+        "date": "2026-11-01",
+        "link": "https://doi.org/10.1158/2159-8290.cd-25-1171",
+        "is_preprint": false
+      },
+      {
+        "title": "CDK8 Inhibition Induces Mediator Trapping and Impairment of the EWSR1::FLI1 Transcriptional Program in Ewing Sarcoma",
+        "authors": "McGinnis JH, Wang S, O'Hara RA, et al.",
+        "journal": "Cancer Discov",
+        "date": "2026-11-01",
+        "link": "https://doi.org/10.1158/2159-8290.cd-25-1336",
+        "is_preprint": false
+      },
+      {
+        "title": "Targeting KRAS Codon 13 Mutations Using Direct Combination Approaches in Non-Small Cell Lung Cancer",
+        "authors": "McDaid WJ, Adderley H, d'Arienzo PD, et al.",
+        "journal": "Cancer Discov",
+        "date": "2026-11-01",
+        "link": "https://doi.org/10.1158/2159-8290.cd-25-0884",
+        "is_preprint": false
+      },
+      {
+        "title": "Transcriptomic Profiles Carry Most of the Multi-Omics Signal for Drug Sensitivity Prediction in Cancer Cell Lines: A Cross-Lineage and Independent-Screen Evaluation of Twelve Anticancer Agents",
+        "authors": "Alfawaz SA, Almukadi H, Shinawi T, et al.",
+        "journal": "Cancers (Basel)",
+        "date": "2026-10-30",
+        "link": "https://doi.org/10.3390/cancers18213503",
+        "is_preprint": false
+      }
+    ]
+  }
+}
